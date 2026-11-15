@@ -1,0 +1,6602 @@
+[
+ {
+  "correct": "وقت",
+  "misspelled": "وقڪت",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "شراڪت",
+  "misspelled": "شاراڪت",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "اوريان",
+  "misspelled": "اورزان",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڄاڻ",
+  "misspelled": "ڄياڻ",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "جمهوريت",
+  "misspelled": "جمهفريت",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "پرار",
+  "misspelled": "پرعر",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "سوڪڙ",
+  "misspelled": "سيوڪڙ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "انگريزي",
+  "misspelled": "أنگريزي",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "گورنر",
+  "misspelled": "گويرنر",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "عذاب",
+  "misspelled": "ذاب",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "مددگار",
+  "misspelled": "مددڳار",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "تلاش",
+  "misspelled": "طتلاش",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "اورنگي",
+  "misspelled": "اورنڳي",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "واقعا",
+  "misspelled": "واقاعا",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "کيل",
+  "misspelled": "يکل",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "سفارتخانو",
+  "misspelled": "فسارتخانو",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "وقاص",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "پرائيويٽ",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "برانچ",
+  "misspelled": "برانچظ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "اڇاڻ",
+  "misspelled": "ااڻ",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "نبي",
+  "misspelled": "نڀي",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڊگر",
+  "misspelled": "گڊر",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "اکين",
+  "misspelled": "اکڪن",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڀينرون",
+  "misspelled": "ڀيکرون",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اندروني",
+  "misspelled": "اندوني",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "نڪتو",
+  "misspelled": "نڪت",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "ميٺا",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "اسڪيم",
+  "misspelled": "سڪيم",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "نگران",
+  "misspelled": "نوگران",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "اگر",
+  "misspelled": "اگرٺ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "اهرو",
+  "misspelled": "ءهرو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڏينهن",
+  "misspelled": "ڏينهگ",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "هنيا",
+  "misspelled": "هناي",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "لفافو",
+  "misspelled": "لفءفو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "وهيل",
+  "misspelled": "ضوهيل",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "حالت",
+  "misspelled": "الت",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ادا",
+  "misspelled": "آدا",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "راهه",
+  "misspelled": "راغه",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڀريون",
+  "misspelled": "ڀريوڻ",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "هوئن",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "چنچل",
+  "misspelled": "چنچ",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "سرپرائيز",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "جمع",
+  "misspelled": "جعم",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "کيس",
+  "misspelled": "کيوس",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "پڇو",
+  "misspelled": "پڀو",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪاشي",
+  "misspelled": "ظاشي",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "مسئلو",
+  "misspelled": "مسئو",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ساجهر",
+  "misspelled": "ساجر",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "نيازي",
+  "misspelled": "نيازيي",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "مسرت",
+  "misspelled": "ميسرت",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "ضلع",
+  "misspelled": "ضلوع",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "سمون",
+  "misspelled": "سمبن",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "نبوت",
+  "misspelled": "نٻوت",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "احتجاج",
+  "misspelled": "حتجاج",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "بيتاب",
+  "misspelled": "يبتاب",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "پنجاب",
+  "misspelled": "پنجب",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "جيڏو",
+  "misspelled": "جئڏو",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "گداگر",
+  "misspelled": "گدإگر",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "پوء",
+  "misspelled": "پءو",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "چڪناچور",
+  "misspelled": "چڪنءچور",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "قراري",
+  "misspelled": "قارري",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "چوڌاري",
+  "misspelled": "چوٻڌاري",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "اورت",
+  "misspelled": "اورڦ",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪاڳڙو",
+  "misspelled": "ڪعڳڙو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "هيمبرگ",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "ڊينگهر",
+  "misspelled": "ڊينگر",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ظاهر",
+  "misspelled": "ظار",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "مشتمل",
+  "misspelled": "مستمل",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪيهه",
+  "misspelled": "ڪهيه",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪيش",
+  "misspelled": "قيش",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ٻنيء",
+  "misspelled": "ٻنئء",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪرتوت",
+  "misspelled": "ڪرتؤت",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ناراضي",
+  "misspelled": "ڻاراضي",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "زڪام",
+  "misspelled": "زاڪم",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "دستڪ",
+  "misspelled": "ڏستڪ",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "فقدان",
+  "misspelled": "فقدن",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "امانو",
+  "misspelled": "عمانو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "شهپر",
+  "misspelled": "شحپر",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪوسو",
+  "misspelled": "ڪوسڪو",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "نيرو",
+  "misspelled": "نٻيرو",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "نيست",
+  "misspelled": "حنيست",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪتل",
+  "misspelled": "ڪتلپ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "مفعول",
+  "misspelled": "مفعلو",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "سوراج",
+  "misspelled": "وسراج",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "مڇيء",
+  "misspelled": "مڇء",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "چيڀاٽيل",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "خلافتي",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "اصلوڪو",
+  "misspelled": "اصسوڪو",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اوڀاريون",
+  "misspelled": "اوڀارزيون",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "ننڍن",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "جهڙي",
+  "misspelled": "جهسي",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "فرض",
+  "misspelled": "فروض",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "تاء",
+  "misspelled": "تاءو",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "جمالي",
+  "misspelled": "جمايل",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "پوئلڳي",
+  "misspelled": "پوئلگي",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڀاڪرين",
+  "misspelled": "ڀاڪري",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "اڳهين",
+  "misspelled": "اگهين",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "وفات",
+  "misspelled": "ڊفات",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڏانڊين",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪتل",
+  "misspelled": "ڌتل",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "سانباهو",
+  "misspelled": "ساباهو",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "سرشتي",
+  "misspelled": "سرشيت",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "ڊسمبر",
+  "misspelled": "ڊسمشر",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "بنان",
+  "misspelled": "بناني",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "وقت",
+  "misspelled": "وڦت",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "عينڪ",
+  "misspelled": "عيجنڪ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "سهوليت",
+  "misspelled": "سدوليت",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "نياگرا",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "ڀلوڙ",
+  "misspelled": "ثلوڙ",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ظفر",
+  "misspelled": "ظفري",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "رفتار",
+  "misspelled": "رفتر",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "مضبوط",
+  "misspelled": "مضوبط",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "اڃيو",
+  "misspelled": "اڃئو",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "جباب",
+  "misspelled": "جبإب",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ٻرانگ",
+  "misspelled": "فٻرانگ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "باوجود",
+  "misspelled": "باوجاود",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "آتما",
+  "misspelled": "آثما",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "لياقت",
+  "misspelled": "لياقط",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "عهدو",
+  "misspelled": "عهڏو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ملحد",
+  "misspelled": "ملحدا",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "ويو",
+  "misspelled": "وڀو",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "درمان",
+  "misspelled": "دريمان",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "ڏهائي",
+  "misspelled": "ڏهئي",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڊالرن",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪالم",
+  "misspelled": "ڪاالم",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "گرم",
+  "misspelled": "گمر",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "ناحق",
+  "misspelled": "ضاحق",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "حيدرآباد",
+  "misspelled": "حدرآباد",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "متن",
+  "misspelled": "مطن",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "تنکي",
+  "misspelled": "تنيکي",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "تنطيم",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "سنگ",
+  "misspelled": "نسگ",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "صادق",
+  "misspelled": "صادڪ",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "زلزلو",
+  "misspelled": "زلڙلو",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "چيف",
+  "misspelled": "چف",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "توبچي",
+  "misspelled": "توبچ",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "کاڙڪ",
+  "misspelled": "عکاڙڪ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪندس",
+  "misspelled": "ڪندسا",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "مسجد",
+  "misspelled": "مسج",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "خيالي",
+  "misspelled": "خيوالي",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "افغانستان",
+  "misspelled": "افغانستءن",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "جيڏي",
+  "misspelled": "جييڏ",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "بدران",
+  "misspelled": "بڏران",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "پهريون",
+  "misspelled": "پرهيون",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "امپورٽ",
+  "misspelled": "امپوڑٽ",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اٺوڳ",
+  "misspelled": "اٺوڳز",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "اڪلائي",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "پيٽاڙو",
+  "misspelled": "پيٽءڙو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "کاڏو",
+  "misspelled": "کاڊو",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ٽنهي",
+  "misspelled": "ٽڻهي",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "وڌي",
+  "misspelled": "وڌيي",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "زمانو",
+  "misspelled": "زممانو",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "ٻائيتاليهه",
+  "misspelled": "بائيتاليهه",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اگهور",
+  "misspelled": "اڳهور",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "فرنگ",
+  "misspelled": "فڌنگ",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "مفعولي",
+  "misspelled": "معولي",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "جگر",
+  "misspelled": "جگصر",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "لاٿو",
+  "misspelled": "لاوٿ",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "گهڻي",
+  "misspelled": "گٺڻي",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "سنداس",
+  "misspelled": "سندءس",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪوچڪ",
+  "misspelled": "قوچڪ",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "بحرالعلوم",
+  "misspelled": "بحالعلوم",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "شمسي",
+  "misspelled": "شرمسي",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "سنئون",
+  "misspelled": "سنئونا",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "حاصل",
+  "misspelled": "ئاصل",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪمانڊر",
+  "misspelled": "ڪماغنڊر",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "گانء",
+  "misspelled": "گنء",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ٽئگور",
+  "misspelled": "ٽئڳور",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڏنل",
+  "misspelled": "ڏلن",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "صاحبلوڪ",
+  "misspelled": "صاحبوڪ",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "کوليندي",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "ضعف",
+  "misspelled": "ضعڦ",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": null,
+  "misspelled": "بنتانگ",
+  "error_type": "unknown_not_misspelled",
+  "split": "dev"
+ },
+ {
+  "correct": "اگهي",
+  "misspelled": "اگيه",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪاسبي",
+  "misspelled": "ڪاسيب",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "بيهوش",
+  "misspelled": "بيهاوش",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "فوج",
+  "misspelled": "قوج",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "درپرده",
+  "misspelled": "درپره",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "گلاب",
+  "misspelled": "گالب",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "اجلاس",
+  "misspelled": "اجلسا",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "ويٺي",
+  "misspelled": "يٺي",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "نوح",
+  "misspelled": "نح",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ادب",
+  "misspelled": "ءدب",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "عورت",
+  "misspelled": "غورت",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "امام",
+  "misspelled": "آمام",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ڏاند",
+  "misspelled": "ڏانڏ",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "سمنڊ",
+  "misspelled": "سمفڊ",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اکر",
+  "misspelled": "اکڌر",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "دنيا",
+  "misspelled": "دڻيا",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "مقرر",
+  "misspelled": "مقرار",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "امامت",
+  "misspelled": "اماثت",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "امهات",
+  "misspelled": "اماهت",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "تهذيب",
+  "misspelled": "تذهيب",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "نگهبان",
+  "misspelled": "نگهبانا",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "ڀڏي",
+  "misspelled": "ٽڀڏي",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "جهڪور",
+  "misspelled": "جهڪؤر",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "وڪي",
+  "misspelled": "ووڪي",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "ابڙي",
+  "misspelled": "ابڑي",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "بهادر",
+  "misspelled": "بحادر",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ترسائڻ",
+  "misspelled": "ترسجئڻ",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "مدد",
+  "misspelled": "مدډ",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اڳتي",
+  "misspelled": "اگتي",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "استتار",
+  "misspelled": "اڍتتار",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "حيران",
+  "misspelled": "حئران",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "ظاهري",
+  "misspelled": "ظءهري",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "تباهه",
+  "misspelled": "تبواهه",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪامڻ",
+  "misspelled": "ڪايمڻ",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "وصال",
+  "misspelled": "ؤصال",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "چيٽ",
+  "misspelled": "چيي",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "اخبار",
+  "misspelled": "اخبر",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ٽڪڻ",
+  "misspelled": "ٽڪڻڻ",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "ڀوڳڻ",
+  "misspelled": "ڀؤڳڻ",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "هٽي",
+  "misspelled": "هٽاي",
+  "error_type": "weak_letter",
+  "split": "dev"
+ },
+ {
+  "correct": "نانگو",
+  "misspelled": "ڻانگو",
+  "error_type": "phonetic_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "وياج",
+  "misspelled": "ويجا",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "منتقل",
+  "misspelled": "طمنتقل",
+  "error_type": "insertion",
+  "split": "dev"
+ },
+ {
+  "correct": "تراويح",
+  "misspelled": "تراوي",
+  "error_type": "deletion",
+  "split": "dev"
+ },
+ {
+  "correct": "ايڊيٽوريل",
+  "misspelled": "اڊييٽوريل",
+  "error_type": "transposition",
+  "split": "dev"
+ },
+ {
+  "correct": "ٺهراء",
+  "misspelled": "ٺهزاء",
+  "error_type": "visual_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "واڙيء",
+  "misspelled": "فاڙيء",
+  "error_type": "random_substitution",
+  "split": "dev"
+ },
+ {
+  "correct": "عتاب",
+  "misspelled": "عٻاب",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "اتمچند",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "خلد",
+  "misspelled": "خڌد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٺوڪڻ",
+  "misspelled": "ٺخوڪڻ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "بدلو",
+  "misspelled": "پدلو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "عشق",
+  "misspelled": "رشق",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "غصي",
+  "misspelled": "غصاي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "منسوب",
+  "misspelled": "منسوگ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪري",
+  "misspelled": "قري",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڦرهي",
+  "misspelled": "ڦهري",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اوهان",
+  "misspelled": "إوهان",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تاثر",
+  "misspelled": "تاث",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اها",
+  "misspelled": "اهٽ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مينهن",
+  "misspelled": "ميڻهن",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڀيٽي",
+  "misspelled": "ڀيحٽي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ربيع",
+  "misspelled": "بريع",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "زندگي",
+  "misspelled": "زندي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "احوال",
+  "misspelled": "احال",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بهادري",
+  "misspelled": "بهادرئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "گفتگو",
+  "misspelled": "گفتطگو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪرڙي",
+  "misspelled": "ڪڙري",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "لاڙا",
+  "misspelled": "لڃڙا",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "دوزخ",
+  "misspelled": "دزوخ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ٿيل",
+  "misspelled": "ٿذيل",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "چاندي",
+  "misspelled": "چانډي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "طويل",
+  "misspelled": "طشويل",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "نائب",
+  "misspelled": "نائوب",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "انشاالله",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "اتفاق",
+  "misspelled": "اختفاق",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ديوتائن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ميربحر",
+  "misspelled": "ميحربحر",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اختناق",
+  "misspelled": "اختنق",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "لٿل",
+  "misspelled": "لبل",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ديرپا",
+  "misspelled": "ديرپ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "آراسته",
+  "misspelled": "آراسهت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "آخري",
+  "misspelled": "آحري",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پالش",
+  "misspelled": "پءلش",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اميدوار",
+  "misspelled": "اميدور",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "حاصل",
+  "misspelled": "حراصل",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ولد",
+  "misspelled": "ولڏ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "گهڙيس",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "هڙيئي",
+  "misspelled": "حڙيئي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "روينيو",
+  "misspelled": "رهينيو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حيواني",
+  "misspelled": "حيواي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ملاقات",
+  "misspelled": "معلاقات",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ماڙن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "تفڪر",
+  "misspelled": "تفڪرو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "انهن",
+  "misspelled": "اناهن",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "صليب",
+  "misspelled": "صنليب",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "باديان",
+  "misspelled": "بدايان",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "گلاس",
+  "misspelled": "گلأس",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "زاهدان",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "برس",
+  "misspelled": "برسڦ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "غيرت",
+  "misspelled": "غيت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "گيهه",
+  "misspelled": "گيههي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "طبيعت",
+  "misspelled": "طبيع",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "دوارا",
+  "misspelled": "شوارا",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پوء",
+  "misspelled": "ڱپوء",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "هيل",
+  "misspelled": "هييل",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "هيڏي",
+  "misspelled": "حيڏي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "دامڻ",
+  "misspelled": "داڻم",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سازش",
+  "misspelled": "ساش",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بلڪل",
+  "misspelled": "بلل",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "وڻن",
+  "misspelled": "ڻن",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڏيڻو",
+  "misspelled": "ڏڻو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "امتحان",
+  "misspelled": "امتحن",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ذوالفقار",
+  "misspelled": "ذويلفقار",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سيڙجي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ذوالفقار",
+  "misspelled": "ذوايلفقار",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "پورهيت",
+  "misspelled": "پروهيت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ظلم",
+  "misspelled": "ظلوم",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اڳهين",
+  "misspelled": "ڳهين",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "جيڏانهن",
+  "misspelled": "جڏانهن",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "جمعدار",
+  "misspelled": "جمعدر",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڪندي",
+  "misspelled": "ڪڻدي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيرئي",
+  "misspelled": "ڪييرئي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ويندو",
+  "misspelled": "ونيدو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "مائينر",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڊگهو",
+  "misspelled": "ڊگهوا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "مزاج",
+  "misspelled": "زاج",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ريء",
+  "misspelled": "خيء",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پارليامينٽ",
+  "misspelled": "پارليامعينٽ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "بنجر",
+  "misspelled": "بنر",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "چلت",
+  "misspelled": "چلب",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ضلعو",
+  "misspelled": "للعو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جيان",
+  "misspelled": "جياڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نصيحت",
+  "misspelled": "نصيح",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سٿرائي",
+  "misspelled": "سٿراي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "وجهڻ",
+  "misspelled": "وڻهڻ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "قرباني",
+  "misspelled": "قرشباني",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڦيرائڻ",
+  "misspelled": "ڦيرعئڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سڀان",
+  "misspelled": "ثڀان",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مشڪ",
+  "misspelled": "مذڪ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سيوا",
+  "misspelled": "سييوا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڪرندڙ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "گراف",
+  "misspelled": "گرهاف",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "صدا",
+  "misspelled": "صداڦ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "پرائمري",
+  "misspelled": "پرئمري",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "انگل",
+  "misspelled": "اڻگل",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پنج",
+  "misspelled": "پڻج",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "خاطريون",
+  "misspelled": "خاطريونئ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "انل",
+  "misspelled": "أنل",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وڙائتو",
+  "misspelled": "وڙٿائتو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "فقير",
+  "misspelled": "فڪير",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نياء",
+  "misspelled": "نيعء",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "موقعي",
+  "misspelled": "موقذي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "بڪت",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مينهن",
+  "misspelled": "ميينهن",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "کوهي",
+  "misspelled": "کويه",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڏکويلن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "حڪومت",
+  "misspelled": "حومت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "مهراڻ",
+  "misspelled": "مراڻ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "کائي",
+  "misspelled": "کايئي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "همدم",
+  "misspelled": "همدما",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "قيدخانو",
+  "misspelled": "قيدخاو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڊپلوميٽڪ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "زنده",
+  "misspelled": "زندء",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جلوس",
+  "misspelled": "لجوس",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مباحثو",
+  "misspelled": "مباحثوٽ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اچار",
+  "misspelled": "اچاس",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بهرحال",
+  "misspelled": "ٻهرحال",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نظام",
+  "misspelled": "نظئام",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪوٺاري",
+  "misspelled": "ڪٺواري",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ٿاڻو",
+  "misspelled": "ٿاو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ايثال",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڌارين",
+  "misspelled": "ڌايرين",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ترتر",
+  "misspelled": "رتر",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "معذور",
+  "misspelled": "معذر",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "بنارس",
+  "misspelled": "بنار",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ٺڙڪا",
+  "misspelled": "ٺپڙڪا",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "عادت",
+  "misspelled": "عاتد",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اطلاع",
+  "misspelled": "اطلعع",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مسيح",
+  "misspelled": "مسيه",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "امتناع",
+  "misspelled": "امنتاع",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "حصو",
+  "misspelled": "ڇصو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪوڙهه",
+  "misspelled": "ڪوڙقه",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٻڪرو",
+  "misspelled": "ٻڪرفو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "سگهڙ",
+  "misspelled": "شگهڙ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ملوڪ",
+  "misspelled": "ڱلوڪ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "موجب",
+  "misspelled": "موب",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "يقيني",
+  "misspelled": "يڍيني",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڀنگ",
+  "misspelled": "ڀنط",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "فلسفو",
+  "misspelled": "فلصفو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وال",
+  "misspelled": "واکل",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "حصي",
+  "misspelled": "حصيا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "علي",
+  "misspelled": "لعي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سڀڪجهه",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مٽيء",
+  "misspelled": "مٽيع",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "عينڪ",
+  "misspelled": "عيڪ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "غيرحاضر",
+  "misspelled": "غيرحاض",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪهڙو",
+  "misspelled": "ڪهڙؤ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تنگدلي",
+  "misspelled": "تنگديل",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سلطاني",
+  "misspelled": "سلطأني",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "لکن",
+  "misspelled": "لکعن",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "استسقا",
+  "misspelled": "استسا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اعلان",
+  "misspelled": "عالان",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڀروسو",
+  "misspelled": "ڀرڏسو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ايقان",
+  "misspelled": "يقان",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اڪيلائي",
+  "misspelled": "اڪيلاچي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ساڳو",
+  "misspelled": "ساوڳ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "پهلودار",
+  "misspelled": "پهلدار",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "جوٽيون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سندري",
+  "misspelled": "رسندري",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪهڻي",
+  "misspelled": "کهڻي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آثار",
+  "misspelled": "ثآار",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڪئين",
+  "misspelled": "جڪئين",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "آئسڪريم",
+  "misspelled": "آسڪريم",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "پرنسيپال",
+  "misspelled": "پرنيپال",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "قومپرست",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڪلمن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "پلاسٽڪ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "پراڪرت",
+  "misspelled": "پرارت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ويندو",
+  "misspelled": "وضيندو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "پرهياڙ",
+  "misspelled": "پرهياشڙ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "سهتو",
+  "misspelled": "سهاتو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڀيٽا",
+  "misspelled": "ڀيٽاو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "گهات",
+  "misspelled": "گهعت",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چالو",
+  "misspelled": "چالوا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "محمد",
+  "misspelled": "محڊمد",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "جنگ",
+  "misspelled": "جنڳ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "شرع",
+  "misspelled": "شرغ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بچائڻ",
+  "misspelled": "بچاڻئ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مهتمم",
+  "misspelled": "خهتمم",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪماري",
+  "misspelled": "ڪمءري",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چوڌاري",
+  "misspelled": "چڌاري",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "امام",
+  "misspelled": "ڍمام",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اڳواٽ",
+  "misspelled": "أڳواٽ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ديس",
+  "misspelled": "ديص",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "شاداب",
+  "misspelled": "شادب",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "صحيفو",
+  "misspelled": "صحيف",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "امام",
+  "misspelled": "اامم",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "رجوع",
+  "misspelled": "روجع",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ٽيڪن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "جلائو",
+  "misspelled": "جلائٽ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سندس",
+  "misspelled": "نسدس",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "وڪيلن",
+  "misspelled": "وڪلن",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اڌما",
+  "misspelled": "اڌمقا",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مصدق",
+  "misspelled": "تمصدق",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اصغر",
+  "misspelled": "اصيغر",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "نزهت",
+  "misspelled": "نهزت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "زلزلو",
+  "misspelled": "زلزل",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "موڪل",
+  "misspelled": "مومڪل",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "دوارڪا",
+  "misspelled": "دوآرڪا",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مخلوط",
+  "misspelled": "مخلطو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "پاه",
+  "misspelled": "پاح",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آڪٽوبر",
+  "misspelled": "آڪٽسبر",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مبادلو",
+  "misspelled": "مابدلو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "هوندي",
+  "misspelled": "ٻهوندي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مفيد",
+  "misspelled": "مفي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڳڻيون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڊبل",
+  "misspelled": "ڊٻل",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "زهريلو",
+  "misspelled": "زهريل",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اتاهون",
+  "misspelled": "تاهون",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "تعلق",
+  "misspelled": "طعلق",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ناگوار",
+  "misspelled": "ناڳوار",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پهچائي",
+  "misspelled": "هچائي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "مضمون",
+  "misspelled": "مضموڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "همت",
+  "misspelled": "هتم",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڇوڪري",
+  "misspelled": "ڇوضري",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "موتمار",
+  "misspelled": "موتما",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "تمام",
+  "misspelled": "متام",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سربراه",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ٺونشو",
+  "misspelled": "ٺوڻشو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڀرجي",
+  "misspelled": "ڀراجي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڪنهن",
+  "misspelled": "ڪنهڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جهنڊ",
+  "misspelled": "جهڊ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪارائتو",
+  "misspelled": "کارائتو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آڏتوار",
+  "misspelled": "آڏتور",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "مورک",
+  "misspelled": "حمورک",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڀوڄراج",
+  "misspelled": "ڀڄراج",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "پائبو",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ناڪاره",
+  "misspelled": "نڪاره",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "پيرايه",
+  "misspelled": "پيراياه",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سنوارين",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مڃڻ",
+  "misspelled": "موڃڻ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "پالڻهار",
+  "misspelled": "فپالڻهار",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪرت",
+  "misspelled": "ڪارت",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ملائڪ",
+  "misspelled": "لمائڪ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "خريد",
+  "misspelled": "خرزد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "وائڙائپ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "آسڻ",
+  "misspelled": "آصسڻ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مهذب",
+  "misspelled": "محذب",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سمهارڻ",
+  "misspelled": "سمهوارڻ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "چارج",
+  "misspelled": "چاجر",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "پنجيتاليهه",
+  "misspelled": "پنجيتالهه",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "برقي",
+  "misspelled": "ٻرقي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "همراه",
+  "misspelled": "همراها",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "راهه",
+  "misspelled": "رصاهه",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "حساب",
+  "misspelled": "حسٻب",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "محسوس",
+  "misspelled": "محسطس",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تاليف",
+  "misspelled": "تاليڦ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "طاقت",
+  "misspelled": "طقات",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "قميص",
+  "misspelled": "قميڄ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اشارا",
+  "misspelled": "اشڇارا",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "صورت",
+  "misspelled": "صورط",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بغاوت",
+  "misspelled": "باوت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اها",
+  "misspelled": "اهث",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ديوانو",
+  "misspelled": "ديؤانو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رشوت",
+  "misspelled": "ڑشوت",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "هيٺون",
+  "misspelled": "هثيٺون",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "غزنوي",
+  "misspelled": "غزنوڦ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "چشتيه",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "گدا",
+  "misspelled": "گيدا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڀٽا",
+  "misspelled": "ڀٽئا",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "انڪار",
+  "misspelled": "انقار",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌي",
+  "misspelled": "نڌي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "رام",
+  "misspelled": "رڦام",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "قلندر",
+  "misspelled": "قلندرا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ترڪيب",
+  "misspelled": "تڪريب",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "توڪل",
+  "misspelled": "تولڪ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اونچائي",
+  "misspelled": "يونچائي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "صدي",
+  "misspelled": "دصي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڪارا",
+  "misspelled": "ڪارإ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "انڪشاف",
+  "misspelled": "انڪشڏف",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "فتنو",
+  "misspelled": "فنو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "تعليم",
+  "misspelled": "تعلبم",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "خزان",
+  "misspelled": "نخزان",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "دوري",
+  "misspelled": "دورق",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٿيڻ",
+  "misspelled": "يٿڻ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "متوقع",
+  "misspelled": "متوق",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "مڙهي",
+  "misspelled": "مڙحي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تدريس",
+  "misspelled": "تدرس",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اوطاق",
+  "misspelled": "اطاق",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "مادام",
+  "misspelled": "مادإم",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تهمت",
+  "misspelled": "تمت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سگهو",
+  "misspelled": "سعگهو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "هرگز",
+  "misspelled": "هرگطز",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "پشيمان",
+  "misspelled": "پشيمءن",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "قبائلي",
+  "misspelled": "قپائلي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "فارمن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "معاهدو",
+  "misspelled": "موعاهدو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ضابطو",
+  "misspelled": "ضءبطو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مجهول",
+  "misspelled": "مجهؤل",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سرگرم",
+  "misspelled": "سارگرم",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "خوشبودار",
+  "misspelled": "خوشبودا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "معرفت",
+  "misspelled": "معرفط",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڇڙواڳي",
+  "misspelled": "ڇٺواڳي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بلوچ",
+  "misspelled": "دلوچ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بري",
+  "misspelled": "برئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چونڊڻ",
+  "misspelled": "چونچڊڻ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مفرح",
+  "misspelled": "مقرح",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڏيارائي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڇپبا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مرض",
+  "misspelled": "مض",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سونو",
+  "misspelled": "سونؤ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪلدار",
+  "misspelled": "ڪلډار",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رضا",
+  "misspelled": "رضاٺ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "چوڪسي",
+  "misspelled": "وڪسي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "حرڪت",
+  "misspelled": "حرڌت",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رئڻهارڪو",
+  "misspelled": "رئڻهرڪو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "تصوير",
+  "misspelled": "تڳوير",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نشان",
+  "misspelled": "نشءن",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وسڪارو",
+  "misspelled": "سڪارو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سگهڻ",
+  "misspelled": "سهگڻ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ويڙهي",
+  "misspelled": "يوڙهي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ابوالحسن",
+  "misspelled": "ابوالحس",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "دلي",
+  "misspelled": "دلئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اچي",
+  "misspelled": "اڄچي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "برسيم",
+  "misspelled": "ربسيم",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "رودناڻي",
+  "misspelled": "رودڻاڻي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جدا",
+  "misspelled": "ٽجدا",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "داد",
+  "misspelled": "ڏاد",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "جهليم",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڦرندو",
+  "misspelled": "ڦرنڎو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "باقيات",
+  "misspelled": "باڦيات",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڪلينڪون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "پرڌان",
+  "misspelled": "پرڌا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "پکين",
+  "misspelled": "پکني",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "نانگ",
+  "misspelled": "طانگ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "گره",
+  "misspelled": "گطه",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "رينن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "اسپتال",
+  "misspelled": "اسپتل",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "هينري",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "استقامت",
+  "misspelled": "اسجقامت",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "مٿال",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "تان",
+  "misspelled": "تانو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اور",
+  "misspelled": "اورح",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "گيگا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "بيهوش",
+  "misspelled": "بيوش",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اسٽيٽ",
+  "misspelled": "اثٽيٽ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "متعلم",
+  "misspelled": "متعمل",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "فيصلو",
+  "misspelled": "فيثلو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "دوا",
+  "misspelled": "ڏوا",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تلاوت",
+  "misspelled": "تلات",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ننڍ",
+  "misspelled": "نڀنڍ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "منسوب",
+  "misspelled": "عمنسوب",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڪاماري",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "کيس",
+  "misspelled": "کيص",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مها",
+  "misspelled": "مهاو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ايڏي",
+  "misspelled": "ايڏوي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ٽڙي",
+  "misspelled": "ٽڙمي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مارڻ",
+  "misspelled": "ماڻر",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "مئنيجمينٽ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "اضعف",
+  "misspelled": "شضعف",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اوريان",
+  "misspelled": "اورياڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بشاش",
+  "misspelled": "بشش",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪٽهڙو",
+  "misspelled": "ڪٽهڙؤ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رودناڻي",
+  "misspelled": "رودنءڻي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مارواڙ",
+  "misspelled": "ماروأڙ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "منگ",
+  "misspelled": "متنگ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "گوارا",
+  "misspelled": "وگارا",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "لطيف",
+  "misspelled": "لطي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "پوتڙو",
+  "misspelled": "پتڙو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "جاهل",
+  "misspelled": "جاله",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ورتمان",
+  "misspelled": "ورمان",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڀرائڻ",
+  "misspelled": "ڀرائن",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٻورا",
+  "misspelled": "ٻورع",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اکرن",
+  "misspelled": "عکرن",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڏيڻ",
+  "misspelled": "ديڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اباڻا",
+  "misspelled": "ابااڻ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "گئي",
+  "misspelled": "گئيب",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "جهڪاء",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "بگهڙ",
+  "misspelled": "بگمهڙ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "طيب",
+  "misspelled": "طييب",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "مددگار",
+  "misspelled": "مددگاث",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "طاقت",
+  "misspelled": "ظاقت",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جيان",
+  "misspelled": "يجان",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڪمپني",
+  "misspelled": "ڪمپڻي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پنجابي",
+  "misspelled": "پنڃابي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پورهيت",
+  "misspelled": "پورهيط",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وزارت",
+  "misspelled": "وزارتڏ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "عليء",
+  "misspelled": "ءليء",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "گمسان",
+  "misspelled": "گمسن",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سيره",
+  "misspelled": "سئره",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آماج",
+  "misspelled": "آمج",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "پويون",
+  "misspelled": "ٿويون",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سوچ",
+  "misspelled": "وسچ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "رشن",
+  "misspelled": "رنش",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "جماڻ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "خلاف",
+  "misspelled": "لخاف",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "هندستان",
+  "misspelled": "ندستان",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڀاڱو",
+  "misspelled": "ڀڱو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "علماء",
+  "misspelled": "علمء",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "مسيح",
+  "misspelled": "مسيڃ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ارپڻ",
+  "misspelled": "اپڻ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "شيدائي",
+  "misspelled": "شيدئاي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مضمون",
+  "misspelled": "ضمضمون",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "گهوٽڪي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "پرايم",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "پڙهبي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "بيٺو",
+  "misspelled": "بصٺو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "نجاشيء",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "تواريخ",
+  "misspelled": "ٻواريخ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ليٽي",
+  "misspelled": "ليٽلي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "سونهن",
+  "misspelled": "سواهن",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ضدي",
+  "misspelled": "ضي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "خدشو",
+  "misspelled": "ڱدشو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "گستاخ",
+  "misspelled": "گستخ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "خلقيندڙ",
+  "misspelled": "خلقينڙد",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ٽڙي",
+  "misspelled": "ڙٽي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڪستور",
+  "misspelled": "ڪجتور",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جابر",
+  "misspelled": "جابرص",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ٿئيٽر",
+  "misspelled": "ٿييٽر",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "قباحت",
+  "misspelled": "قبإحت",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چتائڻ",
+  "misspelled": "چتاڻ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ٽين",
+  "misspelled": "جٽين",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "برابر",
+  "misspelled": "برءبر",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "جڳاڙ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "مڙهيون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سياح",
+  "misspelled": "سيح",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "گيلن",
+  "misspelled": "يلن",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بدلائڻ",
+  "misspelled": "بدلايڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آخر",
+  "misspelled": "آخن",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سبطين",
+  "misspelled": "سطبين",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ظالم",
+  "misspelled": "ظعلم",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حصيدار",
+  "misspelled": "حصيدا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪچهري",
+  "misspelled": "ڪچحري",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اگهن",
+  "misspelled": "اهگن",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "اٽليء",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مروت",
+  "misspelled": "رمروت",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "عباسي",
+  "misspelled": "عابسي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "باقاعده",
+  "misspelled": "باقاغده",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حقيقي",
+  "misspelled": "قيقي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "رولاڪ",
+  "misspelled": "چولاڪ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نائب",
+  "misspelled": "نائاب",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ٻيڙيء",
+  "misspelled": "يڙيء",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اسسٽنٽ",
+  "misspelled": "سسٽنٽ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ملائڪ",
+  "misspelled": "ملئڪ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اڻهوند",
+  "misspelled": "اهوند",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "شڪار",
+  "misspelled": "شقار",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سندي",
+  "misspelled": "سندئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٺپرڻ",
+  "misspelled": "ٺپرڻا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "دفتري",
+  "misspelled": "لدفتري",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪارب",
+  "misspelled": "ڪآرب",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڀڙوچ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "وسنهه",
+  "misspelled": "وصنهه",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڳاڙها",
+  "misspelled": "ڳاسڙها",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "تماشبين",
+  "misspelled": "تامشبين",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ٻارنهن",
+  "misspelled": "ٻارننه",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "نعرو",
+  "misspelled": "نرعو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ابوالهول",
+  "misspelled": "ابوالهوء",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مهري",
+  "misspelled": "مهراي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "موٽرسائيڪل",
+  "misspelled": "موٽرسايئڪل",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سوشلسٽ",
+  "misspelled": "سڊشلسٽ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪنور",
+  "misspelled": "ڄڪنور",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "صدري",
+  "misspelled": "ثدري",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ترڪڻ",
+  "misspelled": "ترڪيڻ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "خاموش",
+  "misspelled": "خاموچ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "خبرون",
+  "misspelled": "خبروڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "درگاهه",
+  "misspelled": "درغاهه",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "تحريرون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ميرزا",
+  "misspelled": "مريزا",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "عمل",
+  "misspelled": "غمل",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تفصيل",
+  "misspelled": "تفثيل",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "واڪ",
+  "misspelled": "وأڪ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سومر",
+  "misspelled": "صومر",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تيستائين",
+  "misspelled": "تيستائيڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڌاري",
+  "misspelled": "ڌاڑي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "لڪير",
+  "misspelled": "ڙڪير",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڀينرون",
+  "misspelled": "ينرون",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "تازو",
+  "misspelled": "تاوز",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڌمڪائڻ",
+  "misspelled": "ڌمڪئڻ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڊيڊلائين",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڪمپني",
+  "misspelled": "ڪمپن",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "لکئي",
+  "misspelled": "لکئ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڏکڻ",
+  "misspelled": "ډکڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "عيان",
+  "misspelled": "عيا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "دنگئي",
+  "misspelled": "ڌنگئي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اعصاب",
+  "misspelled": "اعصب",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "مصطفي",
+  "misspelled": "مسطفي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تدارڪ",
+  "misspelled": "تڏارڪ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ايندي",
+  "misspelled": "اويندي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيو",
+  "misspelled": "ڪييو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "چئن",
+  "misspelled": "ئچن",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مند",
+  "misspelled": "مناد",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "هنڌ",
+  "misspelled": "هڻڌ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چؤڌاري",
+  "misspelled": "چؤڌءري",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تسلي",
+  "misspelled": "تسل",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "جلائي",
+  "misspelled": "جلايي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وڌائي",
+  "misspelled": "وڌايئ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "وتو",
+  "misspelled": "وتوي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "الله",
+  "misspelled": "اللح",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڄاتي",
+  "misspelled": "ڄايت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سواء",
+  "misspelled": "سواءا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "تاڪين",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڀرت",
+  "misspelled": "ڀٺرت",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مساوي",
+  "misspelled": "مساويي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "کارائي",
+  "misspelled": "کأرائي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وهنجڻ",
+  "misspelled": "وهڱجڻ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "کوسو",
+  "misspelled": "کوصو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڀانڊي",
+  "misspelled": "ڀءنڊي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اذان",
+  "misspelled": "اذاان",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "پرچائي",
+  "misspelled": "پرچايي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڳوٺ",
+  "misspelled": "ڳويٺ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڀونگر",
+  "misspelled": "ڀونڳر",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڌنار",
+  "misspelled": "ڌظنار",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "چڙهي",
+  "misspelled": "ڙهي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "چترا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "متحرڪ",
+  "misspelled": "متحرک",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سليمت",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سستائي",
+  "misspelled": "شستائي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حڪمت",
+  "misspelled": "حڪمط",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ابدي",
+  "misspelled": "أبدي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "عورت",
+  "misspelled": "عوست",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پشاور",
+  "misspelled": "پشاوور",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اوڍڻ",
+  "misspelled": "اوڻڍ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "وار",
+  "misspelled": "واڑ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "قيمت",
+  "misspelled": "يقمت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "جيڪا",
+  "misspelled": "جيحا",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اختيار",
+  "misspelled": "إختيار",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڳالهائڻو",
+  "misspelled": "ڳالهائڍڻو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "خطرو",
+  "misspelled": "حطرو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پارائي",
+  "misspelled": "پارائ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ورٿ",
+  "misspelled": "ؤرٿ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "واري",
+  "misspelled": "وااري",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "شنوائي",
+  "misspelled": "شڻوائي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڊگهي",
+  "misspelled": "گڊهي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "بلغمي",
+  "misspelled": "ٻلغمي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چوڪ",
+  "misspelled": "ٽچوڪ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "آيا",
+  "misspelled": "آيء",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نصب",
+  "misspelled": "ڻصب",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تمدن",
+  "misspelled": "تمدف",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رنگ",
+  "misspelled": "رنگص",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "فرد",
+  "misspelled": "فرود",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "شاگردي",
+  "misspelled": "شاڙگردي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "منحصر",
+  "misspelled": "ڃمنحصر",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مالڪي",
+  "misspelled": "مالڪڏ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڏاهاڻي",
+  "misspelled": "ڏإهاڻي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "لاء",
+  "misspelled": "لاع",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مينهن",
+  "misspelled": "مينزن",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نقاد",
+  "misspelled": "قناد",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سنديلا",
+  "misspelled": "سنديکا",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اختياريء",
+  "misspelled": "ختياريء",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ضلع",
+  "misspelled": "ضلغ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "احمد",
+  "misspelled": "احئد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اٽي",
+  "misspelled": "اٽگي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "عدالت",
+  "misspelled": "غدالت",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ملائي",
+  "misspelled": "ملائ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "وارن",
+  "misspelled": "وعرن",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪمزور",
+  "misspelled": "قمزور",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڳولا",
+  "misspelled": "ڳولء",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڌڌڪو",
+  "misspelled": "ذڌڪو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "پريزائيڊنگ",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "پهريون",
+  "misspelled": "پهرئون",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تاني",
+  "misspelled": "تايني",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ٽنبيل",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "معلوم",
+  "misspelled": "معلوڀم",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "انڪشاف",
+  "misspelled": "انشڪاف",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڪمپني",
+  "misspelled": "مڪپني",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "خضاب",
+  "misspelled": "ضخاب",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "حمزه",
+  "misspelled": "حمهز",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڀاڄوڪڙ",
+  "misspelled": "ڀڄوڪڙ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ماهوار",
+  "misspelled": "ماهواور",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڪجهه",
+  "misspelled": "ڊڪجهه",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اطمينان",
+  "misspelled": "اطمينوان",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "بجار",
+  "misspelled": "بثار",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مٽائڻ",
+  "misspelled": "مٽائک",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وهائي",
+  "misspelled": "ؤهائي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "قدر",
+  "misspelled": "دقر",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ليڪچرس",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مقصد",
+  "misspelled": "مقصڏ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بنواس",
+  "misspelled": "ڀبنواس",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "دوران",
+  "misspelled": "دورأن",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حساس",
+  "misspelled": "حسسا",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ٻڌائبي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "خوب",
+  "misspelled": "خؤب",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نصيحت",
+  "misspelled": "نصحت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سنئون",
+  "misspelled": "سڻئون",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مڙدو",
+  "misspelled": "کڙدو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "قومي",
+  "misspelled": "قموي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مشتمل",
+  "misspelled": "مشتل",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "برادري",
+  "misspelled": "بڻادري",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "استقبال",
+  "misspelled": "اتقبال",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "نهٺو",
+  "misspelled": "نهوٺ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "جويريه",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سوڀو",
+  "misspelled": "سوڀڃو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "پيوست",
+  "misspelled": "پيوت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيون",
+  "misspelled": "ڪيوڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "خارق",
+  "misspelled": "خءرق",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نثار",
+  "misspelled": "نثرا",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "افتتاح",
+  "misspelled": "افتتاحڌ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "رعونت",
+  "misspelled": "ءعونت",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "هيري",
+  "misspelled": "هيڄي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "يادگار",
+  "misspelled": "ايدگار",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اعزاز",
+  "misspelled": "اعزز",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اٽو",
+  "misspelled": "ثٽو",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سباش",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "اتفاقيه",
+  "misspelled": "اتافقيه",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ٽرڪ",
+  "misspelled": "ٽڑڪ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اوباش",
+  "misspelled": "اباش",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "تان",
+  "misspelled": "ٹان",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بليدي",
+  "misspelled": "بلڍيدي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "عملي",
+  "misspelled": "ءملي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ازبڪ",
+  "misspelled": "زبڪ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "صدي",
+  "misspelled": "ثدي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وڪٽ",
+  "misspelled": "وقٽ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وياء",
+  "misspelled": "يواء",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "استعمال",
+  "misspelled": "استعماش",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وعظ",
+  "misspelled": "وعوظ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "بصر",
+  "misspelled": "بصچ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بچي",
+  "misspelled": "بچسي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اقتصادي",
+  "misspelled": "اقتصدي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ساء",
+  "misspelled": "سء",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "موت",
+  "misspelled": "ٽوت",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سرء",
+  "misspelled": "سٿء",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نفرت",
+  "misspelled": "فرت",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪنڌڪوٽ",
+  "misspelled": "ڪنڌڪٽ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "سيشن",
+  "misspelled": "سيشرن",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سسکو",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "رحمت",
+  "misspelled": "رحمات",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڍاڪن",
+  "misspelled": "ڍاڪڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نوشادر",
+  "misspelled": "ڻوشادر",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تدبير",
+  "misspelled": "تبدير",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سنت",
+  "misspelled": "سٽنت",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيرائڻ",
+  "misspelled": "ڪئرائڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "واني",
+  "misspelled": "وانٺ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "هڻندي",
+  "misspelled": "هڻنٿدي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ملڪيت",
+  "misspelled": "ملڪيط",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جواد",
+  "misspelled": "جوااد",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڪٿي",
+  "misspelled": "ڪگٿي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪٽوهر",
+  "misspelled": "ٽڪوهر",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سيراف",
+  "misspelled": "سرياف",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "برداشت",
+  "misspelled": "بردافشت",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اپاء",
+  "misspelled": "اپء",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ذڪريه",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ناٽڪ",
+  "misspelled": "ناٽاڪ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "راڳي",
+  "misspelled": "راڳئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "آئند",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "عظمي",
+  "misspelled": "عظمئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "خواجائي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "پوڄاري",
+  "misspelled": "پوڄازي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ريڊ",
+  "misspelled": "ڇريڊ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "نسيم",
+  "misspelled": "نظيم",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سرواڻي",
+  "misspelled": "سرواني",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آئيويٽا",
+  "misspelled": "آئيويٽ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڊگري",
+  "misspelled": "ڊڳري",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ناهي",
+  "misspelled": "ڻاهي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڳاهيجا",
+  "misspelled": "ڳايهيجا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "وهيء",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سنڀالڻ",
+  "misspelled": "سنالڻ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "هوء",
+  "misspelled": "هءو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "موتمار",
+  "misspelled": "موتمإر",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اوهان",
+  "misspelled": "اوهاٻن",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "معاملو",
+  "misspelled": "يمعاملو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڀاسي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "بجاء",
+  "misspelled": "بڻجاء",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ايڏو",
+  "misspelled": "ايڏؤ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حڪمت",
+  "misspelled": "خڪمت",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جمعو",
+  "misspelled": "ڄمعو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حيران",
+  "misspelled": "حيرأن",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "واڙي",
+  "misspelled": "ؤاڙي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "هئڻ",
+  "misspelled": "هڻئ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "جسم",
+  "misspelled": "ڍجسم",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "گروي",
+  "misspelled": "گرؤي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "طاقتور",
+  "misspelled": "طاقتورس",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "نهايت",
+  "misspelled": "ناهيت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "منتظم",
+  "misspelled": "نتظم",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سرٽيفڪيٽ",
+  "misspelled": "سرٽيفڪئٽ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "خدمت",
+  "misspelled": "دخمت",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "هزارن",
+  "misspelled": "ڱهزارن",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "چاهينديس",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ساهه",
+  "misspelled": "ساهعه",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "هيڏانهن",
+  "misspelled": "هئڏانهن",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "راندي",
+  "misspelled": "رءندي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مشتمل",
+  "misspelled": "ماشتمل",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڀيل",
+  "misspelled": "ڀيع",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "محڪوم",
+  "misspelled": "مڃڪوم",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "علم",
+  "misspelled": "لعم",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اسين",
+  "misspelled": "اسيڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جلد",
+  "misspelled": "جصد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڀڄي",
+  "misspelled": "ڀيڄي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "انهيء",
+  "misspelled": "انظيء",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سونگل",
+  "misspelled": "سونجل",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پٺتي",
+  "misspelled": "قٺتي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رڌڻ",
+  "misspelled": "ڙڌڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تعليمي",
+  "misspelled": "تعيمي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "تفسيرون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "خطاب",
+  "misspelled": "خڏاب",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "فرشتو",
+  "misspelled": "ڦرشتو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وراچڊ",
+  "misspelled": "ورآچڊ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مرتضي",
+  "misspelled": "مرتغضي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "رنون",
+  "misspelled": "رنوڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "لذت",
+  "misspelled": "لذتا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "پرڻائڻ",
+  "misspelled": "پرنائڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "منظور",
+  "misspelled": "منظورح",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "سرواڻ",
+  "misspelled": "سروڻا",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "نگهبان",
+  "misspelled": "نگهباڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تسنيم",
+  "misspelled": "تسنم",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ٿيو",
+  "misspelled": "ٿبيو",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ربي",
+  "misspelled": "ربيا",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "جانبازي",
+  "misspelled": "جانباي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪشمير",
+  "misspelled": "ڪعمير",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڌاڙي",
+  "misspelled": "ڌعڙي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "عالماڻي",
+  "misspelled": "عالمڻي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "شميم",
+  "misspelled": "ئميم",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "راجسٿان",
+  "misspelled": "اجسٿان",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "فضيلت",
+  "misspelled": "ڦضيلت",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "امام",
+  "misspelled": "امءم",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "هوم",
+  "misspelled": "پوم",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڊڄندا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڪاري",
+  "misspelled": "ڪاي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ناگوار",
+  "misspelled": "اگوار",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "وڍجڻ",
+  "misspelled": "وڍجد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جاندار",
+  "misspelled": "جاندر",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "راڄن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "چنهب",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "اوهانجا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "دستاويز",
+  "misspelled": "ستاويز",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "منعقد",
+  "misspelled": "منعغد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌي",
+  "misspelled": "سنفي",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بيدخل",
+  "misspelled": "ٽيدخل",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "چارٽ",
+  "misspelled": "چخرٽ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "لتاڙ",
+  "misspelled": "لتار",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٽمٽار",
+  "misspelled": "ٽطمٽار",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڀيٽا",
+  "misspelled": "ڀيٽء",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "انهن",
+  "misspelled": "اننه",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ناهي",
+  "misspelled": "دناهي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "مادري",
+  "misspelled": "ماثري",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "لاکي",
+  "misspelled": "لاکيچ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ساڄي",
+  "misspelled": "سايڄ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڪاتب",
+  "misspelled": "ڪفتب",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سرشتو",
+  "misspelled": "سرشطو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "يوسيز",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "بدوء",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيا",
+  "misspelled": "ڪيد",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بازاري",
+  "misspelled": "بااري",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بڊاماڻي",
+  "misspelled": "بڊاماڻ",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "خدائي",
+  "misspelled": "خدئي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "تحت",
+  "misspelled": "تحط",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "نمبر",
+  "misspelled": "نامبر",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اختيار",
+  "misspelled": "اختيارل",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڏکڻ",
+  "misspelled": "ڏڻک",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "نڪرڻو",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ڀولا",
+  "misspelled": "ڀولع",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "غسل",
+  "misspelled": "سغل",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "پاڪ",
+  "misspelled": "فپاڪ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "نيزاريون",
+  "misspelled": "يزاريون",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "منگهي",
+  "misspelled": "مگهي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "پنڌرنهن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ناواقف",
+  "misspelled": "ناوافق",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اختيارات",
+  "misspelled": "اختايارات",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "شبد",
+  "misspelled": "شبگد",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "صلح",
+  "misspelled": "ثلح",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڦاٿا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سڪون",
+  "misspelled": "سڪؤن",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ماء",
+  "misspelled": "مااء",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ذات",
+  "misspelled": "ذت",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ٽڙيا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سوشلسٽ",
+  "misspelled": "سشلسٽ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڳوٺ",
+  "misspelled": "وڳٺ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "پيڪو",
+  "misspelled": "پيقو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ويهي",
+  "misspelled": "ويوهي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "اجر",
+  "misspelled": "عجر",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "درڙو",
+  "misspelled": "ڏرڙو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڳوٺ",
+  "misspelled": "ڳئٺ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سرائڪي",
+  "misspelled": "سراڪي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "فحاشي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "ملڻ",
+  "misspelled": "مڻل",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "پڙهيل",
+  "misspelled": "پڙصيل",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٽهڪائڻ",
+  "misspelled": "ٽهڪعئڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڏهاڙي",
+  "misspelled": "ڎهاڙي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مقدار",
+  "misspelled": "قمدار",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مشاعرو",
+  "misspelled": "مشاعارو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "برباد",
+  "misspelled": "بربد",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڳالهاء",
+  "misspelled": "ڳاهاء",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "رهنمائي",
+  "misspelled": "ڑهنمائي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "خلاف",
+  "misspelled": "خلزف",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "گهانگهرو",
+  "misspelled": "گهانگهرؤ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مثمن",
+  "misspelled": "مثم",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "فراش",
+  "misspelled": "فرءش",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "پردو",
+  "misspelled": "پردوي",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ديڳڙي",
+  "misspelled": "ذيڳڙي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اذان",
+  "misspelled": "عذان",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيف",
+  "misspelled": "کيف",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "سادن",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "رساله",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "سانئڻ",
+  "misspelled": "سنائڻ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڦيڻ",
+  "misspelled": "ڦي",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "مولا",
+  "misspelled": "مولء",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "جائزو",
+  "misspelled": "جئزو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "تاڻجي",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "اختيار",
+  "misspelled": "زاختيار",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اجارڻ",
+  "misspelled": "اجءرڻ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ادارو",
+  "misspelled": "ادإرو",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "متحرڪ",
+  "misspelled": "مٹحرڪ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اچو",
+  "misspelled": "اچؤ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آند",
+  "misspelled": "آنڄ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بلال",
+  "misspelled": "لبال",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "گلناز",
+  "misspelled": "گناز",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "هئس",
+  "misspelled": "حئس",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ملزوم",
+  "misspelled": "ڇملزوم",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "دانشمندي",
+  "misspelled": "دانسمندي",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "واقع",
+  "misspelled": "ٽاقع",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "عاصي",
+  "misspelled": "عايص",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "واويلا",
+  "misspelled": "وأويلا",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مهراڻي",
+  "misspelled": "همراڻي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "آڻائڻ",
+  "misspelled": "آڻائڻب",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "بخشش",
+  "misspelled": "خبشش",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "وڌيڪ",
+  "misspelled": "وثيڪ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ٽيلر",
+  "misspelled": "ٽلير",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "انصاف",
+  "misspelled": "نصاف",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "تنگدل",
+  "misspelled": "نگدل",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بابا",
+  "misspelled": "ٻابا",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "حزب",
+  "misspelled": "حبز",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "مثال",
+  "misspelled": "مٽثال",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "سڀئي",
+  "misspelled": "ڀسئي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "طويل",
+  "misspelled": "تويل",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آزار",
+  "misspelled": "آزاڪر",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "خاقان",
+  "misspelled": "خاقا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بدائع",
+  "misspelled": "بداائع",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "هڻڻ",
+  "misspelled": "ڻڻ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "شوري",
+  "misspelled": "شورئ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ڏيهه",
+  "misspelled": "ڏيحه",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تصوف",
+  "misspelled": "تصو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "آزادي",
+  "misspelled": "آازدي",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "هاڻوڪا",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "جلد",
+  "misspelled": "جلدق",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ديپ",
+  "misspelled": "ڏيپ",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مددگار",
+  "misspelled": "رددگار",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مواد",
+  "misspelled": "مود",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "اڱاري",
+  "misspelled": "ڱااري",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "سوڙها",
+  "misspelled": "سوڙا",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "سانده",
+  "misspelled": "سناده",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "روز",
+  "misspelled": "روتز",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "آڳاٽو",
+  "misspelled": "آڳءٽو",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "رچي",
+  "misspelled": "عرچي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "ڪئمپون",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "الله",
+  "misspelled": "الاله",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪڙاهي",
+  "misspelled": "ڪڙاهڀ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "ذاتي",
+  "misspelled": "ذائتي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "بنهه",
+  "misspelled": "بهنهه",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "گوبي",
+  "misspelled": "ڳوبي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "محفوظ",
+  "misspelled": "مکفوظ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "گورنر",
+  "misspelled": "گوورنر",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "اوچتو",
+  "misspelled": "اچوتو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "هڪدم",
+  "misspelled": "ڪدم",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "آمهون",
+  "misspelled": "آمهوون",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "لاڏلو",
+  "misspelled": "الڏلو",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "معصوم",
+  "misspelled": "مغصوم",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "موريو",
+  "misspelled": "مويو",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "ڪشمڪش",
+  "misspelled": "ڪشمشڪ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "علامه",
+  "misspelled": "علاهم",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "اڏو",
+  "misspelled": "اڏوو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "هيون",
+  "misspelled": "هيوون",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "دلچسپ",
+  "misspelled": "دپچسپ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "نگورنو",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "هٿن",
+  "misspelled": "هنٿ",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "وسائڻ",
+  "misspelled": "وسايڻ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "وڌيڪ",
+  "misspelled": "وڌئڪ",
+  "error_type": "visual_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "بهور",
+  "misspelled": "بهڃور",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "متولي",
+  "misspelled": "مطولي",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "هندو",
+  "misspelled": "هنيدو",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "خبر",
+  "misspelled": "ثبر",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "سالڪ",
+  "misspelled": "نالڪ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "مامون",
+  "misspelled": "اممون",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "وٺڻ",
+  "misspelled": "وٺشڻ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "حسام",
+  "misspelled": "حسم",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "نظرانداز",
+  "misspelled": "نذرانداز",
+  "error_type": "phonetic_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "اڌواڌ",
+  "misspelled": "اڌواڄ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "آئينه",
+  "misspelled": "تئينه",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": "تجنيس",
+  "misspelled": "جنيس",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "راند",
+  "misspelled": "راد",
+  "error_type": "deletion",
+  "split": "test"
+ },
+ {
+  "correct": "بچائڻ",
+  "misspelled": "بچائڦڻ",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "راڳيء",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "مرگهٽ",
+  "misspelled": "مرگٽ",
+  "error_type": "weak_letter",
+  "split": "test"
+ },
+ {
+  "correct": "ڪوٺڻ",
+  "misspelled": "ڪويڻ",
+  "error_type": "random_substitution",
+  "split": "test"
+ },
+ {
+  "correct": null,
+  "misspelled": "الاحباب",
+  "error_type": "unknown_not_misspelled",
+  "split": "test"
+ },
+ {
+  "correct": "پڙهي",
+  "misspelled": "پثڙهي",
+  "error_type": "insertion",
+  "split": "test"
+ },
+ {
+  "correct": "شمشير",
+  "misspelled": "شميشر",
+  "error_type": "transposition",
+  "split": "test"
+ },
+ {
+  "correct": "ڇڪائڻ",
+  "misspelled": "ڇڪاٿڻ",
+  "error_type": "random_substitution",
+  "split": "test"
+ }
+]

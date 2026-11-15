@@ -1,0 +1,4 @@
+data/** -text
+*.pdf binary
+*.jpg binary
+*.gz binary

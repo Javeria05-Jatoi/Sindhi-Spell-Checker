@@ -1,0 +1,210 @@
+[
+  {
+    "letter": "ا",
+    "name": "alif"
+  },
+  {
+    "letter": "ب",
+    "name": "be"
+  },
+  {
+    "letter": "ٻ",
+    "name": "bbe (implosive b)"
+  },
+  {
+    "letter": "ڀ",
+    "name": "bhe"
+  },
+  {
+    "letter": "پ",
+    "name": "pe"
+  },
+  {
+    "letter": "ت",
+    "name": "te"
+  },
+  {
+    "letter": "ٿ",
+    "name": "tteheh (Sindhi-specific)"
+  },
+  {
+    "letter": "ٽ",
+    "name": "teheh two dots above (Sindhi-specific)"
+  },
+  {
+    "letter": "ٺ",
+    "name": "tteheh / the (Sindhi-specific)"
+  },
+  {
+    "letter": "ث",
+    "name": "se"
+  },
+  {
+    "letter": "ج",
+    "name": "jim"
+  },
+  {
+    "letter": "ڄ",
+    "name": "jje (implosive j, Sindhi-specific)"
+  },
+  {
+    "letter": "جهھ",
+    "name": "jjhe (aspirate digraph, Sindhi-specific)"
+  },
+  {
+    "letter": "ڃ",
+    "name": "nyeh / je (Sindhi-specific)"
+  },
+  {
+    "letter": "چ",
+    "name": "che"
+  },
+  {
+    "letter": "ڇ",
+    "name": "cche (Sindhi-specific)"
+  },
+  {
+    "letter": "ح",
+    "name": "hah"
+  },
+  {
+    "letter": "خ",
+    "name": "khah"
+  },
+  {
+    "letter": "د",
+    "name": "dal"
+  },
+  {
+    "letter": "ڈ",
+    "name": "ddal (Sindhi-specific)"
+  },
+  {
+    "letter": "ڏ",
+    "name": "dde (implosive d, Sindhi-specific)"
+  },
+  {
+    "letter": "ڊ",
+    "name": "dahal (Sindhi-specific)"
+  },
+  {
+    "letter": "ډ",
+    "name": "dhal (Sindhi-specific)"
+  },
+  {
+    "letter": "ذ",
+    "name": "zal"
+  },
+  {
+    "letter": "ر",
+    "name": "re"
+  },
+  {
+    "letter": "ڑ",
+    "name": "rre (Sindhi-specific)"
+  },
+  {
+    "letter": "ز",
+    "name": "ze"
+  },
+  {
+    "letter": "س",
+    "name": "sin"
+  },
+  {
+    "letter": "ش",
+    "name": "shin"
+  },
+  {
+    "letter": "ص",
+    "name": "sad"
+  },
+  {
+    "letter": "ض",
+    "name": "dad"
+  },
+  {
+    "letter": "ط",
+    "name": "tah"
+  },
+  {
+    "letter": "ظ",
+    "name": "zah"
+  },
+  {
+    "letter": "ع",
+    "name": "ain"
+  },
+  {
+    "letter": "غ",
+    "name": "ghain"
+  },
+  {
+    "letter": "ف",
+    "name": "fe"
+  },
+  {
+    "letter": "ڦ",
+    "name": "phe (Sindhi-specific)"
+  },
+  {
+    "letter": "ق",
+    "name": "qaf"
+  },
+  {
+    "letter": "ڪ",
+    "name": "kaf / kaaf"
+  },
+  {
+    "letter": "ک",
+    "name": "keheh"
+  },
+  {
+    "letter": "گ",
+    "name": "gaf"
+  },
+  {
+    "letter": "ڳ",
+    "name": "gge (implosive g, Sindhi-specific)"
+  },
+  {
+    "letter": "گهھ",
+    "name": "gghe (aspirate digraph, Sindhi-specific)"
+  },
+  {
+    "letter": "ڱ",
+    "name": "ngeh (Sindhi-specific)"
+  },
+  {
+    "letter": "ل",
+    "name": "lam"
+  },
+  {
+    "letter": "م",
+    "name": "mim"
+  },
+  {
+    "letter": "ن",
+    "name": "nun"
+  },
+  {
+    "letter": "ٕ",
+    "name": "nnah (Sindhi-specific, retroflex n)"
+  },
+  {
+    "letter": "و",
+    "name": "wau"
+  },
+  {
+    "letter": "ھ",
+    "name": "he (do-chashmi)"
+  },
+  {
+    "letter": "ء",
+    "name": "hamza"
+  },
+  {
+    "letter": "ي",
+    "name": "ye"
+  }
+]

@@ -1,0 +1,13 @@
+# core spell-checker + web app
+fastapi==0.162.0
+uvicorn==0.54.0
+symspellpy==6.10.1
+pyarrow==26.0.0          # reading the Sindhi Wikipedia parquet (scripts/build_corpus_stats.py)
+huggingface_hub==2.4.0   # scripts/download_lexicon.py, scripts/download_models.py
+# offline sentence translation (optional; the app falls back to dictionary glosses without it)
+ctranslate2==4.8.4
+sentencepiece==0.2.2
+# simple Streamlit UI + tests
+streamlit==1.56.0
+pytest==9.2.0
+httpx==0.28.1            # FastAPI TestClient

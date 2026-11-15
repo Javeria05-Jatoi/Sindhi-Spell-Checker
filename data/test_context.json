@@ -1,0 +1,4502 @@
+[
+ {
+  "correct": "جنوري",
+  "misspelled": "جنورظي",
+  "error_type": "insertion",
+  "prev": "پهرين",
+  "next": "ع",
+  "sentence": "پهرين جنوري ع تي خيرپور ميرس",
+  "split": "dev"
+ },
+ {
+  "correct": "نوڪري",
+  "misspelled": "نواڪري",
+  "error_type": "weak_letter",
+  "prev": "۾",
+  "next": "ڪيائين",
+  "sentence": "پوليس کاتي ۾ نوڪري ڪيائين",
+  "split": "dev"
+ },
+ {
+  "correct": "سچو",
+  "misspelled": "سچوه",
+  "error_type": "insertion",
+  "prev": "ﺟﻮ",
+  "next": "ﺳﭙﻮﺕ",
+  "sentence": "ﺳﻨﮅ ﺟﻮ ﺳﭽﻮ ﺳﭙﻮﺕ ۽ ﻫﻤﺪﺭﺩ",
+  "split": "dev"
+ },
+ {
+  "correct": "لطيف",
+  "misspelled": "لطيق",
+  "error_type": "visual_substitution",
+  "prev": "ڪائونسل",
+  "next": "آباد",
+  "sentence": "يونين ڪائونسل لطيف آباد پاڪستان جي صوبي سنڌ جي ضلعي حيدرآباد جي تعلقي لطيف آباد جي ھڪ يونين ڪائونسل جو نالو آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "پنهنجي",
+  "misspelled": "پهننجي",
+  "error_type": "transposition",
+  "prev": "مرحوم",
+  "next": "ڪتاب",
+  "sentence": "مولائي شيدائي مرحوم پنهنجي ڪتاب",
+  "split": "dev"
+ },
+ {
+  "correct": "وڌيڪ",
+  "misspelled": "ؤڌيڪ",
+  "error_type": "visual_substitution",
+  "prev": "کان",
+  "next": "قسم",
+  "sentence": "جا لکن کان وڌيڪ قسم آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "باقي",
+  "misspelled": "بقاي",
+  "error_type": "transposition",
+  "prev": "ڏينهن",
+  "next": "آهن",
+  "sentence": "سال پوري ٿيڻ ۾ ڏينهن باقي آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "نيلامي",
+  "misspelled": "ڻيلامي",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "ڪندا",
+  "sentence": "فشريز کاتي وارا هر سال هن ڍنڍ جي نيلامي ڪندا آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "ماڻڪ",
+  "misspelled": "ماڻق",
+  "error_type": "phonetic_substitution",
+  "prev": "جو",
+  "next": "به",
+  "sentence": "اصل ۾ سنڌي ادب جو ماڻڪ به هو",
+  "split": "dev"
+ },
+ {
+  "correct": "ليکڪ",
+  "misspelled": "لکڪ",
+  "error_type": "weak_letter",
+  "prev": "جو",
+  "next": "اين",
+  "sentence": "هن فلم جو ليکڪ اين",
+  "split": "dev"
+ },
+ {
+  "correct": "مذهب",
+  "misspelled": "مذهاب",
+  "error_type": "weak_letter",
+  "prev": "مصري",
+  "next": "۾",
+  "sentence": "قديم مصري مذهب ۾ ريگستان",
+  "split": "dev"
+ },
+ {
+  "correct": "پاڪستان",
+  "misspelled": "پاڪستءن",
+  "error_type": "phonetic_substitution",
+  "prev": "لاھور",
+  "next": "جي",
+  "sentence": "لاھور پاڪستان جي صوبي پنجاب جو گاديءَ جو هنڌ ۽ سڀ کان وڏو شھر آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "ايڪو",
+  "misspelled": "ييڪو",
+  "error_type": "random_substitution",
+  "prev": "حياتياتي",
+  "next": "ھوندو",
+  "sentence": "ڪم وارو حياتياتي ايڪو ھوندو آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "نيڪال",
+  "misspelled": "نيقال",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "واري",
+  "sentence": "سنڌ جي آبپاشي ۽ سم جو پاڻيءَ جي نيڪال واري شعبي ۾",
+  "split": "dev"
+ },
+ {
+  "correct": "احمد",
+  "misspelled": "انحمد",
+  "error_type": "insertion",
+  "prev": "ٿاڻي",
+  "next": "خان",
+  "sentence": "ٿاڻي احمد خان کان پوءِ",
+  "split": "dev"
+ },
+ {
+  "correct": "بابت",
+  "misspelled": "بابط",
+  "error_type": "phonetic_substitution",
+  "prev": "حل",
+  "next": "هاڪاري",
+  "sentence": "تڪرار جي حل بابت هاڪاري ورتاءُ يا ڪانفلڪٽ ٽرانسفارميشن",
+  "split": "dev"
+ },
+ {
+  "correct": "ذمي",
+  "misspelled": "ظمي",
+  "error_type": "phonetic_substitution",
+  "prev": "پنهنجي",
+  "next": "کنيا",
+  "sentence": "جا ڪم پنهنجي ذمي کنيا",
+  "split": "dev"
+ },
+ {
+  "correct": "شيون",
+  "misspelled": "شوين",
+  "error_type": "transposition",
+  "prev": "يا",
+  "next": "ٺاهيندڙ",
+  "sentence": "هڪ ٻئي جي وچ ۾ شين جي مٽاسٽا جو عمل يا شيون ٺاهيندڙ ۽ شيون وٺندڙ جي وچ ۾ مٽاسٽا جو عمل",
+  "split": "dev"
+ },
+ {
+  "correct": "تمام",
+  "misspelled": "تامم",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "ڪڙو",
+  "sentence": "ذائقي ۾ تمام ڪڙو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "حسام",
+  "misspelled": "هسام",
+  "error_type": "phonetic_substitution",
+  "prev": "سيد",
+  "next": "الدين",
+  "sentence": "هي ڪتاب هجري ۾ يوسف ميرڪ بن مير ابوالقاسم نمڪين بکريءَ تاليف ڪيو ۽ ان جي ٻئي حصي کي سيد حسام الدين راشدي سڌاري مقدمي ۽ حاشين سان سنواري مرتب ڪيو هو",
+  "split": "dev"
+ },
+ {
+  "correct": "پنجاب",
+  "misspelled": "پبنجاب",
+  "error_type": "insertion",
+  "prev": "صوبي",
+  "next": "جو",
+  "sentence": "ٽيڪسيلا پاڪستان جي صوبي پنجاب جو هڪ قديم شھر جيڪو ٽيڪسيلا ضلعي جو صدر مقام پڻ آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "ملڻ",
+  "misspelled": "کملڻ",
+  "error_type": "insertion",
+  "prev": "سان",
+  "next": "ٿيو",
+  "sentence": "تاريخ جي ورقن مان ڄاڻ ملي ٿي ته سڪندر يوناني کي ٽيڪسلا جي ماڳ ۾ هڪ سنڌي فلسفي دادا منش سان ملڻ ٿيو",
+  "split": "dev"
+ },
+ {
+  "correct": "پيارڻ",
+  "misspelled": "پياڙڻ",
+  "error_type": "visual_substitution",
+  "prev": "ڪاڙهي",
+  "next": "سان",
+  "sentence": "هن کي پاڻيءَ ۾ ڪاڙهي پيارڻ سان ٻرهل",
+  "split": "dev"
+ },
+ {
+  "correct": "تصور",
+  "misspelled": "تصر",
+  "error_type": "weak_letter",
+  "prev": "واري",
+  "next": "کي",
+  "sentence": "واري تصور کي چٽو ڪري سگهجي",
+  "split": "dev"
+ },
+ {
+  "correct": "شڪل",
+  "misspelled": "شڪچل",
+  "error_type": "insertion",
+  "prev": "جي",
+  "next": "۾",
+  "sentence": "جڏھن ھڪ دستاويز ننڍي ڪارڊ جي شڪل ۾ جاري ڪيو ويندو آھي تہ ان کي عام طور تي شناختي ڪارڊ چيو ويندو آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "جيڪو",
+  "misspelled": "جيقو",
+  "error_type": "phonetic_substitution",
+  "prev": "آھي",
+  "next": "ان",
+  "sentence": "اھو سکن جي پھرين گرو بابا گرو نانڪ جي نالي سان منصوب آھي جيڪو ان شھر ۾ پيدا ٿيو ھيو ۽ ان شھر مان ھن پنھنجي خيالن جي پرچار شروع ڪئي",
+  "split": "dev"
+ },
+ {
+  "correct": "مدار",
+  "misspelled": "مودار",
+  "error_type": "weak_letter",
+  "prev": "جو",
+  "next": "فاسل",
+  "sentence": "ان علم جو مدار فاسل جي بائيلاجيڪل",
+  "split": "dev"
+ },
+ {
+  "correct": "امرت",
+  "misspelled": "اموت",
+  "error_type": "random_substitution",
+  "prev": "مجموعو",
+  "next": "منجهه",
+  "sentence": "سنڌ جي نامور ڪهاڻيڪار خاتون تنوير جوڻيجو جي ڪهاڻين جو پهريون مجموعو امرت منجهه ڪڙاڻ",
+  "split": "dev"
+ },
+ {
+  "correct": "کير",
+  "misspelled": "کاير",
+  "error_type": "insertion",
+  "prev": "ڏهي",
+  "next": "مان",
+  "sentence": "ڏهي کير مان ٺاهي وينديڙ شيء آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "بادشاه",
+  "misspelled": "بادشءه",
+  "error_type": "phonetic_substitution",
+  "prev": "سومرو",
+  "next": "ٿيو",
+  "sentence": "سومرن جو ھڪ امير يا سردار جنھن ڏکڻ سنڌ جي علائقي تي سومرا گھراڻي جي حڪومت جو باني ۽ پھريون سومرو بادشاھ ٿيو",
+  "split": "dev"
+ },
+ {
+  "correct": "هاڻي",
+  "misspelled": "هءڻي",
+  "error_type": "phonetic_substitution",
+  "prev": "۽",
+  "next": "مانجهند",
+  "sentence": "هڪ ڳوٺ جيڪو اڳ ڪوٽڙي ۽ هاڻي مانجهند تعلقي ۾ لڪي شاھ صدر کان ڏکڻ طرف چئن ڪلوميٽرن جي پنڌ تي آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "ليکڪ",
+  "misspelled": "يلکڪ",
+  "error_type": "transposition",
+  "prev": "يا",
+  "next": "جدا",
+  "sentence": "ڪو اديب يا ليکڪ جدا جدا لفظن کي ملائي",
+  "split": "dev"
+ },
+ {
+  "correct": "گهڻو",
+  "misspelled": "گيهڻو",
+  "error_type": "weak_letter",
+  "prev": "تمام",
+  "next": "ڪتب",
+  "sentence": "هنن ڀولڙن کي سائنس جي تجربن ۾ تمام گهڻو ڪتب آندو وڃي ٿو",
+  "split": "dev"
+ },
+ {
+  "correct": "پهرين",
+  "misspelled": "هپرين",
+  "error_type": "transposition",
+  "prev": "جيڪو",
+  "next": "سنڌي",
+  "sentence": "جيڪو پهرين سنڌي اپگرهي چينل ڪي ٽي اين امانت مغل ۽ ريحانه تبسم تي فلمايو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "نالو",
+  "misspelled": "ناشلو",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "ڪينڊيڊيٽ",
+  "sentence": "جي ترتيب جي بنياد تي بيان ڪيو ويو ۽ عارضي طور تي ان جو نالو ڪينڊيڊيٽ فائلم رکيو ويو",
+  "split": "dev"
+ },
+ {
+  "correct": "اثر",
+  "misspelled": "اث",
+  "error_type": "deletion",
+  "prev": "تي",
+  "next": "پوي",
+  "sentence": "جنهن سبب ڌرتي جي موسمن تي اثر پوي ٿو",
+  "split": "dev"
+ },
+ {
+  "correct": "منهن",
+  "misspelled": "نمهن",
+  "error_type": "transposition",
+  "prev": "جو",
+  "next": "نه",
+  "sentence": "انهيءَ جو مقصد اهو آهي ته شاديءَ کان اڳ ڪو به مرد ماڻهو توڙي ڌاري عورت اکيو ٻڌل ڪنوار جو منهن نه ڏسي سگهي",
+  "split": "dev"
+ },
+ {
+  "correct": "داس",
+  "misspelled": "غداس",
+  "error_type": "insertion",
+  "prev": "تيرٿ",
+  "next": "کتري",
+  "sentence": "جو پورو نالو ڪشنچند تيرٿ داس کتري هو",
+  "split": "dev"
+ },
+ {
+  "correct": "دنيا",
+  "misspelled": "دڳنيا",
+  "error_type": "insertion",
+  "prev": "پر",
+  "next": "۾",
+  "sentence": "پر دنيا ۾ اسلام کان سواءِ ٻيا به اهڙا مذهب آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪٽنب",
+  "misspelled": "ڪٽشب",
+  "error_type": "random_substitution",
+  "prev": "سندس",
+  "next": "هارپي",
+  "sentence": "سخت ترين معاشي حالتن جو شڪار سندس ڪٽنب هارپي",
+  "split": "dev"
+ },
+ {
+  "correct": "هڪڙو",
+  "misspelled": "هڪڙوس",
+  "error_type": "insertion",
+  "prev": "وانگي",
+  "next": "پاڻيءَ",
+  "sentence": "هي پٻڻ وانگي هڪڙو پاڻيءَ جو اوڀڙ آهي ۽ پاڪستان کانسواءِ هندستان جي گهڻن ڀاڱن ۾ ٿيندو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "وفات",
+  "misspelled": "فات",
+  "error_type": "deletion",
+  "prev": "ئي",
+  "next": "ڪيائين",
+  "sentence": "ھمت دلير خانھن محمد اسحاق عرف امير خان کان ٺيڪي ۾ ورتو ۽ ٺٽي ۾ ئي وفات ڪيائين",
+  "split": "dev"
+ },
+ {
+  "correct": "صوبيدار",
+  "misspelled": "صووبيدار",
+  "error_type": "weak_letter",
+  "prev": "جو",
+  "next": "ٿيو",
+  "sentence": "شادي خانشاد خان بن جانش بهادر ذوالحج هه ۾ غيرت خان جي وفات کانپوءِ ٺٽي جو صوبيدار ٿيو",
+  "split": "dev"
+ },
+ {
+  "correct": "جنگ",
+  "misspelled": "نجگ",
+  "error_type": "transposition",
+  "prev": "عالمي",
+  "next": "آء",
+  "sentence": "آگسٽ ع کان نومبر ع تي عالمي جنگ آء جي خاتمي تائين",
+  "split": "dev"
+ },
+ {
+  "correct": "هوندو",
+  "misspelled": "هوغدو",
+  "error_type": "random_substitution",
+  "prev": "انگ",
+  "next": "آهي",
+  "sentence": "جيڪڏهن ڪو انگ اِڪي ناهي ته اهو ٻڌي انگ هوندو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "امير",
+  "misspelled": "مامير",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "بڻايو",
+  "sentence": "کي غزني جو امير بڻايو",
+  "split": "dev"
+ },
+ {
+  "correct": "شڪارپور",
+  "misspelled": "شڪارپر",
+  "error_type": "deletion",
+  "prev": "تعليم",
+  "next": "مان",
+  "sentence": "ابتدائي تعليم شڪارپور مان پاس ڪري",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪيو",
+  "misspelled": "ڪياو",
+  "error_type": "weak_letter",
+  "prev": "۾",
+  "next": "آهي",
+  "sentence": "جنهن جو ذڪر انهن پنهنجن سفرنامن ۾ ڪيو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "مشهور",
+  "misspelled": "مشهوار",
+  "error_type": "weak_letter",
+  "prev": "سان",
+  "next": "هو",
+  "sentence": "جي نالي سان مشهور هو",
+  "split": "dev"
+ },
+ {
+  "correct": "آبادي",
+  "misspelled": "آباڏي",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "غير",
+  "sentence": "ان کان سواءِ سنگاپور جي آبادي غير ملڪين جي آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "بلاول",
+  "misspelled": "بلالول",
+  "error_type": "insertion",
+  "prev": "جرنيل",
+  "next": "زرداريءَ",
+  "sentence": "ڪلهوڙن جي جنگي جرنيل بلاول زرداريءَ جي وفات ھجري ۾ ٿي",
+  "split": "dev"
+ },
+ {
+  "correct": "ذوالنون",
+  "misspelled": "ذوالنوڻ",
+  "error_type": "phonetic_substitution",
+  "prev": "امير",
+  "next": "جي",
+  "sentence": "شاھ بيگ ارغونشاهه بيگ پنهنجي والد امير ذوالنون جي وفات کان پوءِ",
+  "split": "dev"
+ },
+ {
+  "correct": "اعلان",
+  "misspelled": "اعلشن",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "ڪيو",
+  "sentence": "ع جرمنيءَ جي سائنسدانن نيپچون گرھ دريافت ڪرڻ جو اعلان ڪيو",
+  "split": "dev"
+ },
+ {
+  "correct": "هڪٻئي",
+  "misspelled": "هڪٻئڙي",
+  "error_type": "insertion",
+  "prev": "ڇوڪريون",
+  "next": "سان",
+  "sentence": "هن ۾ ٻه ڇوڪريون هڪٻئي سان هٿ ملائي ٻانهون ڊگھيون ڪري گول ڦيرا پائينديون آهن ۽ هيٺيون لوڪ گيت به ڳائيندون آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "آهي",
+  "misspelled": "آهيت",
+  "error_type": "insertion",
+  "prev": "قبرستان",
+  "next": "جيڪو",
+  "sentence": "ھڪ قديم قبرستان آھي جيڪو ايران جي صوبو فارس جي شهر تخت جمشيد کان تقريبا ڪلوميٽر شمال مغرب ۾ واقع آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "ليکڪ",
+  "misspelled": "ليکق",
+  "error_type": "phonetic_substitution",
+  "prev": "۽",
+  "next": "جي",
+  "sentence": "مواد ۽ ليکڪ جي ترتيب جي لحاظ کان ٺاهيل لسٽ",
+  "split": "dev"
+ },
+ {
+  "correct": "سڄي",
+  "misspelled": "سڄشي",
+  "error_type": "insertion",
+  "prev": "فصل",
+  "next": "ٿر",
+  "sentence": "اهو فصل سڄي ٿر ۽ پارڪر ۾ ٿئي",
+  "split": "dev"
+ },
+ {
+  "correct": "گاهه",
+  "misspelled": "گااهه",
+  "error_type": "weak_letter",
+  "prev": "هن",
+  "next": "جي",
+  "sentence": "هن گاهه جي تندن جي هيٺئين ڀاڱي ۾ ڳنڍين ڳنڍيون ٿينديون آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "توريت",
+  "misspelled": "تورير",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "۾",
+  "sentence": "جنهن جو توريت ۾ ذڪر آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "پيدا",
+  "misspelled": "پيڏا",
+  "error_type": "phonetic_substitution",
+  "prev": "آفيم",
+  "next": "ٿيندا",
+  "sentence": "ھن ٻوٽي مان ڏوڏي جو ٻج ۽ آفيم پيدا ٿيندا آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "جانب",
+  "misspelled": "جابن",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "جي",
+  "sentence": "منڊيءَ جو قسم لوڪ شاعريءَ ۾ جانب جي جدائيءَ ۾ ڇلو ئي روح ريجھائيندڙ ۽ تسڪين قلب ڏيندڙ چيز آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "جنم",
+  "misspelled": "ڪجنم",
+  "error_type": "insertion",
+  "prev": "۾",
+  "next": "وٺندڙسنڌي",
+  "sentence": "برطانوي هندستان ۾ سنڌ ۾ جنم وٺندڙسنڌي ٻوليءَ جي مشهور ليکڪ هئي جنهن جا ڪيترائي ئي ڪتاب ڇپيل آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "فهرست",
+  "misspelled": "فهيرست",
+  "error_type": "weak_letter",
+  "prev": "جي",
+  "next": "يا",
+  "sentence": "هن قسم جي ببليو گرافيءَ ۾ ڪتابن جي فهرست يا ترتيب اهڙي نموني رکي ويندي آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "يورپ",
+  "misspelled": "يضرپ",
+  "error_type": "random_substitution",
+  "prev": "جيڪڏهن",
+  "next": "جا",
+  "sentence": "ان کان علاوه هن تصور مطابق اهو به چيو ويو هو ته جيڪڏهن يورپ جا شهزادا پنهنجي رعايا سان اولاد وانگر هلن ته عوام انهن خلاف بغاوت نه ڪندا",
+  "split": "dev"
+ },
+ {
+  "correct": "ٽائون",
+  "misspelled": "ٽائوس",
+  "error_type": "random_substitution",
+  "prev": "بلديا",
+  "next": "جو",
+  "sentence": "رشيد آبادڪراچي سنڌ بلديا ٽائون جو هڪ علاقو آهي هتي سنڌي",
+  "split": "dev"
+ },
+ {
+  "correct": "ربيع",
+  "misspelled": "بريع",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "الاول",
+  "sentence": "حران ۾ ربيع الاول هه جنوري ع ۾ ڄائو",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪچو",
+  "misspelled": "ڪچوي",
+  "error_type": "weak_letter",
+  "prev": "جيڪي",
+  "next": "گوشت",
+  "sentence": "اهڙا جانور ۽ ماڻهو جيڪي ڪچو گوشت",
+  "split": "dev"
+ },
+ {
+  "correct": "امانت",
+  "misspelled": "امعنت",
+  "error_type": "phonetic_substitution",
+  "prev": "موسيقار",
+  "next": "گل",
+  "sentence": "موسيقار امانت گل جو جنم ع ۾ ٿيو",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪتاب",
+  "misspelled": "پتاب",
+  "error_type": "random_substitution",
+  "prev": "هن",
+  "next": "۾",
+  "sentence": "ڪرائون سائيز واري هن ڪتاب ۾ صفحا آهن ۽ قيمت رپيا ڄاڻايل آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "ماڻهو",
+  "misspelled": "ماڻڻهو",
+  "error_type": "insertion",
+  "prev": "جي",
+  "next": "کائيندا",
+  "sentence": "جي ماڻهو کائيندا به آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪري",
+  "misspelled": "قري",
+  "error_type": "phonetic_substitution",
+  "prev": "مُنهن",
+  "next": "بيهندا",
+  "sentence": "ٽي چار ڄڻا گڏجي پُٺا اٽڪائي چوڌاري مُنهن ڪري بيهندا ٻيا به اوترا سنگتي چوڌاري پرڀرو بيهندا",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪائنات",
+  "misspelled": "سائنات",
+  "error_type": "random_substitution",
+  "prev": "تخليق",
+  "next": "کان",
+  "sentence": "جنهن ۾ تخليق ڪائنات کان وٺي سمن جي دور تائين سنڌ جي واقعن کي تاريخ وار بيان ڪيو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "تاريخي",
+  "misspelled": "تايرخي",
+  "error_type": "transposition",
+  "prev": "کان",
+  "next": "واقعا",
+  "sentence": "مضمون جي لحاظ کان تاريخي واقعا",
+  "split": "dev"
+ },
+ {
+  "correct": "ڪرڪيٽ",
+  "misspelled": "ڪرکيٽ",
+  "error_type": "visual_substitution",
+  "prev": "ٽوئنٽي",
+  "next": "سيزن",
+  "sentence": "پاڪستان سپر ليگ پاڪستان ڪرڪيٽ بورڊ جي زيرنگراني هڪ ٽوئنٽي ڪرڪيٽ سيزن آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "قريشي",
+  "misspelled": "قريشڇ",
+  "error_type": "random_substitution",
+  "prev": "اولاد",
+  "next": "ٿيا",
+  "sentence": "انھن جو اولاد قريشي ٿيا",
+  "split": "dev"
+ },
+ {
+  "correct": "پوري",
+  "misspelled": "پڀري",
+  "error_type": "random_substitution",
+  "prev": "سال",
+  "next": "ٿيڻ",
+  "sentence": "سال پوري ٿيڻ ۾ ڏينهن",
+  "split": "dev"
+ },
+ {
+  "correct": "ملڪ",
+  "misspelled": "ممڪ",
+  "error_type": "random_substitution",
+  "prev": "آزاد",
+  "next": "هجي",
+  "sentence": "جنهن ۾ ووٽر کي حق ڏنو ويو ته اهي فرانس سان رهن چاهين ٿا يا نيو ڪيليڊونيا آزاد ملڪ هجي",
+  "split": "dev"
+ },
+ {
+  "correct": "سائنس",
+  "misspelled": "سائجنس",
+  "error_type": "insertion",
+  "prev": "جي",
+  "next": "ڪاليج",
+  "sentence": "المعروف ڊي جي سائنس ڪاليج",
+  "split": "dev"
+ },
+ {
+  "correct": "عرب",
+  "misspelled": "عڙب",
+  "error_type": "visual_substitution",
+  "prev": "هڪ",
+  "next": "ملڪ",
+  "sentence": "سعودي عرب وچ اوڀر جو هڪ عرب ملڪ آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "حڪمراني",
+  "misspelled": "چڪمراني",
+  "error_type": "visual_substitution",
+  "prev": "سوڌا",
+  "next": "يا",
+  "sentence": "جنهن کي قانون سازي ۽ ڪم ڪار هلائڻ ۽ طاقت جي استعمال سوڌا حڪمراني يا صاحبي ڪرڻ جا سڀ اختيار هُجن",
+  "split": "dev"
+ },
+ {
+  "correct": "جنس",
+  "misspelled": "جنث",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "جو",
+  "sentence": "ڏيڏر جي جنس جو ھڪ قسم آھي",
+  "split": "dev"
+ },
+ {
+  "correct": "لاشاري",
+  "misspelled": "لاشاڙي",
+  "error_type": "visual_substitution",
+  "prev": "پيرو",
+  "next": "ريلوي",
+  "sentence": "پيرو لاشاري ريلوي اسٽيشن بدين حيدرآباد ريلوي رستي تي مشهور اسٽيشن آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "صوف",
+  "misspelled": "صاوف",
+  "error_type": "insertion",
+  "prev": "وغيره",
+  "next": "ٻير",
+  "sentence": "وغيره صوف ٻير ۽ سرد القتامي",
+  "split": "dev"
+ },
+ {
+  "correct": "طور",
+  "misspelled": "طوز",
+  "error_type": "visual_substitution",
+  "prev": "کَٽاڻ",
+  "next": "استعمال",
+  "sentence": "باکرو ڏاڙهون مختلف ڀاڄين ۾ کَٽاڻ طور استعمال ڪرڻ کان سواءِ",
+  "split": "dev"
+ },
+ {
+  "correct": "ٻولي",
+  "misspelled": "ٻوالي",
+  "error_type": "weak_letter",
+  "prev": "سنسڪرت",
+  "next": "مان",
+  "sentence": "هن جو نالو سنسڪرت ٻولي مان اخذ ٿيل آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "واري",
+  "misspelled": "وازري",
+  "error_type": "insertion",
+  "prev": "جي",
+  "next": "هڪ",
+  "sentence": "پوءِ مٽيءَ سان پراڻو پنن جو ڀاڻ ۽ درياهه جي واري هڪ جيتري ملائي",
+  "split": "dev"
+ },
+ {
+  "correct": "الله",
+  "misspelled": "الهل",
+  "error_type": "transposition",
+  "prev": "بطور",
+  "next": "جي",
+  "sentence": "۽ ان جي پوڄا بطور الله جي ڌيء جي ڪئي ويندي ھئي",
+  "split": "dev"
+ },
+ {
+  "correct": "کان",
+  "misspelled": "کٿان",
+  "error_type": "insertion",
+  "prev": "ڪرڻ",
+  "next": "پوءِ",
+  "sentence": "ميٽرڪ پاس ڪرڻ کان پوءِ دادوءَ اچي سيشن ڪورٽ ۾ ڪلارڪ ڀرتي ٿيو",
+  "split": "dev"
+ },
+ {
+  "correct": "ڌنار",
+  "misspelled": "ڌانر",
+  "error_type": "transposition",
+  "prev": "ڪري",
+  "next": "ڳائيندا",
+  "sentence": "ٿر جا ٿري ماڻهو خاص ڪري ڌنار ڳائيندا آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "ٽائون",
+  "misspelled": "ٺائون",
+  "error_type": "visual_substitution",
+  "prev": "گڏاپ",
+  "next": "جو",
+  "sentence": "گڏاپ ٽائون جو هڪ علائقو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "نرخ",
+  "misspelled": "نڙخ",
+  "error_type": "visual_substitution",
+  "prev": "جا",
+  "next": "سڏبو",
+  "sentence": "جي تشريح عام طور هيئن ڪري سگهجي ٿي تہ بين الاقوامي واپار ۾ گهرايل مال ۽ رواني ڪيل مال جي قيمتن جي وچ ۾ نسبت کي واپار جا نرخ سڏبو آهي",
+  "split": "dev"
+ },
+ {
+  "correct": "بور",
+  "misspelled": "بؤر",
+  "error_type": "visual_substitution",
+  "prev": "ميگنم",
+  "next": "جون",
+  "sentence": "ميگنم بور جون گوليون پونديون آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "بوري",
+  "misspelled": "بؤري",
+  "error_type": "visual_substitution",
+  "prev": "نالو",
+  "next": "ھيو",
+  "sentence": "ھن جو پراڻو نالو بوري ھيو",
+  "split": "dev"
+ },
+ {
+  "correct": "سيپٽمبر",
+  "misspelled": "سيپٽمبرک",
+  "error_type": "insertion",
+  "prev": "تنظيم",
+  "next": "ع",
+  "sentence": "ترقي ڪندڙ ۽ اُسرندڙ ملڪن جي تنظيم سيپٽمبر ع ۾ ٺاهي ويئي هئي",
+  "split": "dev"
+ },
+ {
+  "correct": "توهان",
+  "misspelled": "توهعن",
+  "error_type": "phonetic_substitution",
+  "prev": "لاء",
+  "next": "هيٺين",
+  "sentence": "ڪرائسٽ چرچ جي لاء توهان هيٺين صفحن کي ڏسي سگهو ٿا",
+  "split": "dev"
+ },
+ {
+  "correct": "ولادت",
+  "misspelled": "ولاڏت",
+  "error_type": "phonetic_substitution",
+  "prev": "سندس",
+  "next": "ع",
+  "sentence": "سندس ولادت ع ۾ شهر مانجهند",
+  "split": "dev"
+ },
+ {
+  "correct": "خان",
+  "misspelled": "خاڊ",
+  "error_type": "random_substitution",
+  "prev": "حميد",
+  "next": "ع",
+  "sentence": "ڊاڪٽر اختر حميد خان ع ۾ آگري",
+  "split": "dev"
+ },
+ {
+  "correct": "آباد",
+  "misspelled": "آثاد",
+  "error_type": "visual_substitution",
+  "prev": "ڳوٺ",
+  "next": "آهن",
+  "sentence": "جنهن ۾ هيٺيان ڳوٺ آباد آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "وارا",
+  "misspelled": "وءرا",
+  "error_type": "phonetic_substitution",
+  "prev": "کاتي",
+  "next": "ڪم",
+  "sentence": "عوامي کاتي وارا ڪم اهو آهن",
+  "split": "dev"
+ },
+ {
+  "correct": "ماڳ",
+  "misspelled": "مءڳ",
+  "error_type": "phonetic_substitution",
+  "prev": "وارو",
+  "next": "آهي",
+  "sentence": "سنڌ پاڪستان ۾ قديم آثارن وارو ماڳ آهي جيڪو سيوھڻ شريف",
+  "split": "dev"
+ },
+ {
+  "correct": "ليپ",
+  "misspelled": "ليپل",
+  "error_type": "insertion",
+  "prev": "۾",
+  "next": "سال",
+  "sentence": "گريگورين ڪئلينڊر ۾ ليپ سال",
+  "split": "test"
+ },
+ {
+  "correct": "ڪندو",
+  "misspelled": "ڪنقو",
+  "error_type": "random_substitution",
+  "prev": "پڻ",
+  "next": "آهي",
+  "sentence": "جنهن مان هڪ فوجي ٽيم جي سربراهي پڻ ڪندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "نحو",
+  "misspelled": "ڻحو",
+  "error_type": "visual_substitution",
+  "prev": "۽",
+  "next": "سڏبو",
+  "sentence": "عربيءَ ۾ ٻوليءَ جي گرامر ۽ ان جي وياڪرڻي اصولن کي گڏي صرف ۽ نحوَ سڏبو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "نگراني",
+  "misspelled": "نرگاني",
+  "error_type": "transposition",
+  "prev": "جي",
+  "next": "هيٺ",
+  "sentence": "جيڪا بنو تميم قبيلي جي نگراني هيٺ الجزائر",
+  "split": "test"
+ },
+ {
+  "correct": "صفرا",
+  "misspelled": "صفڑا",
+  "error_type": "visual_substitution",
+  "prev": "۽",
+  "next": "۾",
+  "sentence": "خون ۽ صفرا ۾ واڌارو ٿئي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "فائدو",
+  "misspelled": "افئدو",
+  "error_type": "transposition",
+  "prev": "وڏو",
+  "next": "ٿيو",
+  "sentence": "ريشمي ڪپڙن وغيره جي واپار ۾ وڏو فائدو ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "هندستان",
+  "misspelled": "هندستنا",
+  "error_type": "transposition",
+  "prev": "ٻولي",
+  "next": "جي",
+  "sentence": "هيءَ ٻولي هندستان جي اوڙيسا",
+  "split": "test"
+ },
+ {
+  "correct": "شهر",
+  "misspelled": "شپر",
+  "error_type": "random_substitution",
+  "prev": "ھي",
+  "next": "روڊ",
+  "sentence": "ھي شھر روڊ رستي ڪوئيٽا سان ڳنڍيل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "اڇي",
+  "misspelled": "ڇاي",
+  "error_type": "transposition",
+  "prev": "مائل",
+  "next": "رنگ",
+  "sentence": "ڳاڙهاڻ مائل اڇي رنگ تي ٽڪين جي صورت ۾ ٻڌل مٽي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "واقع",
+  "misspelled": "وءقع",
+  "error_type": "phonetic_substitution",
+  "prev": "سويڊن",
+  "next": "آهي",
+  "sentence": "بالٽڪ سمنڊ جي ٻئي پار اولھ ۾ سويڊن واقع آهي",
+  "split": "test"
+ },
+ {
+  "correct": "حيواني",
+  "misspelled": "چيواني",
+  "error_type": "visual_substitution",
+  "prev": "سبب",
+  "next": "بجلي",
+  "sentence": "ڪجھ سالن کان پوءِ اٽليءَ جي پروفيسر ائليسانڊرو وولٽا وري گئلواني جي تجربي کي دھرايو ۽ سمجھيائين تہ ان جھٽڪي جو سبب حيواني بجلي نہ پر ڪو ٻيو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ڇلا",
+  "misspelled": "ڇلء",
+  "error_type": "phonetic_substitution",
+  "prev": "يا",
+  "next": "ويڙهي",
+  "sentence": "جنهن تي مُنڊيون يا ڇلا ويڙهي گول ڪندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "حسين",
+  "misspelled": "حيسين",
+  "error_type": "weak_letter",
+  "prev": "غلام",
+  "next": "ولد",
+  "sentence": "مولوي غلام حسين ولد مولانا محمد يوسف ڪلهوڙي جو نالو وڏي اهميت رکي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "داستان",
+  "misspelled": "داستعن",
+  "error_type": "phonetic_substitution",
+  "prev": "جو",
+  "next": "آهي",
+  "sentence": "هي سنڌ جي غريبن جي اشرافت ۽ خود داري جو داستان آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪتاب",
+  "misspelled": "ڪناب",
+  "error_type": "random_substitution",
+  "prev": "هن",
+  "next": "۾",
+  "sentence": "ڪرائون سائيز واري هن ڪتاب ۾ صفحا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "کان",
+  "misspelled": "کاط",
+  "error_type": "random_substitution",
+  "prev": "لحاظ",
+  "next": "کين",
+  "sentence": "پرهيزگاريءَ ۽ حليمائيءَ جي لحاظ کان کين انهيءَ لقب سان سڏيو",
+  "split": "test"
+ },
+ {
+  "correct": "درس",
+  "misspelled": "درسظ",
+  "error_type": "insertion",
+  "prev": "حسن",
+  "next": "نئين",
+  "sentence": "حسن درس نئين ٽهيءَ جي سرواڻ شاعر",
+  "split": "test"
+ },
+ {
+  "correct": "ناراض",
+  "misspelled": "نااراض",
+  "error_type": "weak_letter",
+  "prev": "جي",
+  "next": "رڪنن",
+  "sentence": "پاڪستان ريپبلڪن پارٽي ۾ مسلم ليگ جي ناراض رڪنن ۽ اولھ پاڪستان جي ڪجھ سياستدانن ٺاھي ھئي",
+  "split": "test"
+ },
+ {
+  "correct": "انگريز",
+  "misspelled": "انگرييز",
+  "error_type": "weak_letter",
+  "prev": "۾",
+  "next": "ڏاهي",
+  "sentence": "اصل ۾ انگريز ڏاهي جان لاڪ جي سوچن مان ڦُٽي نڪتل هڪ آزاد خيال نظريو آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ڊگها",
+  "misspelled": "ڊگهصا",
+  "error_type": "insertion",
+  "prev": "رڳو",
+  "next": "پن",
+  "sentence": "جنهن ۾ رڳو ڊگها پن وارا ڦڙها ٿين ٿا",
+  "split": "test"
+ },
+ {
+  "correct": "ڏهين",
+  "misspelled": "ڏهني",
+  "error_type": "transposition",
+  "prev": "جي",
+  "next": "امام",
+  "sentence": "ھ اھل تشيع جي ڏھين امام علي نقي جي پيدائش ٿي",
+  "split": "test"
+ },
+ {
+  "correct": "اڏرڻ",
+  "misspelled": "اڎرڻ",
+  "error_type": "visual_substitution",
+  "prev": "پکي",
+  "next": "دوران",
+  "sentence": "هي پکي اڏرڻ دوران به کائي سگهي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "ڄڻڪ",
+  "misspelled": "ڄڻق",
+  "error_type": "phonetic_substitution",
+  "prev": "به",
+  "next": "دل",
+  "sentence": "هو صوفياڻن ڪلامن تي رقص به ڄڻڪ دل ديس جي پرستش وانگر ڪندو هو",
+  "split": "test"
+ },
+ {
+  "correct": "نالو",
+  "misspelled": "ڻالو",
+  "error_type": "visual_substitution",
+  "prev": "۾",
+  "next": "ميگنوليئڊيئي",
+  "sentence": "ميگنولئيڊس جو علم نباتات ۾ نالو ميگنوليئڊيئي آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ٽڪنڊي",
+  "misspelled": "ٽکنڊي",
+  "error_type": "visual_substitution",
+  "prev": "ھي",
+  "next": "شڪل",
+  "sentence": "ھي ٽڪنڊي شڪل جو آھي جنھن کي وچ تان ھڪ افقي سٽ ڪٽي ٿي",
+  "split": "test"
+ },
+ {
+  "correct": "انگريزي",
+  "misspelled": "انگرصيزي",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "نالو",
+  "sentence": "جاڻ پسارڪي وکر جو انگريزي نالو",
+  "split": "test"
+ },
+ {
+  "correct": "جيڪي",
+  "misspelled": "جڦيڪي",
+  "error_type": "insertion",
+  "prev": "تاندورا",
+  "next": "اڪ",
+  "sentence": "جي وڻ جا تاندورا جيڪي اڪ جي ڇڙين مان ڪڍبا آھن",
+  "split": "test"
+ },
+ {
+  "correct": "نالو",
+  "misspelled": "ڻالو",
+  "error_type": "visual_substitution",
+  "prev": "جو",
+  "next": "به",
+  "sentence": "تعلقي ۽ ضلعي دادوءَ ۾ هڪ ديهه جو نالو به آهي",
+  "split": "test"
+ },
+ {
+  "correct": "جماعت",
+  "misspelled": "جمءعت",
+  "error_type": "phonetic_substitution",
+  "prev": "سياسي",
+  "next": "آهي",
+  "sentence": "سنڌ جي هڪ سياسي جماعت آهي",
+  "split": "test"
+ },
+ {
+  "correct": "فوج",
+  "misspelled": "فج",
+  "error_type": "deletion",
+  "prev": "هي",
+  "next": "جو",
+  "sentence": "هي فوج جو ٽن ستارن وارو آفيسر هوندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وارن",
+  "misspelled": "ؤارن",
+  "error_type": "visual_substitution",
+  "prev": "وغيره",
+  "next": "نُڪتن",
+  "sentence": "فطري قانون ۽ نيڪيءَ وغيره وارن نُڪتن تي بيٺل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "غني",
+  "misspelled": "غنڇي",
+  "error_type": "insertion",
+  "prev": "سيد",
+  "next": "شاهه",
+  "sentence": "سندس پيءُ آغا سيد غني شاهه ع ۾ پنهنجي وڏي ڀاءُ سان گڏ",
+  "split": "test"
+ },
+ {
+  "correct": "ڏينهن",
+  "misspelled": "ڏئنهن",
+  "error_type": "visual_substitution",
+  "prev": "ٻيو",
+  "next": "آهي",
+  "sentence": "اڱارو هفتي جو ٻيو ڏينهن آهي",
+  "split": "test"
+ },
+ {
+  "correct": "خاندان",
+  "misspelled": "خاڻدان",
+  "error_type": "visual_substitution",
+  "prev": "قريش",
+  "next": "عربن",
+  "sentence": "قريش خاندان عربن جي نسل مان آھن",
+  "split": "test"
+ },
+ {
+  "correct": "آهي",
+  "misspelled": "آوهي",
+  "error_type": "weak_letter",
+  "prev": "اصطلاح",
+  "next": "جنهن",
+  "sentence": "ڏيهان ڏيهي يا بين الاقوامي لاڳاپن جو هڪ اصطلاح آهي جنهن کي مُختلف معنائن ۾ ورتو وڃي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "مريد",
+  "misspelled": "ممريد",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "ٿيو",
+  "sentence": "مير صوفي جان الله شاهه جو مريد ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "لڏي",
+  "misspelled": "لڏئ",
+  "error_type": "visual_substitution",
+  "prev": "ڪراچيءَ",
+  "next": "ويو",
+  "sentence": "انکانپوءِ حيدرآباد ڇڏي ڪراچيءَ لَڏي ويو",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "سءنڌ",
+  "error_type": "insertion",
+  "prev": "جڏهن",
+  "next": "جي",
+  "sentence": "جڏهن سنڌ جي سپت سنڌو",
+  "split": "test"
+ },
+ {
+  "correct": "عمل",
+  "misspelled": "غمل",
+  "error_type": "visual_substitution",
+  "prev": "جو",
+  "next": "ٿيندو",
+  "sentence": "ھنن ۾ رت جي صفائي جو عمل ٿيندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "اختيار",
+  "misspelled": "اخيتيار",
+  "error_type": "weak_letter",
+  "prev": "رهائش",
+  "next": "ڪيائين",
+  "sentence": "سالن جي ڄمار ۾ ورهاڱي بعد ڀارت جي گجرات صوبي ۾ مائٽن سان گڏ مستقل رهائش اختيار ڪيائين",
+  "split": "test"
+ },
+ {
+  "correct": "مشهور",
+  "misspelled": "هشهور",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "بادشاهه",
+  "sentence": "۽ فرانسيسي پسمنظر رکندڙانگلنڊ جي مشهور بادشاهه فاتح وليم جي نسب سان لاڳاپيل",
+  "split": "test"
+ },
+ {
+  "correct": "ڪهاڻي",
+  "misspelled": "ڪهاڻدي",
+  "error_type": "insertion",
+  "prev": "جِي",
+  "next": "هِنَ",
+  "sentence": "جھُولي لعل جِي ڪهاڻِي هِنَ پرڪار آهي",
+  "split": "test"
+ },
+ {
+  "correct": "راجسٿان",
+  "misspelled": "رااجسٿان",
+  "error_type": "weak_letter",
+  "prev": "جي",
+  "next": "۾",
+  "sentence": "ڀارت جي راجسٿان ۾ واقع ضلعي سري گنگانگر جو هڪ ننڍو قصبو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "غزل",
+  "misspelled": "فزل",
+  "error_type": "random_substitution",
+  "prev": "صرف",
+  "next": "شامل",
+  "sentence": "هِن ڪتاب ۾ صرف غزل شامل آهن",
+  "split": "test"
+ },
+ {
+  "correct": "پمپ",
+  "misspelled": "پامپ",
+  "error_type": "weak_letter",
+  "prev": "پيٽرول",
+  "next": "تي",
+  "sentence": "شروع ۾ پيٽرول پمپ تي ملازمت ڪيائين",
+  "split": "test"
+ },
+ {
+  "correct": "کڻي",
+  "misspelled": "ڻکي",
+  "error_type": "transposition",
+  "prev": "ميسيج",
+  "next": "آيو",
+  "sentence": "سنسڪرت جو لفظ آهي جنھن جو مطلب پيغام کڻي آيو ميسيج کڻي آيو",
+  "split": "test"
+ },
+ {
+  "correct": "مجموعو",
+  "misspelled": "مجموغو",
+  "error_type": "visual_substitution",
+  "prev": "شعري",
+  "next": "سنڌ",
+  "sentence": "ھي شعري مجموعو سنڌ جي ناليواري مزاحمتي شاعر سرڪش سنڌيءَ جي تخليق آهي",
+  "split": "test"
+ },
+ {
+  "correct": "قسم",
+  "misspelled": "قبم",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "ڳاڙهسرو",
+  "sentence": "لوڻ جو قسم ڳاڙهسرو اڇي رنگ تي جبل جي پيدائش آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مقام",
+  "misspelled": "مقعم",
+  "error_type": "phonetic_substitution",
+  "prev": "صدر",
+  "next": "رتوديرو",
+  "sentence": "ھن تعلقي جو صدر مقام رتوديرو شھر آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ڳوٺ",
+  "misspelled": "ڳوڳٺ",
+  "error_type": "insertion",
+  "prev": "جدا",
+  "next": "موجود",
+  "sentence": "شڪارپور ۽ لکي تعلقن ۾ جدا جدا ڳوٺ موجود آهن",
+  "split": "test"
+ },
+ {
+  "correct": "ذڪر",
+  "misspelled": "ڪذر",
+  "error_type": "transposition",
+  "prev": "پهلو",
+  "next": "ڪيون",
+  "sentence": "ان مقالي ۾ اسان حضرت جي زندگي تي هڪ نظر وجهون ٿا ۽ سندس زندگي جا مختلف پهلو ذڪر ڪيون ٿا",
+  "split": "test"
+ },
+ {
+  "correct": "شهوتي",
+  "misspelled": "شهتي",
+  "error_type": "deletion",
+  "prev": "۾",
+  "next": "اپٽار",
+  "sentence": "جنهن ۾ شهوتي اپٽار ٿئي",
+  "split": "test"
+ },
+ {
+  "correct": "جنهن",
+  "misspelled": "جنهان",
+  "error_type": "weak_letter",
+  "prev": "لڙائي",
+  "next": "وقت",
+  "sentence": "واري لڙائي جنهن وقت لڳي",
+  "split": "test"
+ },
+ {
+  "correct": "منسوب",
+  "misspelled": "منسوٻ",
+  "error_type": "phonetic_substitution",
+  "prev": "سان",
+  "next": "ٿيل",
+  "sentence": "اهي لفظ جيڪي عدد سان منسوب ٿيل هجن",
+  "split": "test"
+ },
+ {
+  "correct": "صحافت",
+  "misspelled": "صحفات",
+  "error_type": "transposition",
+  "prev": "پاڪستاني",
+  "next": "آزاديءَ",
+  "sentence": "پاڪستاني صحافت آزاديءَ کان اڳ ننڍي کنڊ ۾ موجود مسلم پريس",
+  "split": "test"
+ },
+ {
+  "correct": "ميان",
+  "misspelled": "ميانا",
+  "error_type": "weak_letter",
+  "prev": "واھ",
+  "next": "نور",
+  "sentence": "هيءُ واھ ميان نور محمد ڪلھوڙي کڻايو هو",
+  "split": "test"
+ },
+ {
+  "correct": "سال",
+  "misspelled": "سالٿ",
+  "error_type": "insertion",
+  "prev": "ڪندي",
+  "next": "ٿي",
+  "sentence": "هبل دوربين کي خلا ۾ ڪم ڪندي سال ٿي ويا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "مسلمان",
+  "misspelled": "مسلماڻ",
+  "error_type": "visual_substitution",
+  "prev": "غير",
+  "next": "رئيسن",
+  "sentence": "۽ سنڌ جي غير مسلمان رئيسن ڏانهن تبليغي دعوتناما سڌا سنوان موڪليائين",
+  "split": "test"
+ },
+ {
+  "correct": "فراق",
+  "misspelled": "فراقڃ",
+  "error_type": "insertion",
+  "prev": "۽",
+  "next": "ھوندو",
+  "sentence": "لوڪ ادب جي پياري شاخ اھي جنهن جو موضوع مجازي عشق جو درد ۽ فراق ھوندو اھي",
+  "split": "test"
+ },
+ {
+  "correct": "اها",
+  "misspelled": "اڇها",
+  "error_type": "insertion",
+  "prev": "رانديگر",
+  "next": "اٽي",
+  "sentence": "مخالف رانديگر اها اٽي جهپي رانديگر کي آڳ ڏيڻ جي ڪوشش ڪندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "سلطان",
+  "misspelled": "سلطن",
+  "error_type": "deletion",
+  "prev": "حضرت",
+  "next": "الاولياء",
+  "sentence": "ذات جو مڱريو حضرت سلطان الاولياء",
+  "split": "test"
+ },
+ {
+  "correct": "جولاء",
+  "misspelled": "جولاع",
+  "error_type": "phonetic_substitution",
+  "prev": "دوران",
+  "next": "ع",
+  "sentence": "ولد لطف الله خان ابڙو پنھنجي والد جي نوڪريءَ دوران جولاءِ ع تي ننگر ٺٽي ۾ پيدا ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "زحل",
+  "misspelled": "زحع",
+  "error_type": "random_substitution",
+  "prev": "۽",
+  "next": "تي",
+  "sentence": "مشتري ۽ زحل تي ڳالھائيندا ھئا ۽ انھن تي ريسرچ ڪندا ھئا",
+  "split": "test"
+ },
+ {
+  "correct": "ذڪر",
+  "misspelled": "ذڪز",
+  "error_type": "visual_substitution",
+  "prev": "مٿي",
+  "next": "آهي",
+  "sentence": "جنهن جو مٿي ذڪر آهي",
+  "split": "test"
+ },
+ {
+  "correct": "قليچ",
+  "misspelled": "لقيچ",
+  "error_type": "transposition",
+  "prev": "مرزا",
+  "next": "بيگ",
+  "sentence": "هيءُ ڪتاب مرزا قليچ بيگ جو لکيل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "فقرو",
+  "misspelled": "قرو",
+  "error_type": "deletion",
+  "prev": "ھي",
+  "next": "اھڙين",
+  "sentence": "ھي فقرو اھڙين بيمارين لاء استعمال ٿيندو آهي جيڪي وڌندڙ آھن جيئن ڪينسر يا دل جي بيماري",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "ثنڌ",
+  "error_type": "phonetic_substitution",
+  "prev": "آهي",
+  "next": "۾",
+  "sentence": "ٿوهر ھڪ ٻوٽي جو نالو آهي سنڌ ۾ عام ڪو نه ٿئي",
+  "split": "test"
+ },
+ {
+  "correct": "تعلق",
+  "misspelled": "طعلق",
+  "error_type": "phonetic_substitution",
+  "prev": "سان",
+  "next": "رکي",
+  "sentence": "نسل سان تعلق رکي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "مخلوق",
+  "misspelled": "محلوق",
+  "error_type": "visual_substitution",
+  "prev": "واري",
+  "next": "جو",
+  "sentence": "هڪ انساني خون پيئڻ واري مخلوق جو نالو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "بچاء",
+  "misspelled": "چباء",
+  "error_type": "transposition",
+  "prev": "جي",
+  "next": "جي",
+  "sentence": "آمريڪا جي بچاءَ جي وزير ايش ڪارٽر",
+  "split": "test"
+ },
+ {
+  "correct": "ڪتاب",
+  "misspelled": "ڪطاب",
+  "error_type": "phonetic_substitution",
+  "prev": "ڪيترائي",
+  "next": "شايع",
+  "sentence": "سندس ڪيترائي ڪتاب شايع ٿيل آهن",
+  "split": "test"
+ },
+ {
+  "correct": "ڪري",
+  "misspelled": "قري",
+  "error_type": "phonetic_substitution",
+  "prev": "ڦڪي",
+  "next": "استعمال",
+  "sentence": "هن جا گل سڪائي ڦڪي ڪري استعمال ڪرائڻ سان سلهه",
+  "split": "test"
+ },
+ {
+  "correct": "جراحي",
+  "misspelled": "جرحي",
+  "error_type": "weak_letter",
+  "prev": "جي",
+  "next": "يا",
+  "sentence": "ڏيڏر جي جراحي يا بدن جي تشريح جو علم",
+  "split": "test"
+ },
+ {
+  "correct": "مٿان",
+  "misspelled": "مٿاڻ",
+  "error_type": "visual_substitution",
+  "prev": "برطانيا",
+  "next": "هوائي",
+  "sentence": "جرمني پهرين دفعا برطانيا مٿان هوائي حملو ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "لاء",
+  "misspelled": "لاا",
+  "error_type": "phonetic_substitution",
+  "prev": "سيکارڻ",
+  "next": "ماسترَ",
+  "sentence": "انگريزي سيکارڻ لاءِ ماسترَ گهربل هئا",
+  "split": "test"
+ },
+ {
+  "correct": "اعزاز",
+  "misspelled": "اعزز",
+  "error_type": "deletion",
+  "prev": "فوجي",
+  "next": "آهي",
+  "sentence": "برطانيا جو سڀ کان وڏو فوجي اعزاز آهي جيڪو بھادري جي وڏي ڪارنامي تي ڏنو ويندو آهي جيڪو دشمن آڏو سرانجام ڏنو ويو ھجي",
+  "split": "test"
+ },
+ {
+  "correct": "جنم",
+  "misspelled": "جنصم",
+  "error_type": "insertion",
+  "prev": "۾",
+  "next": "ورتو",
+  "sentence": "ضلعي ٺٽي ۾ جنم ورتو",
+  "split": "test"
+ },
+ {
+  "correct": "خان",
+  "misspelled": "خاڻ",
+  "error_type": "phonetic_substitution",
+  "prev": "ايوب",
+  "next": "ٻيون",
+  "sentence": "جون پاڪستان ۾ جنرل محمد ايوب خانَ ٻيون آئين نافذ ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "اهو",
+  "misspelled": "غاهو",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "شعبو",
+  "sentence": "معيشت جو اهو شعبو آهي جنهن جو تعلق زمين مان پيداوا حاصل ڪرڻ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "اينڊ",
+  "misspelled": "انيڊ",
+  "error_type": "transposition",
+  "prev": "آئل",
+  "next": "گئس",
+  "sentence": "آئل اينڊ گئس ڊولپمينٽ ڪارپوريشن",
+  "split": "test"
+ },
+ {
+  "correct": "خيالي",
+  "misspelled": "خيآلي",
+  "error_type": "visual_substitution",
+  "prev": "اهي",
+  "next": "ڳالهيون",
+  "sentence": "يعني اهي خيالي ڳالهيون اڻ ٿيڻيون لڳن",
+  "split": "test"
+ },
+ {
+  "correct": "گمنامي",
+  "misspelled": "گمناي",
+  "error_type": "deletion",
+  "prev": "آخرڪار",
+  "next": "جو",
+  "sentence": "آخرڪار گمنامي جو موت مري ويو",
+  "split": "test"
+ },
+ {
+  "correct": "زمين",
+  "misspelled": "زمن",
+  "error_type": "weak_letter",
+  "prev": "هي",
+  "next": "جي",
+  "sentence": "هي زمين جي ڪل ايراضي جو",
+  "split": "test"
+ },
+ {
+  "correct": "نالو",
+  "misspelled": "ناذلو",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "آهي",
+  "sentence": "سال جي مُندن مان هڪ مُند جو نالو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مخرج",
+  "misspelled": "مخررج",
+  "error_type": "insertion",
+  "prev": "۾",
+  "next": "ڪري",
+  "sentence": "بعد ازان پاڻي جو وهڪرو منڇر ۾ مخرج ڪري ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "تيرهون",
+  "misspelled": "تيرهزن",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "اکر",
+  "sentence": "هندي جو تيرهون اکر آهي",
+  "split": "test"
+ },
+ {
+  "correct": "پيدا",
+  "misspelled": "پددا",
+  "error_type": "random_substitution",
+  "prev": "منجهانئس",
+  "next": "ٿيندو",
+  "sentence": "ٻج به منجهانئس پيدا ٿيندو آهي پر اڪثر سندس قلم لڳندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "قبرستان",
+  "misspelled": "قبرستاڻ",
+  "error_type": "visual_substitution",
+  "prev": "ڪيئي",
+  "next": "مشهور",
+  "sentence": "پني عاقل تعلقي جا ڪيئي قبرستان مشهور آهن",
+  "split": "test"
+ },
+ {
+  "correct": "لفظ",
+  "misspelled": "لوفظ",
+  "error_type": "weak_letter",
+  "prev": "جو",
+  "next": "آهي",
+  "sentence": "ابر فارسي زبان جو لفظ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "نثر",
+  "misspelled": "نوثر",
+  "error_type": "weak_letter",
+  "prev": "مشهور",
+  "next": "نويس",
+  "sentence": "پاڻ سنڌي زبان جو مشهور نثر نويس ٿي گذريو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ٻين",
+  "misspelled": "ٻيغن",
+  "error_type": "insertion",
+  "prev": "موچي",
+  "next": "شين",
+  "sentence": "جوتن سان گڏوگڏ موچي ٻين شين جھڙوڪ ٿيلھن",
+  "split": "test"
+ },
+ {
+  "correct": "لباس",
+  "misspelled": "لٻاس",
+  "error_type": "phonetic_substitution",
+  "prev": "انهيءَ",
+  "next": "جي",
+  "sentence": "انهيءَ لباس جي شروعات درويشن ۽ لاطمع فقيرن ڪئي",
+  "split": "test"
+ },
+ {
+  "correct": "پيغام",
+  "misspelled": "پيغامڄ",
+  "error_type": "insertion",
+  "prev": "ڪهڙو",
+  "next": "ڏنو",
+  "sentence": "مطلب تہ ليکڪ بنيادي طور ڪهڙو پيغام ڏنو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "کان",
+  "misspelled": "کصن",
+  "error_type": "random_substitution",
+  "prev": "ان",
+  "next": "بعد",
+  "sentence": "حضرت علي عليه السلام جي شهادت ڪفن و تدفين کان بعد عبدالله ابن عباس جي تحريڪ سان بقول ابن اثير قيس ابن سعدبن عباده انصاري امام حسن عليه السلام جي بيعت ڪئي ۽ ان کان بعد تمام حاضرين بيعت ڪئي جن جي تعداد",
+  "split": "test"
+ },
+ {
+  "correct": "تعلقو",
+  "misspelled": "تغلقو",
+  "error_type": "visual_substitution",
+  "prev": "هڪ",
+  "next": "آهي",
+  "sentence": "ڪنڊيارو تعلقو پاڪستان جي صوبي سنڌ جي شھيد بينظيرآباد ڊويزن جي ضلعي نوشهرو فيروز جو هڪ تعلقو آهي جنھن جو صدر مقام ڪنڊيارو شهر آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مسلم",
+  "misspelled": "مشلم",
+  "error_type": "visual_substitution",
+  "prev": "ڇاپو",
+  "next": "ادبي",
+  "sentence": "اُن جو ٽيون ڇاپو مسلم ادبي پريس",
+  "split": "test"
+ },
+ {
+  "correct": "مذهبي",
+  "misspelled": "مذبي",
+  "error_type": "weak_letter",
+  "prev": "ع",
+  "next": "اسڪالر",
+  "sentence": "جولاءِ ع مذهبي اسڪالر مولانا غلام حيدر ڪٽبري لاڏاڻو ڪري ويو",
+  "split": "test"
+ },
+ {
+  "correct": "ٻار",
+  "misspelled": "ٻاءر",
+  "error_type": "insertion",
+  "prev": "پٽ",
+  "next": "پنجن",
+  "sentence": "پٽ ٻار پنجن مهينن جو ۽ ڌيءُ جڏهن ستن مهينن جي ٿيندي آهي تڏهن ڪڇڙ ڪندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "مواد",
+  "misspelled": "مؤاد",
+  "error_type": "visual_substitution",
+  "prev": "گڏيل",
+  "next": "کي",
+  "sentence": "جي گڏيل مواد کي چئبو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "برٽش",
+  "misspelled": "بٽش",
+  "error_type": "deletion",
+  "prev": "آسومل",
+  "next": "انڊيا",
+  "sentence": "ميشرس وسيامل آسومل برٽش انڊيا واري دؤر ۾ مانجھند جو ھڪ واپاري فرم",
+  "split": "test"
+ },
+ {
+  "correct": "اسسٽنٽ",
+  "misspelled": "سسٽنٽ",
+  "error_type": "weak_letter",
+  "prev": "لاءِ",
+  "next": "پرزائيڊنگ",
+  "sentence": "پاڪستان ۾ اليڪشن ڪميشن آف پاڪستان طرفان قومي ۽ صوبائي اسيمبلي جي چونڊن توڙي بلدياتي چونڊن ۾ هر پولنگ اسٽيشن تي ھر بوٿ لاءِ اسسٽنٽ پرزائيڊنگ آفيسر مقرر ٿيندا آھن",
+  "split": "test"
+ },
+ {
+  "correct": "ارغون",
+  "misspelled": "راغون",
+  "error_type": "transposition",
+  "prev": "مقبرو",
+  "next": "ترخان",
+  "sentence": "هي مقبرو ارغون ترخان دور جو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ناس",
+  "misspelled": "نعس",
+  "error_type": "phonetic_substitution",
+  "prev": "پيهي",
+  "next": "ڏيارجي",
+  "sentence": "نڪهير جي حالت ۾ ڄاري کي مهٽي يا پيهي ناس ڏيارجي",
+  "split": "test"
+ },
+ {
+  "correct": "پکي",
+  "misspelled": "پکيي",
+  "error_type": "weak_letter",
+  "prev": "چٽڪمرو",
+  "next": "آهي",
+  "sentence": "ڪڪڙ کان وڏو چٽڪمرو پکي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "واپس",
+  "misspelled": "واسپ",
+  "error_type": "transposition",
+  "prev": "مان",
+  "next": "دل",
+  "sentence": "ان جي برعڪس جيڪي رڳون رت کي جسم مان واپس دل ۾ وٺي ويندي آھي ان کي وريدون",
+  "split": "test"
+ },
+ {
+  "correct": "نالي",
+  "misspelled": "نعلي",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "سان",
+  "sentence": "جيڪا سنڌ جي هڪ مشهور ڪردار بڊاماڻي پنري جي نالي سان منسوب آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وغيره",
+  "misspelled": "ڙوغيره",
+  "error_type": "insertion",
+  "prev": "مشاعرا",
+  "next": "ٿيندا",
+  "sentence": "۽ مشاعرا وغيره ٿيندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "معني",
+  "misspelled": "مءني",
+  "error_type": "phonetic_substitution",
+  "prev": "لفظي",
+  "next": "آهي",
+  "sentence": "جنهن جي لفظي معنيٰ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪتاب",
+  "misspelled": "ڪتايب",
+  "error_type": "weak_letter",
+  "prev": "هن",
+  "next": "جو",
+  "sentence": "هن ڪتاب جو ڇاپو ٽيون",
+  "split": "test"
+ },
+ {
+  "correct": "قومي",
+  "misspelled": "قموي",
+  "error_type": "transposition",
+  "prev": "پهريون",
+  "next": "ترانو",
+  "sentence": "دعوا آهي ته پهريون قومي ترانو هو",
+  "split": "test"
+ },
+ {
+  "correct": "پنهنجي",
+  "misspelled": "پنهڻجي",
+  "error_type": "phonetic_substitution",
+  "prev": "عورت",
+  "next": "پري",
+  "sentence": "جنهن ۾ عورت پنهنجي پري ويل محبوب کي ياد ڪندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "صدي",
+  "misspelled": "صڊي",
+  "error_type": "random_substitution",
+  "prev": "ايڪيهين",
+  "next": "جون",
+  "sentence": "ايڪيهين صدي جون ڀارتي اداڪارائون",
+  "split": "test"
+ },
+ {
+  "correct": "لاء",
+  "misspelled": "لاڦء",
+  "error_type": "insertion",
+  "prev": "پهچائڻ",
+  "next": "مبهم",
+  "sentence": "شاعر يا اديب ڪا خاص ڳالهه پهچائڻ لاءِ مبهم لفظن جو استعمال ڪندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "جمع",
+  "misspelled": "مجع",
+  "error_type": "transposition",
+  "prev": "ڪهاڻيون",
+  "next": "ڪرائڻ",
+  "sentence": "هن ء ۾ ميگزين ۾ ڪهاڻيون جمع ڪرائڻ شروع ڪيون",
+  "split": "test"
+ },
+ {
+  "correct": "هڪڙي",
+  "misspelled": "هکڙي",
+  "error_type": "visual_substitution",
+  "prev": "۾",
+  "next": "چڱي",
+  "sentence": "هن جي پنن ۾ هڪڙي چڱي خوشبوءِ ٿيندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌي",
+  "misspelled": "سنڌيع",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "ترجمو",
+  "sentence": "جنهن جو سنڌي ترجمو محمد عثمان ڏيپلائيءَ ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "ڳوٺ",
+  "misspelled": "ڳڪٺ",
+  "error_type": "random_substitution",
+  "prev": "تي",
+  "next": "رُڪڻ",
+  "sentence": "مئي ع تي ڳوٺ رُڪڻ",
+  "split": "test"
+ },
+ {
+  "correct": "روڊ",
+  "misspelled": "ڙروڊ",
+  "error_type": "insertion",
+  "prev": "برنس",
+  "next": "چؤنڪ",
+  "sentence": "ڪراچيءَ ۾ برنس روڊ چؤنڪ جي ويجھو ھڪ باغ",
+  "split": "test"
+ },
+ {
+  "correct": "جديد",
+  "misspelled": "جدڳيد",
+  "error_type": "insertion",
+  "prev": "جر",
+  "next": "شھرن",
+  "sentence": "پاڪستان جر جديد شھرن نارووال",
+  "split": "test"
+ },
+ {
+  "correct": "معني",
+  "misspelled": "معڻي",
+  "error_type": "visual_substitution",
+  "prev": "اصطلاحي",
+  "next": "آهي",
+  "sentence": "جنهن جي اصطلاحي معنيٰ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "قائم",
+  "misspelled": "قشائم",
+  "error_type": "insertion",
+  "prev": "۾",
+  "next": "ڪيو",
+  "sentence": "پاران هن تعليمي ۽ ثقافتي اداري کي سن ع ڌاري قاسم آباد حيدرآباد ۾ قائم ڪيو ويو",
+  "split": "test"
+ },
+ {
+  "correct": "ڪجهه",
+  "misspelled": "ڪجههر",
+  "error_type": "insertion",
+  "prev": "سڀ",
+  "next": "ٺيڪ",
+  "sentence": "حالت تہ سڀ ڪجهہ ٺيڪ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "تعليم",
+  "misspelled": "تعلئم",
+  "error_type": "visual_substitution",
+  "prev": "شروعاتي",
+  "next": "پنهنجي",
+  "sentence": "شروعاتي تعليم پنهنجي ڳوٺ ۾ ۽ پوءِ وڌيڪ تعليم بي اي ع ۾ ڊي جي سنڌ سائنس ڪاليج",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "سنڌٽ",
+  "error_type": "insertion",
+  "prev": "جتوئي",
+  "next": "جو",
+  "sentence": "غلام سرور جتوئي سنڌ جو هڪ ناميارو پهلوان",
+  "split": "test"
+ },
+ {
+  "correct": "اڇو",
+  "misspelled": "اءڇو",
+  "error_type": "insertion",
+  "prev": "پاسي",
+  "next": "چٽو",
+  "sentence": "پرن تي اڳئين پاسي اڇو چٽو ھوندو اٿس",
+  "split": "test"
+ },
+ {
+  "correct": "ايندي",
+  "misspelled": "ڱايندي",
+  "error_type": "insertion",
+  "prev": "کان",
+  "next": "آهي",
+  "sentence": "واپار جي شين وانگي ٻاهرين ملڪن کان ايندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وري",
+  "misspelled": "روري",
+  "error_type": "insertion",
+  "prev": "به",
+  "next": "معياري",
+  "sentence": "ان ۾ به وري معياري سياسي ادب ته صفا نه هجڻ جي برابر آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وارا",
+  "misspelled": "وضرا",
+  "error_type": "random_substitution",
+  "prev": "درجي",
+  "next": "هندو",
+  "sentence": "هيءُ گھٽ درجي وارا هندو آهن",
+  "split": "test"
+ },
+ {
+  "correct": "پنجاب",
+  "misspelled": "پنجبا",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "جي",
+  "sentence": "برڪت علي ڪامريڊ آزاد ع ۾ پنجاب جي امرتسر",
+  "split": "test"
+ },
+ {
+  "correct": "شروعات",
+  "misspelled": "شروعاط",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "ٿي",
+  "sentence": "کليل ڄاڻ چيڪلي جي شروعات ٿي",
+  "split": "test"
+ },
+ {
+  "correct": "لاء",
+  "misspelled": "لعء",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "ٺاهي",
+  "sentence": "سڙڪ يا سمنڊ وغيره کي پار ڪرڻ جي لاء ٺاهي ويندي آهي ته جيئن اچ وڃ ۾ آساني پيدا ڪري سگھجي",
+  "split": "test"
+ },
+ {
+  "correct": "آهي",
+  "misspelled": "آهگ",
+  "error_type": "random_substitution",
+  "prev": "ھوندو",
+  "next": "جيڪو",
+  "sentence": "ڳڀيل بيضو يوڪيريئوٽ جيو گھرڙو ھوندو آھي جيڪو ٻن تخمن",
+  "split": "test"
+ },
+ {
+  "correct": "ليکڪ",
+  "misspelled": "ليکڱڪ",
+  "error_type": "insertion",
+  "prev": "وجوان",
+  "next": "شوڪت",
+  "sentence": "وجوان ليکڪ شوڪت چاچڙ جو لکيل ڪتاب",
+  "split": "test"
+ },
+ {
+  "correct": "آثار",
+  "misspelled": "آثاز",
+  "error_type": "visual_substitution",
+  "prev": "قديم",
+  "next": "آهن",
+  "sentence": "آس پاس قديم آثار آهن",
+  "split": "test"
+ },
+ {
+  "correct": "مسلم",
+  "misspelled": "مشلم",
+  "error_type": "visual_substitution",
+  "prev": "امام",
+  "next": "آهي",
+  "sentence": "صحيح مسلم هڪ حديث جي ڪتاب آهي جنهن جو لکندر امام مسلم آهي",
+  "split": "test"
+ },
+ {
+  "correct": "تعمير",
+  "misspelled": "عتمير",
+  "error_type": "transposition",
+  "prev": "گرڊ",
+  "next": "ٿي",
+  "sentence": "ھتي لاھور مٽياري نيشنل گرڊ تعمير ٿي رھي آھي",
+  "split": "test"
+ },
+ {
+  "correct": "اسلامي",
+  "misspelled": "اوسلامي",
+  "error_type": "weak_letter",
+  "prev": "مٿن",
+  "next": "اعتقاد",
+  "sentence": "مسلمانن جي صلواة نالي عبادت کي سنڌيءَ ۾ نماز چئبو آهي جيڪا مٿن اسلامي اعتقاد موجب ڏينهن ۾ ڀيرا فرض آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ماڻهو",
+  "misspelled": "منڻهو",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "شڪار",
+  "sentence": "ٿر ۾ هن جو ماڻهو شڪار ڪندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "جنهن",
+  "misspelled": "ڄنهن",
+  "error_type": "phonetic_substitution",
+  "prev": "آھي",
+  "next": "۾",
+  "sentence": "پاڪستان جي صوبي سنڌ جي ضلعي مٽياري جي تعلقي مٽياري جي ھڪ ديھ جو نالو آھي جنھن ۾ ڳوٺ تاجپور ۽ ڳوٺ ڄام سمون واقع آھن",
+  "split": "test"
+ },
+ {
+  "correct": "دور",
+  "misspelled": "ودر",
+  "error_type": "transposition",
+  "prev": "واري",
+  "next": "۾",
+  "sentence": "ڪوڙومل چندن مل کلناڻي حيدرآباد سان تعلق رکندڙ سنڌ جو ھڪ ليکڪ جنھن ننڍي کنڊ جي ورهاڱي کان اڳ واري دور ۾ سنڌي ادب تي ڪافي ڪتاب لکيا",
+  "split": "test"
+ },
+ {
+  "correct": "ذات",
+  "misspelled": "ذاڀ",
+  "error_type": "visual_substitution",
+  "prev": "قديم",
+  "next": "آھي",
+  "sentence": "ھي سنڌ جي قديم ذات آھي",
+  "split": "test"
+ },
+ {
+  "correct": "معنوي",
+  "misspelled": "معوي",
+  "error_type": "deletion",
+  "prev": "شاعرن",
+  "next": "لحاظ",
+  "sentence": "سنڌي شاعرن معنوي لحاظ کان پنھنجي شاعريءَ ۾ انيڪ خوبيون پيدا ڪيون اھن",
+  "split": "test"
+ },
+ {
+  "correct": "اسماعيل",
+  "misspelled": "آسماعيل",
+  "error_type": "visual_substitution",
+  "prev": "حضرت",
+  "next": "کي",
+  "sentence": "کانپوءِ سندن فرزند حضرت اسماعيل کي امام مڃين ٿا",
+  "split": "test"
+ },
+ {
+  "correct": "باري",
+  "misspelled": "بارق",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "۾",
+  "sentence": "هي سر سسئي جي باري ۾ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ٽائون",
+  "misspelled": "ٽاوئن",
+  "error_type": "transposition",
+  "prev": "اورنگي",
+  "next": "جو",
+  "sentence": "غازي آباد ڪراچي اورنگي ٽائون جو هڪ علائو آهي جتي سنڌي",
+  "split": "test"
+ },
+ {
+  "correct": "اديب",
+  "misspelled": "اديٺ",
+  "error_type": "visual_substitution",
+  "prev": "مشهور",
+  "next": "۽",
+  "sentence": "مشهور اديب ۽ محقق آگسٽ ع تي خيرپور ميرس ۾ جنم ورتو",
+  "split": "test"
+ },
+ {
+  "correct": "ڪندو",
+  "misspelled": "ڱندو",
+  "error_type": "random_substitution",
+  "prev": "ڪونه",
+  "next": "آهي",
+  "sentence": "خاص ڪري وسڪاري جو وڌندي ويرم ئي ڪونه ڪندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "عرس",
+  "misspelled": "عريس",
+  "error_type": "weak_letter",
+  "prev": "ساليانو",
+  "next": "هر",
+  "sentence": "سيد سمن شاھ جو ساليانو عرس هر سال بدين ضلعي جي شهر پنگريو لڳ درويش جي درگاهه تي وڏي ڌام ڌوم سان لڳي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "قائم",
+  "misspelled": "ڪائم",
+  "error_type": "phonetic_substitution",
+  "prev": "۾",
+  "next": "ٿيو",
+  "sentence": "ء ۾ سول اهلڪارن جي لاءِ سکر ۾ قائم ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "وڌيڪ",
+  "misspelled": "وڌيڪو",
+  "error_type": "insertion",
+  "prev": "ڪجھ",
+  "next": "آھي",
+  "sentence": "ھن جي آبادي اسي ھزار کان ڪجھ وڌيڪ آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪراچي",
+  "misspelled": "ڪقاچي",
+  "error_type": "random_substitution",
+  "prev": "وي",
+  "next": "۾",
+  "sentence": "پاڪستان ۾ سڀ کان اول فلپس ٽي وي ڪراچي ۾ آڪٽوبر ۾ نشريات شروع ڪئي",
+  "split": "test"
+ },
+ {
+  "correct": "نگار",
+  "misspelled": "رگار",
+  "error_type": "random_substitution",
+  "prev": "ڊرامي",
+  "next": "انور",
+  "sentence": "ناول نويس ۽ ڊرامي نگار انور بلوچ جو جنم",
+  "split": "test"
+ },
+ {
+  "correct": "اڳڀرو",
+  "misspelled": "اڳڀزو",
+  "error_type": "visual_substitution",
+  "prev": "کان",
+  "next": "آهي",
+  "sentence": "سنگاپور ويندي ويندي سنڌي ٻوليءَ ۾ سفرنامن جي صنف کي ترقيءَ جون منزلون طئه ڪرائي عروج تي رسائڻ وارن ۾ الطاف شيخ سڀ کان اڳڀرو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مذهبي",
+  "misspelled": "ڊمذهبي",
+  "error_type": "insertion",
+  "prev": "کي",
+  "next": "تعليم",
+  "sentence": "خاص ڪري مدرسن ۾ شاگردن کي مذهبي تعليم ڏيڻ لاءِ جوڙيل نظميه سبقن وارا ڪتاب",
+  "split": "test"
+ },
+ {
+  "correct": "حسن",
+  "misspelled": "حسنڍ",
+  "error_type": "insertion",
+  "prev": "امام",
+  "next": "رضي",
+  "sentence": "ھ امام حسن رضي الله عنه",
+  "split": "test"
+ },
+ {
+  "correct": "مشهور",
+  "misspelled": "وشهور",
+  "error_type": "random_substitution",
+  "prev": "شيخ",
+  "next": "شاعر",
+  "sentence": "سندس والد محمد سومار شيخ مشهور شاعر ۽ اديب هو",
+  "split": "test"
+ },
+ {
+  "correct": "تحريڪ",
+  "misspelled": "تحٽيڪ",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "۾",
+  "sentence": "آزاديءَ جي تحريڪ ۾ سنڌ جو حصو",
+  "split": "test"
+ },
+ {
+  "correct": "ايران",
+  "misspelled": "يران",
+  "error_type": "deletion",
+  "prev": "هيءَ",
+  "next": "جي",
+  "sentence": "هيءَ ايران جي صفوي بادشاهه",
+  "split": "test"
+ },
+ {
+  "correct": "ڪري",
+  "misspelled": "ڪٿري",
+  "error_type": "insertion",
+  "prev": "حاصل",
+  "next": "سگهيو",
+  "sentence": "غريب خاندان جو فرد هئڻ سبب پرائمري تائين تعليم حاصل ڪري سگهيو",
+  "split": "test"
+ },
+ {
+  "correct": "ضلعو",
+  "misspelled": "ضلءو",
+  "error_type": "phonetic_substitution",
+  "prev": "پراڻا",
+  "next": "حيدرآباد",
+  "sentence": "ساڪن هالا پراڻا ضلعو حيدرآباد",
+  "split": "test"
+ },
+ {
+  "correct": "ايڪو",
+  "misspelled": "ءيڪو",
+  "error_type": "phonetic_substitution",
+  "prev": "اقتصادي",
+  "next": "قائم",
+  "sentence": "دُنيا ۾ عالمي اقتصادي ايڪو قائم ڪرڻ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "نالي",
+  "misspelled": "نالئ",
+  "error_type": "visual_substitution",
+  "prev": "هن",
+  "next": "سان",
+  "sentence": "هن نالي سان ٻيو هڪ جدا ڪتاب عابد لغاريءَ جو لکيل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "زمين",
+  "misspelled": "زيمن",
+  "error_type": "transposition",
+  "prev": "بنجر",
+  "next": "جو",
+  "sentence": "زمين بنجر آهي ته بنجر زمين جو علائقو",
+  "split": "test"
+ },
+ {
+  "correct": "خان",
+  "misspelled": "خانپ",
+  "error_type": "insertion",
+  "prev": "حسن",
+  "next": "واپاري",
+  "sentence": "سندس والد گل حسن خان واپاري هو",
+  "split": "test"
+ },
+ {
+  "correct": "اڪڙي",
+  "misspelled": "ڪاڙي",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "وڏي",
+  "sentence": "جنهن جي نالي پويان هن ايراضيءَ ۾ اڪڙي وڏي",
+  "split": "test"
+ },
+ {
+  "correct": "پوء",
+  "misspelled": "پؤء",
+  "error_type": "visual_substitution",
+  "prev": "کان",
+  "next": "ٻہ",
+  "sentence": "آمري شهر جي اوڀر ۾ سنڌو درياھ وڏي اٿل کان پوءِ ٻہ درياهي",
+  "split": "test"
+ },
+ {
+  "correct": "بنياد",
+  "misspelled": "بنيءد",
+  "error_type": "phonetic_substitution",
+  "prev": "جو",
+  "next": "رکيو",
+  "sentence": "آمريڪا جو انٽرپرينر ۽ سيٺ ھيو جنھن ميريئٽ ڪارپوريشن جو بنياد رکيو جيڪا اڳتي هلي ۾ ميريئٽ انٽرنيشنل جي صورت اختيار ڪئي",
+  "split": "test"
+ },
+ {
+  "correct": "جتوئي",
+  "misspelled": "خجتوئي",
+  "error_type": "insertion",
+  "prev": "علي",
+  "next": "ولد",
+  "sentence": "لياقت علي جتوئي ولد عبدالمجيد جتوئي تي ٻيٽو جتوئي",
+  "split": "test"
+ },
+ {
+  "correct": "مرد",
+  "misspelled": "رمد",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "کي",
+  "sentence": "ساڳي حالت ۾ مرد کي رنڙ چوندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "ڏنل",
+  "misspelled": "ڏنلڄ",
+  "error_type": "insertion",
+  "prev": "ترتيب",
+  "next": "آهي",
+  "sentence": "تي مشتمل هيءُ ڪتاب نامور اديب ۽ سياستدان مخدوم جميل الزمان جو ترتيب ڏنل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "حسني",
+  "misspelled": "حسهي",
+  "error_type": "random_substitution",
+  "prev": "اُھي",
+  "next": "يا",
+  "sentence": "اُھي حسني يا حسيني آھن",
+  "split": "test"
+ },
+ {
+  "correct": "جيڪا",
+  "misspelled": "جياڪ",
+  "error_type": "transposition",
+  "prev": "آھي",
+  "next": "مختلف",
+  "sentence": "برقي تار بجليءَ جي رسد لاءِ استعمال ٿيندڙ ڌاتوئي تار آھي جيڪا مختلف ڌاتوئن جھڙوڪ ٽامي",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌي",
+  "misspelled": "سڻڌي",
+  "error_type": "phonetic_substitution",
+  "prev": "ٺاڪر",
+  "next": "ٻوليءَ",
+  "sentence": "جي ٺاڪر سنڌي ٻوليءَ جو عالم آهي",
+  "split": "test"
+ },
+ {
+  "correct": "اجلاس",
+  "misspelled": "اجلظس",
+  "error_type": "random_substitution",
+  "prev": "اھو",
+  "next": "قائداعظم",
+  "sentence": "اھو اجلاس قائداعظم محمد علي جناح جي صدارت ۾",
+  "split": "test"
+ },
+ {
+  "correct": "غلام",
+  "misspelled": "ڻلام",
+  "error_type": "random_substitution",
+  "prev": "جنوري",
+  "next": "حسين",
+  "sentence": "جنوري غلام حسين شاهه بخاري",
+  "split": "test"
+ },
+ {
+  "correct": "هڪڙو",
+  "misspelled": "هکڙو",
+  "error_type": "visual_substitution",
+  "prev": "جو",
+  "next": "قسم",
+  "sentence": "تاج خروس گل به مخمل جو هڪڙو قسم آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وانگر",
+  "misspelled": "وعنگر",
+  "error_type": "phonetic_substitution",
+  "prev": "روشنيءَ",
+  "next": "روشن",
+  "sentence": "سج جي روشنيءَ وانگر روشن شخصيت",
+  "split": "test"
+ },
+ {
+  "correct": "نالي",
+  "misspelled": "نآلي",
+  "error_type": "visual_substitution",
+  "prev": "جي",
+  "next": "تي",
+  "sentence": "عبدالغني ڪير هو جنهن جي نالي تي اهو چوڪ مشهور ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "حديثون",
+  "misspelled": "حديثنو",
+  "error_type": "transposition",
+  "prev": "کان",
+  "next": "روايت",
+  "sentence": "جنهن کان حديثون روايت ڪيل آهن",
+  "split": "test"
+ },
+ {
+  "correct": "راجا",
+  "misspelled": "ثراجا",
+  "error_type": "insertion",
+  "prev": "ڀاءُ",
+  "next": "چندر",
+  "sentence": "ان بعد سندس ڀاءُ راجا چندر",
+  "split": "test"
+ },
+ {
+  "correct": "سائيز",
+  "misspelled": "ثائيز",
+  "error_type": "phonetic_substitution",
+  "prev": "ڪرائون",
+  "next": "واري",
+  "sentence": "ڪرائون سائيز واري هن ڪتاب ۾ صفحا آهن ۽ قيمت سوا رپيو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "هندي",
+  "misspelled": "حندي",
+  "error_type": "phonetic_substitution",
+  "prev": "سر",
+  "next": "گائن",
+  "sentence": "پر هي سر هندي گائن وديا ۾ به آهي",
+  "split": "test"
+ },
+ {
+  "correct": "تنهنڪري",
+  "misspelled": "تنهنرڪي",
+  "error_type": "transposition",
+  "prev": "ھيو",
+  "next": "ھن",
+  "sentence": "شراب سڻدس شاعري جو مرڪزي موضوع ھيو تنھنڪري ھن جي شاعري شراب جي محفلن",
+  "split": "test"
+ },
+ {
+  "correct": "سوسائٽي",
+  "misspelled": "سوسائٽص",
+  "error_type": "random_substitution",
+  "prev": "ٿياسافيڪل",
+  "next": "قائم",
+  "sentence": "جنهن تبت جي دوري کان پوءِ ع ۾ نيويارڪ ٿياسافيڪل سوسائٽي قائم ڪئي",
+  "split": "test"
+ },
+ {
+  "correct": "واقع",
+  "misspelled": "اقع",
+  "error_type": "weak_letter",
+  "prev": "۾",
+  "next": "آهي",
+  "sentence": "مديني منوره جو پراڻو نالو جيڪو سعودي عرب ۾ واقع آهي",
+  "split": "test"
+ },
+ {
+  "correct": "هوا",
+  "misspelled": "هوأ",
+  "error_type": "visual_substitution",
+  "prev": "سبب",
+  "next": "کي",
+  "sentence": "لباس وغيره پنهنجي اُڻاوت جي گهاٽائيءَ سبب هوا کي روڪڻ جي صلاحيت رکندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "راء",
+  "misspelled": "رعء",
+  "error_type": "phonetic_substitution",
+  "prev": "۾",
+  "next": "گهراڻي",
+  "sentence": "پاڻ ڪريم صلي الله عليه وسلم جي هجرت کان اڳ سنڌ ۾ راء گهراڻي جي حڪومت هئي",
+  "split": "test"
+ },
+ {
+  "correct": "ماسي",
+  "misspelled": "مءسي",
+  "error_type": "phonetic_substitution",
+  "prev": "هڪ",
+  "next": "تائين",
+  "sentence": "چئن رتين کان هڪ ماسي تائين",
+  "split": "test"
+ },
+ {
+  "correct": "تاج",
+  "misspelled": "اتج",
+  "error_type": "transposition",
+  "prev": "شاعر",
+  "next": "جويو",
+  "sentence": "سنڌ جو ناميارو اديب ۽ شاعر تاج جويو",
+  "split": "test"
+ },
+ {
+  "correct": "مند",
+  "misspelled": "منف",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "۾",
+  "sentence": "مگر سياري جي مند ۾ جهنگ ۾ به مليو وڃي",
+  "split": "test"
+ },
+ {
+  "correct": "اوڀر",
+  "misspelled": "وڀر",
+  "error_type": "deletion",
+  "prev": "ڏکڻ",
+  "next": "۾",
+  "sentence": "ڏکڻ اوڀر ۾ ڇتيس ڳڙھ",
+  "split": "test"
+ },
+ {
+  "correct": "اوڀر",
+  "misspelled": "اڌڀر",
+  "error_type": "random_substitution",
+  "prev": "ميل",
+  "next": "طرف",
+  "sentence": "پاڪ سنگهار هڪ مشهور درويش ۽ صوفي بزرگ هو جنهن جي درگاهه ٽنڊي الهيار ضلعي جي پاڪ سنگهار ڳوٺ ۾ موجود آهي جيڪو ٽنڊي الهيار شهر کان پنج ميل اوڀر طرف آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مشهور",
+  "misspelled": "مشحور",
+  "error_type": "phonetic_substitution",
+  "prev": "۾",
+  "next": "بزرگ",
+  "sentence": "شيخ شمس الدين بکر ۾ مشهور بزرگ هيو",
+  "split": "test"
+ },
+ {
+  "correct": "ٿيڻ",
+  "misspelled": "ڄيڻ",
+  "error_type": "random_substitution",
+  "prev": "پوري",
+  "next": "۾",
+  "sentence": "سال پوري ٿيڻ ۾ ڏينهن",
+  "split": "test"
+ },
+ {
+  "correct": "علائقو",
+  "misspelled": "علئاقو",
+  "error_type": "transposition",
+  "prev": "هڪ",
+  "next": "آهي",
+  "sentence": "پي اي سي ايچ ايس ڪراچي جي جمشيد ٽائون جو هڪ علائقو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مطلب",
+  "misspelled": "مطلٺ",
+  "error_type": "visual_substitution",
+  "prev": "جو",
+  "next": "اھي",
+  "sentence": "سامي صفت جو مطلب اھي سامي ٻولين جھڙي",
+  "split": "test"
+ },
+ {
+  "correct": "تامل",
+  "misspelled": "تالم",
+  "error_type": "transposition",
+  "prev": "جي",
+  "next": "ناڊ",
+  "sentence": "هندستان جي تامل ناڊ رياست جي ثقافتي راند آهي",
+  "split": "test"
+ },
+ {
+  "correct": "شڪارپور",
+  "misspelled": "شڪارپؤر",
+  "error_type": "visual_substitution",
+  "prev": "ضلعي",
+  "next": "جو",
+  "sentence": "شڪارپور تعلقو پاڪستان جي صوبي سنڌ جي ضلعي شڪارپور جو هڪ تعلقو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "گادي",
+  "misspelled": "گداي",
+  "error_type": "transposition",
+  "prev": "جي",
+  "next": "جي",
+  "sentence": "پاڪستان جي صوبي سنڌ جي گادي جي هنڌ ڪراچي ۾ واقعي سڀ کان وڏي سرڪاري مادرعلمي ڪراچي يونيورسٽي ۾ پڙهندڙ سنڌي شاگردن جي هڪ سماجي ۽ ثقافتي تنظيم آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ويندو",
+  "misspelled": "وينيدو",
+  "error_type": "weak_letter",
+  "prev": "ڪيو",
+  "next": "آهي",
+  "sentence": "دُنبو شرعي اصولن مطابق حلال ڪيو ويندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "راڳ",
+  "misspelled": "رزڳ",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "بہ",
+  "sentence": "تنھنڪري ھن راڳ کي آس ۽ ارداس جو راڳ بہ چيو ويو آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ذريعو",
+  "misspelled": "ذرايعو",
+  "error_type": "insertion",
+  "prev": "قدرتي",
+  "next": "سج",
+  "sentence": "روشنيءَ جو قدرتي ذريعو سج",
+  "split": "test"
+ },
+ {
+  "correct": "تحقيق",
+  "misspelled": "تحقق",
+  "error_type": "deletion",
+  "prev": "جي",
+  "next": "سان",
+  "sentence": "سنڌ سڀيتا جي تحقيق سان لاڳاپيل رهيو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "درگاهه",
+  "misspelled": "دراگهه",
+  "error_type": "transposition",
+  "prev": "يا",
+  "next": "آهي",
+  "sentence": "خانقاه احمديه سعيديه پاڪستان ۾ نقشبندي طريقت جي هڪ مشهور خانقاه يا درگاهه آهي",
+  "split": "test"
+ },
+ {
+  "correct": "جنگ",
+  "misspelled": "قنگ",
+  "error_type": "random_substitution",
+  "prev": "ظفر",
+  "next": "هجي",
+  "sentence": "ٿي سگهي ٿو ته هو نبيره سعيد خان بهادر ظفر جنگ هجي",
+  "split": "test"
+ },
+ {
+  "correct": "لکيل",
+  "misspelled": "لکيخل",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "آهي",
+  "sentence": "هيءُ ڪتاب محمد بخش واصف جو لکيل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ملڪ",
+  "misspelled": "ملجڪ",
+  "error_type": "insertion",
+  "prev": "ملڪان",
+  "next": "پکڙجي",
+  "sentence": "گڏوگڏ ڳالھ جو ملڪان ملڪ پکڙجي وڃڻ",
+  "split": "test"
+ },
+ {
+  "correct": "ارب",
+  "misspelled": "آرب",
+  "error_type": "visual_substitution",
+  "prev": "کي",
+  "next": "ڊالرن",
+  "sentence": "کي ارب ڊالرن ۾ خريد ڪري ڇڏيو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "اولاد",
+  "misspelled": "اؤلاد",
+  "error_type": "visual_substitution",
+  "prev": "جو",
+  "next": "آهن",
+  "sentence": "سماٽن لاءِ روايت آهي ته سام جو اولاد آهن",
+  "split": "test"
+ },
+ {
+  "correct": "ڇپائي",
+  "misspelled": "ڇپعئي",
+  "error_type": "phonetic_substitution",
+  "prev": "۾",
+  "next": "پڌرو",
+  "sentence": "الهندي ڪچي حيدرآباد مان ع ۾ ڇپائي پڌرو ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "سجدو",
+  "misspelled": "ڏجدو",
+  "error_type": "random_substitution",
+  "prev": "به",
+  "next": "شڪر",
+  "sentence": "انکان علاوه اللہ جي شڪر جي لاء به سجدو شڪر ڪيو ويندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "گاديء",
+  "misspelled": "گدايء",
+  "error_type": "transposition",
+  "prev": "جو",
+  "next": "جو",
+  "sentence": "انڊيا جي رياست مھاراشٽر جو گاديءَ جو هنڌ آھي ۽ انڊيا جو سڀ کان وڏو شھر آھي",
+  "split": "test"
+ },
+ {
+  "correct": "جيان",
+  "misspelled": "يجان",
+  "error_type": "transposition",
+  "prev": "ڇلي",
+  "next": "ٿئي",
+  "sentence": "چانديءَ جي ڇلي جيان ٿئي",
+  "split": "test"
+ },
+ {
+  "correct": "طرح",
+  "misspelled": "طح",
+  "error_type": "deletion",
+  "prev": "خاص",
+  "next": "سنڌي",
+  "sentence": "خاص طرح سنڌي ادبي بورڊ",
+  "split": "test"
+ },
+ {
+  "correct": "ضلعو",
+  "misspelled": "ضلعوا",
+  "error_type": "weak_letter",
+  "prev": "بولان",
+  "next": "پاڪستان",
+  "sentence": "بولان ضلعو پاڪستان جي صوبي بلوچستان جو ھڪ ضلعو آھي",
+  "split": "test"
+ },
+ {
+  "correct": "سيد",
+  "misspelled": "ثيد",
+  "error_type": "phonetic_substitution",
+  "prev": "ڏاڏو",
+  "next": "قطب",
+  "sentence": "سندس وڏو ڏاڏو سيد قطب الدين شاهه",
+  "split": "test"
+ },
+ {
+  "correct": "اها",
+  "misspelled": "اهع",
+  "error_type": "phonetic_substitution",
+  "prev": "کان",
+  "next": "سرگرمي",
+  "sentence": "تڏهن کان اها سرگرمي شروع ٿي ته جيئن عام شهرين جو نقصان گهٽائي سگهجي",
+  "split": "test"
+ },
+ {
+  "correct": "نالو",
+  "misspelled": "نءلو",
+  "error_type": "phonetic_substitution",
+  "prev": "جو",
+  "next": "آخوند",
+  "sentence": "سندس والد جو نالو آخوند محمد صالح ھو",
+  "split": "test"
+ },
+ {
+  "correct": "جون",
+  "misspelled": "وجن",
+  "error_type": "transposition",
+  "prev": "دانائيءَ",
+  "next": "ڳالھيون",
+  "sentence": "جيڪو پنھنجي علم ۽ تجربي جي آڌار تي ڏاهپ ۽ دانائيءَ جون ڳالھيون ڪري يا لکي",
+  "split": "test"
+ },
+ {
+  "correct": "سال",
+  "misspelled": "ساڀل",
+  "error_type": "insertion",
+  "prev": "عيسوي",
+  "next": "جو",
+  "sentence": "عيسوي سال جو هون ڏينهن آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪري",
+  "misspelled": "ڀڪري",
+  "error_type": "insertion",
+  "prev": "ٻُور",
+  "next": "ٿو",
+  "sentence": "خاص ڪري جڏهن ٻُور ڪري ٿو ۽ ننڍن گلابي رنگ جي گلن جا ڇڳا جهلي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "تفريح",
+  "misspelled": "تفريه",
+  "error_type": "phonetic_substitution",
+  "prev": "جون",
+  "next": "گاهون",
+  "sentence": "ان کان پوءِ هن قسم جون تفريح گاهون فلوريڊا رياست",
+  "split": "test"
+ },
+ {
+  "correct": "ضلعو",
+  "misspelled": "ئضلعو",
+  "error_type": "insertion",
+  "prev": "خان",
+  "next": "پاڪستان",
+  "sentence": "رحيم يار خان ضلعو پاڪستان جي صوبي پنجاب جو هڪ ضلعو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "قائم",
+  "misspelled": "قاام",
+  "error_type": "random_substitution",
+  "prev": "۾",
+  "next": "فلاحي",
+  "sentence": "آغوش نوراني ويلفيئر فاؤنڊيشن جي تحت راولپنڊي ۾ قائم فلاحي ادارو",
+  "split": "test"
+ },
+ {
+  "correct": "پاڪستان",
+  "misspelled": "پاڪتسان",
+  "error_type": "transposition",
+  "prev": "تعلقو",
+  "next": "جي",
+  "sentence": "ميرپور ماٿيلو تعلقو پاڪستان جي صوبي سنڌ جي سکر ڊويزن جي ضلعي گهوٽڪي جو هڪ تعلقو آهي جنھن جو صدر مقام ميرپور ماٿيلو شھر آھي",
+  "split": "test"
+ },
+ {
+  "correct": "وقت",
+  "misspelled": "وڦت",
+  "error_type": "visual_substitution",
+  "prev": "ئي",
+  "next": "تاريخي",
+  "sentence": "جيڪو هڪ ئي وقت تاريخي ۽ سماجي تنقيد سان واسطو رکي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "ترخان",
+  "misspelled": "ترخأن",
+  "error_type": "visual_substitution",
+  "prev": "ارغون",
+  "next": "دور",
+  "sentence": "ارغون ترخان دور جو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ويندي",
+  "misspelled": "ويني",
+  "error_type": "deletion",
+  "prev": "ڏني",
+  "next": "آهي",
+  "sentence": "جي نشاني ڏني ويندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "هلال",
+  "misspelled": "هلإل",
+  "error_type": "visual_substitution",
+  "prev": "روزانہ",
+  "next": "پاڪستان",
+  "sentence": "روزانہ هلال پاڪستان جو نگران بہ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "نعمت",
+  "misspelled": "نعمٹ",
+  "error_type": "visual_substitution",
+  "prev": "لاءِ",
+  "next": "آهي",
+  "sentence": "سيءَ ۾ کٿو مارو ماڻهن لاءِ نعمت آهي",
+  "split": "test"
+ },
+ {
+  "correct": "اياز",
+  "misspelled": "عياز",
+  "error_type": "phonetic_substitution",
+  "prev": "ڊاڪٽر",
+  "next": "حسين",
+  "sentence": "جڏهن ته پروفيسر ڊاڪٽر اياز حسين قادري",
+  "split": "test"
+ },
+ {
+  "correct": "متاثر",
+  "misspelled": "ماتثر",
+  "error_type": "transposition",
+  "prev": "پڻ",
+  "next": "ٿيو",
+  "sentence": "گھرو ويڙهه سبب ڪابل پڻ متاثر ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "هوندي",
+  "misspelled": "هوندظي",
+  "error_type": "insertion",
+  "prev": "ڀريل",
+  "next": "آهي",
+  "sentence": "جيڪا ڪکن ڪانن سان ڀريل هوندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "علامه",
+  "misspelled": "غلامه",
+  "error_type": "visual_substitution",
+  "prev": "لاءِ",
+  "next": "علي",
+  "sentence": "جنهن احمد سلطان جي تعليم ۽ تربيت لاءِ علامه علي خان ابڙي کي اتاليق مقرر ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "ابراهيم",
+  "misspelled": "ابراهي",
+  "error_type": "deletion",
+  "prev": "عثمانيه",
+  "next": "اول",
+  "sentence": "سلطان سلطنت عثمانيه ابراھيم اول جي خاصڪي سلطان ڪنيز ھئي",
+  "split": "test"
+ },
+ {
+  "correct": "راڄ",
+  "misspelled": "رگڄ",
+  "error_type": "random_substitution",
+  "prev": "برطانوي",
+  "next": "دوران",
+  "sentence": "برطانوي راڄ دوران ھتي ريلوي اسٽيشن قائم ڪئي وئي",
+  "split": "test"
+ },
+ {
+  "correct": "ديوار",
+  "misspelled": "يوار",
+  "error_type": "deletion",
+  "prev": "جي",
+  "next": "شامل",
+  "sentence": "يارڪ شھر جي ديوار شامل آهن",
+  "split": "test"
+ },
+ {
+  "correct": "آبادي",
+  "misspelled": "آٻادي",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "جي",
+  "sentence": "ان جي آبادي جي آدمشماري مطابق آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ديه",
+  "misspelled": "دشه",
+  "error_type": "random_substitution",
+  "prev": "ھي",
+  "next": "سنڌو",
+  "sentence": "ھي ديھ سنڌو درياءَ جي ڀر ۾ واقع آهي",
+  "split": "test"
+ },
+ {
+  "correct": "معني",
+  "misspelled": "معڻي",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "تي",
+  "sentence": "جي معنيٰ تي غور ڪبو ته ان جون ٻه معنائون نڪرنديون",
+  "split": "test"
+ },
+ {
+  "correct": "نام",
+  "misspelled": "نأم",
+  "error_type": "visual_substitution",
+  "prev": "نيڪ",
+  "next": "بادشاهه",
+  "sentence": "مغل سلطنت جو نيڪ نام بادشاهه",
+  "split": "test"
+ },
+ {
+  "correct": "سرڪاري",
+  "misspelled": "سرڪازي",
+  "error_type": "visual_substitution",
+  "prev": "پيراگوئي",
+  "next": "نالو",
+  "sentence": "پيراگوئي سرڪاري نالو ريپبلڪ آف پيراگوئي اٿس",
+  "split": "test"
+ },
+ {
+  "correct": "مسعود",
+  "misspelled": "مسعسود",
+  "error_type": "insertion",
+  "prev": "سلطان",
+  "next": "کي",
+  "sentence": "جڏهن ته سلطان مسعود کي جيل ڀيڙو ڪري ڇڏيائون",
+  "split": "test"
+ },
+ {
+  "correct": "لاء",
+  "misspelled": "لڱاء",
+  "error_type": "insertion",
+  "prev": "هڪلڻ",
+  "next": "هاري",
+  "sentence": "کانڀاڻي سُٽ مان ٺهيل ھڪ شئي جو نالو آهي جنھن ذريعي ھاري پکين کي فصل تان ڀڄائيندا آھن يا جهار هڪلڻ لاءِ ڪم ايندي آهي ٿر ۾ وسڪاري جو جهار هڪلڻ لاءِ هاري ماڻهو کانڀاڻي ٺاهيندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "هيء",
+  "misspelled": "هيشء",
+  "error_type": "insertion",
+  "prev": "شخصيتون",
+  "next": "آهن",
+  "sentence": "ساند قوم جون مشهور شخصيتون هيءَ آهن",
+  "split": "test"
+ },
+ {
+  "correct": "تاريخي",
+  "misspelled": "طاريخي",
+  "error_type": "phonetic_substitution",
+  "prev": "جو",
+  "next": "شھر",
+  "sentence": "ھن ضلعي جو صدر مقام ان جو تاريخي شھر کپلو آھي جيڪو اتان جو سياحتي مرڪز آھي",
+  "split": "test"
+ },
+ {
+  "correct": "اهي",
+  "misspelled": "اهڍ",
+  "error_type": "random_substitution",
+  "prev": "باوجود",
+  "next": "رانديون",
+  "sentence": "تنهن باوجود اهي رانديون مونٽريال ۾ کيڏيون ويو",
+  "split": "test"
+ },
+ {
+  "correct": "وفات",
+  "misspelled": "فات",
+  "error_type": "weak_letter",
+  "prev": "۾",
+  "next": "ڪيائين",
+  "sentence": "صوفي امداد عباس بن صوفي عبدالستار ع ۾ جھوڪ شريف ۾ پيدا ٿيو ۽ شوال هه ع ۾ وفات ڪيائين",
+  "split": "test"
+ },
+ {
+  "correct": "ڪتاب",
+  "misspelled": "ڪتاٻ",
+  "error_type": "phonetic_substitution",
+  "prev": "اردو",
+  "next": "تان",
+  "sentence": "سنڌي ادب ۾ سائنسي ڪتابن جي لکڻ ۽ شايع ڪرائڻ واري رٿا هيٺ هيءُ ڪتاب اصل اردو ڪتاب تان ٻيهر بدر رضوان عباسيءَ ترجمو ڪيو ۽ سنڌي لئنگئيج اٿارٽيءَ ڇپايو",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "نسڌ",
+  "error_type": "transposition",
+  "prev": "فوج",
+  "next": "راجسٿان",
+  "sentence": "ھندوستاني فوج سنڌ راجسٿان بارڊر کي غير اھم سمجھي مدراس ريجمينٽ جي حوالي ڪيو جن کي ريگستان جي ڪا بہ خبر چار نہ ھئي",
+  "split": "test"
+ },
+ {
+  "correct": "چيني",
+  "misspelled": "چيين",
+  "error_type": "transposition",
+  "prev": "تحريري",
+  "next": "چيني",
+  "sentence": "جيڪي تحريري چيني چيني ٻولي ۽ ٻين ايشيائي ٻولين جي لکڻ لاءِ استعمال ڪيا ويندا آهن",
+  "split": "test"
+ },
+ {
+  "correct": "تيليون",
+  "misspelled": "تيليوين",
+  "error_type": "weak_letter",
+  "prev": "جون",
+  "next": "تيليون",
+  "sentence": "ان جون تيليون تيليون ٿين",
+  "split": "test"
+ },
+ {
+  "correct": "مٿي",
+  "misspelled": "مذي",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "مان",
+  "sentence": "جي مٿي مان نڪري جنم ورتو ھو",
+  "split": "test"
+ },
+ {
+  "correct": "رنگ",
+  "misspelled": "رڻگ",
+  "error_type": "phonetic_substitution",
+  "prev": "اڇي",
+  "next": "تي",
+  "sentence": "جيڪو جوهردار اڇي رنگ تي ٿئي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "مولانا",
+  "misspelled": "مولانٽ",
+  "error_type": "random_substitution",
+  "prev": "مصنف",
+  "next": "درمحمد",
+  "sentence": "هن ڪتاب جو مصنف مولانا درمحمد",
+  "split": "test"
+ },
+ {
+  "correct": "ڏينهن",
+  "misspelled": "ڏينقن",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "ملهايو",
+  "sentence": "سنڌ ۾ واپارين جو ڏينهن ملهايو ويو",
+  "split": "test"
+ },
+ {
+  "correct": "اصطلاح",
+  "misspelled": "صطلاح",
+  "error_type": "deletion",
+  "prev": "انگریزي",
+  "next": "آھي",
+  "sentence": "ھڪ انگریزي اصطلاح آھي جيڪا انگریزي زبان استعمال ڪندڙ ملڪن ۾ فحش نگاريءَ سان گڏوگڏ ھر روز جي ڳالھ ٻولھ ۾ به استعمال شده آھي",
+  "split": "test"
+ },
+ {
+  "correct": "پهريون",
+  "misspelled": "پهرينو",
+  "error_type": "transposition",
+  "prev": "ڪوريا",
+  "next": "ايٽمي",
+  "sentence": "آڪٽوبر اتر ڪوريا پهريون ايٽمي تجربو ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "حصي",
+  "misspelled": "حشي",
+  "error_type": "random_substitution",
+  "prev": "ڏاکڻي",
+  "next": "۾",
+  "sentence": "افغانستان جو ھڪ صوبو آهي جيڪو ان جي ڏاکڻي حصي ۾ پاڪستان جي سرحد تي واقع آھي",
+  "split": "test"
+ },
+ {
+  "correct": "مزار",
+  "misspelled": "مزر",
+  "error_type": "weak_letter",
+  "prev": "۽",
+  "next": "جي",
+  "sentence": "اول شاهه ۽ جمن شاهه ٻنهي ڀائرن جون مزارون گڏ آهن ۽ مزار جي اڳيان جيڪو گرائونڊ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "جاري",
+  "misspelled": "جاريڪ",
+  "error_type": "insertion",
+  "prev": "ڀرڳڙي",
+  "next": "ڪئي",
+  "sentence": "هي اخبار حيدرآباد مان ع مان رئيس غلام محمد ڀرڳڙي جاري ڪئي",
+  "split": "test"
+ },
+ {
+  "correct": "تائين",
+  "misspelled": "تاائين",
+  "error_type": "weak_letter",
+  "prev": "سطح",
+  "next": "وٺي",
+  "sentence": "جيڪو پڙهندڙ يا ٻڌندڙ تي وجداني ۽ جذباتي ۽ تخليقي سطح تائين وٺي وڃي",
+  "split": "test"
+ },
+ {
+  "correct": "آسٽريليا",
+  "misspelled": "آسٽرايليا",
+  "error_type": "weak_letter",
+  "prev": "۽",
+  "next": "۾",
+  "sentence": "چين ۽ آسٽريليا ۾ به ٿيندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مٿي",
+  "misspelled": "مٿئ",
+  "error_type": "visual_substitution",
+  "prev": "جي",
+  "next": "مان",
+  "sentence": "ان جي سڃاڻپ ان جي مٿي مان نڪرندڙ ٻن سڱن مان ٿيندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "نالو",
+  "misspelled": "انلو",
+  "error_type": "transposition",
+  "prev": "جو",
+  "next": "آهي",
+  "sentence": "هڪ رنگ جو نالو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "خاندان",
+  "misspelled": "خاندعن",
+  "error_type": "phonetic_substitution",
+  "prev": "بلوچ",
+  "next": "مان",
+  "sentence": "جي بلوچ خاندان مان هو",
+  "split": "test"
+ },
+ {
+  "correct": "ادب",
+  "misspelled": "غدب",
+  "error_type": "random_substitution",
+  "prev": "مغربي",
+  "next": "۾وڏي",
+  "sentence": "اڻويهين صديءَ ۾ هن تنقيد کي مغربي ادب ۾وڏي مقبوليت حاصل ٿي",
+  "split": "test"
+ },
+ {
+  "correct": "پاڪستان",
+  "misspelled": "پاڪستانڊ",
+  "error_type": "insertion",
+  "prev": "آسٽريليا",
+  "next": "ڊيولپمينٽ",
+  "sentence": "آسٽريليا پاڪستان ڊيولپمينٽ پاٽنرشپ پروگرام",
+  "split": "test"
+ },
+ {
+  "correct": "الله",
+  "misspelled": "اللح",
+  "error_type": "phonetic_substitution",
+  "prev": "رضي",
+  "next": "تعالٰي",
+  "sentence": "ھ حضرت عمر رضي الله تعالٰي عنه بن العاص",
+  "split": "test"
+ },
+ {
+  "correct": "شاهه",
+  "misspelled": "شهاه",
+  "error_type": "transposition",
+  "prev": "گهمرو",
+  "next": "عبداللطيف",
+  "sentence": "ضمير گهمرو شاهه عبداللطيف يونيورسٽي",
+  "split": "test"
+ },
+ {
+  "correct": "هفتيوار",
+  "misspelled": "هفتيوارم",
+  "error_type": "insertion",
+  "prev": "نڪرندر",
+  "next": "اخبار",
+  "sentence": "سنڌي ٻوليءَ ۾ نڪرندر هفتيوار اخبار",
+  "split": "test"
+ },
+ {
+  "correct": "شعر",
+  "misspelled": "شعڌ",
+  "error_type": "random_substitution",
+  "prev": "مان",
+  "next": "آسانيءَ",
+  "sentence": "جنهن مان شعر آسانيءَ سان پيدا نہ ٿي سگهي",
+  "split": "test"
+ },
+ {
+  "correct": "اوزار",
+  "misspelled": "اچوزار",
+  "error_type": "insertion",
+  "prev": "ھڪ",
+  "next": "جنھن",
+  "sentence": "الٽراسانڪ ڪلينر ھڪ اوزار جنھن ۾ الٽراسائونڊ جي ذريعي",
+  "split": "test"
+ },
+ {
+  "correct": "کاڌو",
+  "misspelled": "ڪاڌو",
+  "error_type": "visual_substitution",
+  "prev": "جن",
+  "next": "آهورن",
+  "sentence": "انهيءَ ڪري چوڻي آهي تہ جن کاڌو آهورن ۾",
+  "split": "test"
+ },
+ {
+  "correct": "حديث",
+  "misspelled": "حديٽث",
+  "error_type": "insertion",
+  "prev": "کانپوءِ",
+  "next": "شريف",
+  "sentence": "قرآن شريف جي جمع ٿيڻ کانپوءِ حديث شريف کي جمع ڪرڻ ڪري ان کي اسلامي عقيدن ۽ عملن جي لاءِ ترتيبوار شڪل ڏيڻي هئي",
+  "split": "test"
+ },
+ {
+  "correct": "عباسي",
+  "misspelled": "عبااسي",
+  "error_type": "weak_letter",
+  "prev": "رمضان",
+  "next": "هجري",
+  "sentence": "سڪندر عباسي پٽ محمد رمضان عباسي هجري ذوالحج جي تاريخ ڏينھن اڱارو",
+  "split": "test"
+ },
+ {
+  "correct": "نهرو",
+  "misspelled": "نهروٺ",
+  "error_type": "insertion",
+  "prev": "بعد",
+  "next": "رپورٽ",
+  "sentence": "اھا رپورٽ تيار ٿيڻ بعد نھرو رپورٽ جي نالي سان مشھور ٿي جنھن ۾ انڊيا جي ڊامينن رياست جي قيام جو مطالبو ڪيو ويو ۽ الڳ چونڊ جي نظام جي مخالفت ڪئي وئي ۽ پنجاب ۽ بينگال ۾ مسلمانن لاء سيٽون محفوظ رکڻ جي مخالفت ڪندي مسلمانن جي ڪنھن بہ مطالبي کي تسليم نہ ڪيو ويو",
+  "split": "test"
+ },
+ {
+  "correct": "کهاوڙ",
+  "misspelled": "کحاوڙ",
+  "error_type": "phonetic_substitution",
+  "prev": "گاجي",
+  "next": "ٽائون",
+  "sentence": "گاجي کهاوڙ ٽائون ڪاميٽي وارڊن تي مشتمل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ديوي",
+  "misspelled": "ديي",
+  "error_type": "deletion",
+  "prev": "اُما",
+  "next": "دڪشا",
+  "sentence": "هندو ڏند ڪٿائن موجب اُما ديوي دڪشا",
+  "split": "test"
+ },
+ {
+  "correct": "واقع",
+  "misspelled": "وقاع",
+  "error_type": "transposition",
+  "prev": "راھو",
+  "next": "آھن",
+  "sentence": "ڳوٺ لطف راھو ۽ ڳوٺ گاجي راھو واقع آھن",
+  "split": "test"
+ },
+ {
+  "correct": "سمپورن",
+  "misspelled": "مسپورن",
+  "error_type": "transposition",
+  "prev": "جي",
+  "next": "راڳڻي",
+  "sentence": "ماروا ٺاٺ جي سمپورن راڳڻي",
+  "split": "test"
+ },
+ {
+  "correct": "ثانيا",
+  "misspelled": "پانيا",
+  "error_type": "visual_substitution",
+  "prev": "واري",
+  "next": "مرزا",
+  "sentence": "نومبر ع تي ڄمڻ واري ثانيا مرزا",
+  "split": "test"
+ },
+ {
+  "correct": "گوتم",
+  "misspelled": "گوتڙ",
+  "error_type": "random_substitution",
+  "prev": "مھاتما",
+  "next": "ٻڌ",
+  "sentence": "مھاتما گوتم ٻڌ ھيءُ پنٿ",
+  "split": "test"
+ },
+ {
+  "correct": "واري",
+  "misspelled": "وارت",
+  "error_type": "random_substitution",
+  "prev": "رھائش",
+  "next": "سروي",
+  "sentence": "مرسر جي بھترين رھائش واري سروي ۾ ويانا کان بغداد تائين شھرن جو شمار ڪري انھن مان بھترين رھائش وارن شھرن جي قطاربندي",
+  "split": "test"
+ },
+ {
+  "correct": "اوڀر",
+  "misspelled": "زوڀر",
+  "error_type": "random_substitution",
+  "prev": "ھڪ",
+  "next": "آفريڪا",
+  "sentence": "تنزانيه سرڪاري نالو يونائيٽيڊ ريپبلڪ آف تنزانيا ھڪ اوڀر آفريڪا جو ملڪ آهي جيڪو آفريڪاجي وڏين ڍنڍن واري علائقي ۾ شامل آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪئي",
+  "misspelled": "ئڪي",
+  "error_type": "transposition",
+  "prev": "ترقي",
+  "next": "آهي",
+  "sentence": "ڏيپلي تعلقي ۾ هن ڳوٺ چڱي ترقي ڪئي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "پارليامينٽ",
+  "misspelled": "پارلياميڻٽ",
+  "error_type": "phonetic_substitution",
+  "prev": "برطانوي",
+  "next": "جو",
+  "sentence": "هائوس آف ڪامنز برطانوي پارليامينٽ جو هيٺيون انگ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ڌاري",
+  "misspelled": "ڌءري",
+  "error_type": "phonetic_substitution",
+  "prev": "ع",
+  "next": "ٿي",
+  "sentence": "ع ڌاري ٿي گذريو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "باگو",
+  "misspelled": "ياگو",
+  "error_type": "random_substitution",
+  "prev": "نالو",
+  "next": "وگهامل",
+  "sentence": "تعلقي لاڙڪاڻي ۾ هڪ ديهه جو نالو باگو وگهامل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "لڳائڻ",
+  "misspelled": "ئڳائڻ",
+  "error_type": "random_substitution",
+  "prev": "تي",
+  "next": "سان",
+  "sentence": "ڪوڙهه ۽ چٽيءَ جي داغن تي لڳائڻ سان فائدو ٿيندو",
+  "split": "test"
+ },
+ {
+  "correct": "ٽيون",
+  "misspelled": "ٽيوڻ",
+  "error_type": "visual_substitution",
+  "prev": "جو",
+  "next": "رڪن",
+  "sentence": "روزو اسلام جو ٽيون رڪن آھي ۽ مسلمانن تي فرض آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ٺڪرين",
+  "misspelled": "ٺڪربن",
+  "error_type": "random_substitution",
+  "prev": "پوءِ",
+  "next": "پٿرين",
+  "sentence": "اکر ۽ ڀوري راند ٻار ڪو سڪو يا ڏوڪڙ کڻي پوءِ ٺڪرين پٿرين ماچيسن وغيره سان هيءُ راند ڪن",
+  "split": "test"
+ },
+ {
+  "correct": "سياست",
+  "misspelled": "سياڌت",
+  "error_type": "random_substitution",
+  "prev": "پاڪستاني",
+  "next": "دان",
+  "sentence": "الطاف حسين هڪ پاڪستاني سياست دان آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪيون",
+  "misspelled": "ڪيوڻ",
+  "error_type": "visual_substitution",
+  "prev": "شروع",
+  "next": "جن",
+  "sentence": "ڪروٽريم ٻن ڪروئيشيائي ڪمپنين جي انجمن جو نالو آهي جن ملڪ ۾ پھريون ڀيرو ھيٺاھين فرش واريون ٽرام ٺاھڻ شروع ڪيون جن ۾ ٽي ايم ڪي ۽ ٽي ايم ڪي شامل آهن",
+  "split": "test"
+ },
+ {
+  "correct": "حسين",
+  "misspelled": "حسيڻ",
+  "error_type": "visual_substitution",
+  "prev": "امام",
+  "next": "رضي",
+  "sentence": "امام حسين رضي الله عنه کي ڪربلا جي ميدان ۾ يزيدي فوج شھيد ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "ڳڙهي",
+  "misspelled": "صڳڙهي",
+  "error_type": "insertion",
+  "prev": "تعلقي",
+  "next": "ياسين",
+  "sentence": "تعلقي ڳڙهي ياسين ۾ هڪ ديھ جو نالو",
+  "split": "test"
+ },
+ {
+  "correct": "نهايت",
+  "misspelled": "نهاڀيت",
+  "error_type": "insertion",
+  "prev": "فن",
+  "next": "پراڻو",
+  "sentence": "هيءُ فن نھايت پراڻو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "پهرين",
+  "misspelled": "پهرينڙ",
+  "error_type": "insertion",
+  "prev": "جي",
+  "next": "اخبار",
+  "sentence": "سنڌي ٻوليءِ جي پهرين اخبار هئي",
+  "split": "test"
+ },
+ {
+  "correct": "بنگلو",
+  "misspelled": "بڀگلو",
+  "error_type": "random_substitution",
+  "prev": "ديھ",
+  "next": "سان",
+  "sentence": "ھن ديھ جون حدون ديھ ڪلري ۽ ديھ بنگلو سان ملن ٿيون",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "نسڌ",
+  "error_type": "transposition",
+  "prev": "قديم",
+  "next": "جو",
+  "sentence": "هميشه قديم سنڌ جو کوجنيڪ بڻجي ويو",
+  "split": "test"
+ },
+ {
+  "correct": "هيٺ",
+  "misspelled": "هيٺگ",
+  "error_type": "insertion",
+  "prev": "۾",
+  "next": "ڄاڻايل",
+  "sentence": "جنهن ۾ هيٺ ڄاڻايل ڳوٺ آباد آهن",
+  "split": "test"
+ },
+ {
+  "correct": "آباد",
+  "misspelled": "آبآد",
+  "error_type": "visual_substitution",
+  "prev": "سرائڪي",
+  "next": "آهن",
+  "sentence": "پنجابي ۽ سرائڪي آباد آهن",
+  "split": "test"
+ },
+ {
+  "correct": "زمين",
+  "misspelled": "زمئن",
+  "error_type": "visual_substitution",
+  "prev": "نرم",
+  "next": "۾",
+  "sentence": "هي سڀ ڪنهن هنڌ ٿئي پر نرم زمين ۾ ڀلو ٿئي",
+  "split": "test"
+ },
+ {
+  "correct": "دنيا",
+  "misspelled": "دنئا",
+  "error_type": "visual_substitution",
+  "prev": "انقلاب",
+  "next": "جي",
+  "sentence": "هن انقلاب دنيا جي ڪنڊ ڪڙڇ ۾ آزادي",
+  "split": "test"
+ },
+ {
+  "correct": "مجموعو",
+  "misspelled": "مجموءو",
+  "error_type": "phonetic_substitution",
+  "prev": "جو",
+  "next": "آهي",
+  "sentence": "انصاف ڪٿي آھي ڪتاب محمد دائود بلوچ جي ڪھاڻين جو مجموعو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ٿيو",
+  "misspelled": "ٿييو",
+  "error_type": "insertion",
+  "prev": "فڪر",
+  "next": "۽",
+  "sentence": "اُٺن تي قرا نڪرڻ سان عبدالله قرباني کان بچي ويا ته حضرت عبدالمطلب جن کي سندن شادي جو فڪر ٿيو ۽ پاڻ قبيلي بنون زهره جي رئيس وهب بن عبدالمناف جي ڌي آمنه سان سند شادي ڪرائي ڇڏي",
+  "split": "test"
+ },
+ {
+  "correct": "اولهه",
+  "misspelled": "اولهح",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "آفريڪا",
+  "sentence": "اشانتي خطي ۾ اڪان قوم جي اولهه آفريڪا ۾ هڪ هڪ رياست هئي",
+  "split": "test"
+ },
+ {
+  "correct": "آئرس",
+  "misspelled": "ئآرس",
+  "error_type": "transposition",
+  "prev": "بيونس",
+  "next": "تي",
+  "sentence": "هي ملڪ صوبن ۽ ھڪ خود مختيار شهر بيونس آئرس تي ٻڌل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "الله",
+  "misspelled": "اغله",
+  "error_type": "random_substitution",
+  "prev": "ڪليم",
+  "next": "لاشاري",
+  "sentence": "ليکڪ ۽ تاريخدان ڊاڪٽر ڪليم الله لاشاري ولد محمد علي جوهر جون ع ڌاري لاڙڪاڻي ۾ جنم ورتو",
+  "split": "test"
+ },
+ {
+  "correct": "ڏينهون",
+  "misspelled": "دينهون",
+  "error_type": "phonetic_substitution",
+  "prev": "پٽاندر",
+  "next": "ڏينھن",
+  "sentence": "جيڪي ماڻھن جي روين پٽاندر ڏينھون ڏينھن پڌرا ٿيندا رھيا",
+  "split": "test"
+ },
+ {
+  "correct": "زهر",
+  "misspelled": "زهٿ",
+  "error_type": "random_substitution",
+  "prev": "۾",
+  "next": "هوندو",
+  "sentence": "کان سواءِ ٻين سڀني ۾ زهر هوندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ميرپور",
+  "misspelled": "تيرپور",
+  "error_type": "random_substitution",
+  "prev": "تي",
+  "next": "خاص",
+  "sentence": "هن آگسٽ ع تي ميرپور خاص",
+  "split": "test"
+ },
+ {
+  "correct": "آهي",
+  "misspelled": "هآي",
+  "error_type": "transposition",
+  "prev": "۾",
+  "next": "ڌرتي",
+  "sentence": "نظام شمسي جي ٻين گرھن کي به پنھنجو الڳ الڳ وايومنڊل آهي پر ان ۾ آھي ڌرتي واريون گئسون خاص طور تي آڪسيجن شامل نہ آھن",
+  "split": "test"
+ },
+ {
+  "correct": "عالمگير",
+  "misspelled": "المگير",
+  "error_type": "deletion",
+  "prev": "پھرين",
+  "next": "جنگ",
+  "sentence": "ع ــ پھرين عالمگير جنگ جو خاتمو ٿيو",
+  "split": "test"
+ },
+ {
+  "correct": "قبيلو",
+  "misspelled": "بقيلو",
+  "error_type": "transposition",
+  "prev": "سمو",
+  "next": "گهڻين",
+  "sentence": "سمو قبيلو گهڻين نکن ۾ ورهايل هو",
+  "split": "test"
+ },
+ {
+  "correct": "تمام",
+  "misspelled": "طمام",
+  "error_type": "phonetic_substitution",
+  "prev": "۾",
+  "next": "وڏيون",
+  "sentence": "سفارتڪاريءَ ۾ تمام وڏيون ڪاميابيون ماڻيون آهن",
+  "split": "test"
+ },
+ {
+  "correct": "لفظ",
+  "misspelled": "لقظ",
+  "error_type": "visual_substitution",
+  "prev": "ماه",
+  "next": "سان",
+  "sentence": "هن جو تعلق ماه لفظ سان آهي",
+  "split": "test"
+ },
+ {
+  "correct": "درياه",
+  "misspelled": "دريياه",
+  "error_type": "weak_letter",
+  "prev": "ڊونل",
+  "next": "ڪينيڊا",
+  "sentence": "او ڊونل درياھ ڪينيڊا جي صوبي برٽش ڪولمبيا ۾ وھڻ وارو ھڪ درياھ آھي",
+  "split": "test"
+ },
+ {
+  "correct": "سنسڪرت",
+  "misspelled": "سنسڪرتپ",
+  "error_type": "insertion",
+  "prev": "آهي",
+  "next": "لفظ",
+  "sentence": "لفظ اصل ۾ آهي سنسڪرت لفظ",
+  "split": "test"
+ },
+ {
+  "correct": "ناول",
+  "misspelled": "ڻاول",
+  "error_type": "phonetic_substitution",
+  "prev": "چند",
+  "next": "قابل",
+  "sentence": "جا هيٺيان چند ناول قابل ذڪر آهن",
+  "split": "test"
+ },
+ {
+  "correct": "سامان",
+  "misspelled": "سعمان",
+  "error_type": "phonetic_substitution",
+  "prev": "مڃارڪو",
+  "next": "جهڙوڪ",
+  "sentence": "جيڪو مڃارڪو سامان جهڙوڪ ڦڻيون",
+  "split": "test"
+ },
+ {
+  "correct": "ريت",
+  "misspelled": "ريط",
+  "error_type": "phonetic_substitution",
+  "prev": "هيٺيئنءَ",
+  "next": "آهن",
+  "sentence": "سندس تنقيدي جائزي هيٺ آيل آتم ڪٿائون هيٺيئنءَ ريت آهن",
+  "split": "test"
+ },
+ {
+  "correct": "پرچاڻي",
+  "misspelled": "پرچاڻئ",
+  "error_type": "visual_substitution",
+  "prev": "باغائي",
+  "next": "ڏيڻ",
+  "sentence": "يا کجين پرچائڻ وقت باغائي پرچاڻي ڏيڻ ۾ جيڪي ٻول چون",
+  "split": "test"
+ },
+ {
+  "correct": "سڄي",
+  "misspelled": "شڄي",
+  "error_type": "visual_substitution",
+  "prev": "بعد",
+  "next": "خاندان",
+  "sentence": "سندس والد صاحب جو نالو ابوسفيان هو جيڪو اسلام جو سخت مخالف هو پر فتح مڪه کان بعد سڄي خاندان ۽ قبيلي سميت اسلام قبل ڪيائين",
+  "split": "test"
+ },
+ {
+  "correct": "ماهر",
+  "misspelled": "ماهڙر",
+  "error_type": "insertion",
+  "prev": "مصري",
+  "next": "ارضيات",
+  "sentence": "هڪ مصري ماهر ارضيات هيو",
+  "split": "test"
+ },
+ {
+  "correct": "جنگ",
+  "misspelled": "جنگگ",
+  "error_type": "insertion",
+  "prev": "خلاف",
+  "next": "جو",
+  "sentence": "سيپٽمبر اٽلي ترڪي خلاف جنگ جو اعلان ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "حڪومت",
+  "misspelled": "حڪوم",
+  "error_type": "deletion",
+  "prev": "فوج",
+  "next": "جو",
+  "sentence": "جُولاءِ گميبيا ۾ فوج حڪومت جو تختو انڌو ڪري ڇڏيو",
+  "split": "test"
+ },
+ {
+  "correct": "حيدري",
+  "misspelled": "حيڏري",
+  "error_type": "phonetic_substitution",
+  "prev": "ابراهيم",
+  "next": "ڪراچي",
+  "sentence": "ابراهيم حيدري ڪراچي سنڌ بن قاسم ٽائون جو هڪ علائقو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "آباد",
+  "misspelled": "آباچ",
+  "error_type": "random_substitution",
+  "prev": "ڳوٺ",
+  "next": "آهن",
+  "sentence": "جنهن ۾ هيٺيان ڳوٺ آباد آهن",
+  "split": "test"
+ },
+ {
+  "correct": "قهار",
+  "misspelled": "ضهار",
+  "error_type": "random_substitution",
+  "prev": "خان",
+  "next": "جي",
+  "sentence": "خان قلات عبدالله خان قهار جي وقت ڪلهوڙن ع ۾ هي علائقو جنگ ڪري حاصل ڪيو هو",
+  "split": "test"
+ },
+ {
+  "correct": "اصطلاح",
+  "misspelled": "اصطلاڄ",
+  "error_type": "visual_substitution",
+  "prev": "ادبي",
+  "next": "۾",
+  "sentence": "ادبي اصطلاح ۾ اهڙي رجحان يا لاڙي کي فرسودگي چيو ويندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "هندو",
+  "misspelled": "هڃدو",
+  "error_type": "random_substitution",
+  "prev": "سنجيدو",
+  "next": "عملدار",
+  "sentence": "وڏو زمانه شناس ۽ سنجيدو هندو عملدار هو",
+  "split": "test"
+ },
+ {
+  "correct": "حيدر",
+  "misspelled": "حييدر",
+  "error_type": "weak_letter",
+  "prev": "سجاد",
+  "next": "يلدرم",
+  "sentence": "سيد سجاد حيدر يلدرم هندوستان جي ضلع بجنور بمقام ريڙهه ۾ ۾ ٿي",
+  "split": "test"
+ },
+ {
+  "correct": "سرسي",
+  "misspelled": "سريي",
+  "error_type": "random_substitution",
+  "prev": "نسبتي",
+  "next": "يا",
+  "sentence": "لاڳاپيل يا نسبتي سَرسي يا ڪامپريٽو ايڊوانٽيج",
+  "split": "test"
+ },
+ {
+  "correct": "پاڪستان",
+  "misspelled": "پآڪستان",
+  "error_type": "visual_substitution",
+  "prev": "ضلعو",
+  "next": "جي",
+  "sentence": "شِڪارپور ضلعو پاڪستان جي صوبي سنڌ جو هڪ ضلعو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "گورنر",
+  "misspelled": "گورنڄ",
+  "error_type": "random_substitution",
+  "prev": "جو",
+  "next": "ٿي",
+  "sentence": "نصر بن محمد بن اشعث خزائي سنڌ جو گورنر ٿي آيو",
+  "split": "test"
+ },
+ {
+  "correct": "هارون",
+  "misspelled": "هاٻرون",
+  "error_type": "insertion",
+  "prev": "حسين",
+  "next": "آهي",
+  "sentence": "نامياري سياستدان حسين هارون جو پورو نالو عبدالله حسين هارون آهي",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌي",
+  "misspelled": "سسڌي",
+  "error_type": "random_substitution",
+  "prev": "اُهڃاڻ",
+  "next": "شاعريءَ",
+  "sentence": "زاريءَ جا اوائلي اُهڃاڻ سنڌي شاعريءَ ۾ ٽالپرن جي دور",
+  "split": "test"
+ },
+ {
+  "correct": "لاڳيتو",
+  "misspelled": "لڳيتو",
+  "error_type": "deletion",
+  "prev": "جو",
+  "next": "ردعمل",
+  "sentence": "ائٽم جي اُمکڻ جو لاڳيتو ردعمل",
+  "split": "test"
+ },
+ {
+  "correct": "شجرو",
+  "misspelled": "فشجرو",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "هيٺينءَ",
+  "sentence": "جنهن جو شجرو هيٺينءَ طرح آهي ابڙيجن جو ڏاڏو ابڙو پٽ لاکو پٽ ڪلهو پٽ ڄام لاکو پٽ ڄام راهو پٽ ڄام جوڻو",
+  "split": "test"
+ },
+ {
+  "correct": "دور",
+  "misspelled": "دذر",
+  "error_type": "random_substitution",
+  "prev": "ھي",
+  "next": "سنڌي",
+  "sentence": "ھي دور سنڌي افساني جو ھنگامي دور ڄاتو وڃي ٿو",
+  "split": "test"
+ },
+ {
+  "correct": "مددگار",
+  "misspelled": "مددگر",
+  "error_type": "weak_letter",
+  "prev": "جو",
+  "next": "هو",
+  "sentence": "جيڪو دهليءَ جي بادشاهن جو مددگار هو",
+  "split": "test"
+ },
+ {
+  "correct": "ريپبلڪ",
+  "misspelled": "ريپبڪل",
+  "error_type": "transposition",
+  "prev": "ڊيموڪريٽڪ",
+  "next": "آف",
+  "sentence": "اولھ ۾ ڊيموڪريٽڪ ريپبلڪ آف ڪانگو",
+  "split": "test"
+ },
+ {
+  "correct": "جنس",
+  "misspelled": "جنسش",
+  "error_type": "insertion",
+  "prev": "اھا",
+  "next": "شروع",
+  "sentence": "لق لق پکي جي اھا جنس شروع ۾ انڊونيشيا",
+  "split": "test"
+ },
+ {
+  "correct": "سورة",
+  "misspelled": "عورة",
+  "error_type": "random_substitution",
+  "prev": "ھڪ",
+  "next": "پڻ",
+  "sentence": "ان جي نالي سان قرآن جي ھڪ سورة پڻ آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وچن",
+  "misspelled": "ويچن",
+  "error_type": "weak_letter",
+  "prev": "يا",
+  "next": "کي",
+  "sentence": "يا وچن کي چئبو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "ماء",
+  "misspelled": "ماگ",
+  "error_type": "random_substitution",
+  "prev": "کي",
+  "next": "جو",
+  "sentence": "اها صلاحيت ڪنهن به فرد سان گڏوگڏ پيدا ٿيندي آهي مثال طور هڪ نئين ڄاول ٻار کي ماءُ جو کير پيئڻ جي صلاحيت سکيا سان نه پر",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "سڻڌ",
+  "error_type": "phonetic_substitution",
+  "prev": "صوبي",
+  "next": "جي",
+  "sentence": "ڪوٽ ڏيجي پاڪستان جي صوبي سنڌ جي ضلعي خيرپور جو هڪ شھر ۽ تعلقي جو صدر مقام آهي جتي سنڌ جي تھذيب جا ھزارين سال پراڻا آثار موجود آهن",
+  "split": "test"
+ },
+ {
+  "correct": "ڪابه",
+  "misspelled": "ڪوابه",
+  "error_type": "weak_letter",
+  "prev": "۾",
+  "next": "معلومات",
+  "sentence": "ڇو جو کين آفريڪا جي باري ۾ ڪابه معلومات نه هئي",
+  "split": "test"
+ },
+ {
+  "correct": "مطلب",
+  "misspelled": "موطلب",
+  "error_type": "insertion",
+  "prev": "هيٺيان",
+  "next": "ٿي",
+  "sentence": "برطانيا جا هيٺيان مطلب ٿي سگهن ٿا",
+  "split": "test"
+ },
+ {
+  "correct": "معني",
+  "misspelled": "مچني",
+  "error_type": "random_substitution",
+  "prev": "پاڪي",
+  "next": "ٿلھو",
+  "sentence": "يوناني ٻوليءَ ۾ پاڪي معنيَ ٿلھو يا گھاٽو",
+  "split": "test"
+ },
+ {
+  "correct": "ديه",
+  "misspelled": "قديه",
+  "error_type": "insertion",
+  "prev": "ھن",
+  "next": "جون",
+  "sentence": "ھن ديھ جون حدون ديھ پنو",
+  "split": "test"
+ },
+ {
+  "correct": "پاڻ",
+  "misspelled": "پعڻ",
+  "error_type": "phonetic_substitution",
+  "prev": "کي",
+  "next": "۾",
+  "sentence": "دنيا جي ماڻهن کي پاڻ ۾ جوڙيندڙ ڳنڍ ڄار",
+  "split": "test"
+ },
+ {
+  "correct": "جنڊو",
+  "misspelled": "جنڊؤ",
+  "error_type": "visual_substitution",
+  "prev": "يا",
+  "next": "گڏ",
+  "sentence": "ڀت ڀت سان هجين يا جنڊو گڏ هجي يا سامهون هجن",
+  "split": "test"
+ },
+ {
+  "correct": "ٿيڻ",
+  "misspelled": "تٿيڻ",
+  "error_type": "insertion",
+  "prev": "پوري",
+  "next": "۾",
+  "sentence": "سال پوري ٿيڻ ۾ ڏينهن",
+  "split": "test"
+ },
+ {
+  "correct": "قانون",
+  "misspelled": "قاڻون",
+  "error_type": "phonetic_substitution",
+  "prev": "هڪڙو",
+  "next": "پاس",
+  "sentence": "ان مقصد کي سامهون رکي ع ۾ هڪڙو قانون پاس ڪري بئنڪ آف پاڪستان",
+  "split": "test"
+ },
+ {
+  "correct": "قانون",
+  "misspelled": "قانن",
+  "error_type": "deletion",
+  "prev": "الاقوامي",
+  "next": "جي",
+  "sentence": "بين الاقوامي قانون جي مطابق هر ملڪ کي پنهجي طور تي سرحدي شرط لاڳو ڪرڻ جو حق حاصل آهي",
+  "split": "test"
+ },
+ {
+  "correct": "مادي",
+  "misspelled": "ماديئ",
+  "error_type": "insertion",
+  "prev": "اسان",
+  "next": "جي",
+  "sentence": "جيڪڏهن اسان مادي کي اندران ۽ ٻاهران اهڙيءَ طرح ڄاڻي سگهون ها جهڙيءَ طرح اسان پنهنجي پاڻ کي ٿا ڄاڻيون ته اسان مادي جي اصليت ۽ ارادي جي اها قوت ڏسون ها جيڪا اسان جي جسمن کان وڌيڪ اسان جي ذهنن جي ويجهو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "سيڪڙو",
+  "misspelled": "صيڪڙو",
+  "error_type": "phonetic_substitution",
+  "prev": "سئو",
+  "next": "وڌيڪ",
+  "sentence": "جي رفتار کي هاڻوڪي واءِ فاءِ جي ڀيٽ ۾ سئو سيڪڙو وڌيڪ تيز ڪري ڇڏيندي",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "سثڌ",
+  "error_type": "random_substitution",
+  "prev": "ع",
+  "next": "حڪومت",
+  "sentence": "ع سنڌ حڪومت ڀٽ شاھ تي داراللطيف ٺاهڻ جو اعلان ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "دوري",
+  "misspelled": "دوروي",
+  "error_type": "weak_letter",
+  "prev": "جي",
+  "next": "جي",
+  "sentence": "ھي پاڻياٺ رت جي دوري جي سرشتي ۾ سڄي جسم ۾ ڦرندي رهندي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "امر",
+  "misspelled": "امعر",
+  "error_type": "insertion",
+  "prev": "ديو",
+  "next": "ڪوٽ",
+  "sentence": "راڻو راء ديو يا راڻو راج ديو امر ڪوٽ جو سوڍن جي خاندان جو ھڪ حاڪم ھيو",
+  "split": "test"
+ },
+ {
+  "correct": "جنهن",
+  "misspelled": "جنخن",
+  "error_type": "random_substitution",
+  "prev": "آهي",
+  "next": "جو",
+  "sentence": "پاڪستان جي صوبي سنڌ جي ضلعي ٿرپارڪر جو هڪ تعلقو آهي جنھن جو صدر مقام ڇاڇرو شھر آھي",
+  "split": "test"
+ },
+ {
+  "correct": "بنياد",
+  "misspelled": "بنڇياد",
+  "error_type": "insertion",
+  "prev": "جو",
+  "next": "زمبيا",
+  "sentence": "جو بنياد زمبيا جي شهر لوساڪا ۾ اپريل ع ۾ پيو",
+  "split": "test"
+ },
+ {
+  "correct": "حيدرآباد",
+  "misspelled": "حيدرآباگد",
+  "error_type": "insertion",
+  "prev": "ضلعي",
+  "next": "جي",
+  "sentence": "يونين ڪائونسل حيدرآباد ٻھراڙي ھٽڙي پاڪستان جي صوبي سنڌ جي ضلعي حيدرآباد جي تعلقي حيدرآباد ٻھراڙي جي ھڪ يونين ڪائونسل جو نالو آھي",
+  "split": "test"
+ },
+ {
+  "correct": "سان",
+  "misspelled": "ساگ",
+  "error_type": "random_substitution",
+  "prev": "پيشي",
+  "next": "لاڳاپيل",
+  "sentence": "عام طور تي ڳوٺ جي آبادي جو هڪ وڏو حصو زراعت جي پيشي سان لاڳاپيل هوندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "وڏا",
+  "misspelled": "ڦوڏا",
+  "error_type": "insertion",
+  "prev": "وڏا",
+  "next": "استاد",
+  "sentence": "هن ڳوٺ ۾ هونئن ته وڏا وڏا استاد",
+  "split": "test"
+ },
+ {
+  "correct": "نيزي",
+  "misspelled": "نرزي",
+  "error_type": "random_substitution",
+  "prev": "ته",
+  "next": "بازي",
+  "sentence": "جادو فقير تلوار ڌڻي به هو ته نيزي بازي ۾ به پنهنجو مٽ پاڻ هو",
+  "split": "test"
+ },
+ {
+  "correct": "لائق",
+  "misspelled": "لعئق",
+  "error_type": "phonetic_substitution",
+  "prev": "کائڻ",
+  "next": "ميوو",
+  "sentence": "صوف هڪ مٺو ۽ کائڻ لائق ميوو آهي جيڪو صوف جي وڻ ۾ ٿيندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "کان",
+  "misspelled": "کثن",
+  "error_type": "random_substitution",
+  "prev": "لحاظ",
+  "next": "ان",
+  "sentence": "طبي لحاظ کان ان جو اثر سرد ۽ خشڪ آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ويڪرائي",
+  "misspelled": "ويڪرائري",
+  "error_type": "insertion",
+  "prev": "ڊگريون",
+  "next": "ڦاڪ",
+  "sentence": "سنڌو اڻٽيهه ڊگريون ويڪرائي ڦاڪ ۾ ستر ڊگريون ۽ پنجٽيهه فوٽ ڊگهائي ڦاڪ وٽ پنج ند جي سنگم کان پوءِ ڏکڻ اولهه رخ ۾ ٽي سو ميل يڪو",
+  "split": "test"
+ },
+ {
+  "correct": "انگريزي",
+  "misspelled": "انطريزي",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "فلم",
+  "sentence": "ھالي ووڊ جي انگريزي فلم",
+  "split": "test"
+ },
+ {
+  "correct": "محمد",
+  "misspelled": "ٿمحمد",
+  "error_type": "insertion",
+  "prev": "بادشاهه",
+  "next": "تغلق",
+  "sentence": "ان وقت مطلق العنان بادشاهه محمد تغلق جي حڪومت هئي",
+  "split": "test"
+ },
+ {
+  "correct": "وڃڻ",
+  "misspelled": "وڃڄڻ",
+  "error_type": "insertion",
+  "prev": "جي",
+  "next": "کان",
+  "sentence": "محمد بن قاسم جي وڃڻ کان پوءِ سنڌ ۾ يزيد بن ابي ڪبشه پهتو هو",
+  "split": "test"
+ },
+ {
+  "correct": "سنائي",
+  "misspelled": "شنائي",
+  "error_type": "visual_substitution",
+  "prev": "جي",
+  "next": "شاخ",
+  "sentence": "سيد ميان ٻڍل شاھ مٽياري سيدن جي سنائي شاخ جي اميناڻي پاڙي مان هو",
+  "split": "test"
+ },
+ {
+  "correct": "حيدرآباد",
+  "misspelled": "حديرآباد",
+  "error_type": "transposition",
+  "prev": "ڪالوني",
+  "next": "۾",
+  "sentence": "سخي پير ڪالوني حيدرآباد ۾",
+  "split": "test"
+ },
+ {
+  "correct": "ورهيه",
+  "misspelled": "رهيه",
+  "error_type": "weak_letter",
+  "prev": "هزار",
+  "next": "پراڻي",
+  "sentence": "مورخين جي چوڻ مطابق سنڌو تهذيب پنج هزار ورهيه پراڻي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "قسم",
+  "misspelled": "قڀم",
+  "error_type": "random_substitution",
+  "prev": "ھڪ",
+  "next": "آھي",
+  "sentence": "انتظامي ورھاست جو ھڪ قسم آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ڳوٺ",
+  "misspelled": "ڳوڦٺ",
+  "error_type": "insertion",
+  "prev": "دارالتوحيد",
+  "next": "يوسف",
+  "sentence": "مدرسه دارالتوحيد ڳوٺ يوسف ڪورائي ۽ مدرسه انوارالعلوم شهر مورو سنڌ ۾ حاصل ڪئي",
+  "split": "test"
+ },
+ {
+  "correct": "رام",
+  "misspelled": "رءم",
+  "error_type": "phonetic_substitution",
+  "prev": "آسو",
+  "next": "سڏيندا",
+  "sentence": "پر فقيراڻي ويس ڍڪڻ کانپوءِ کيس صوفي آسورام يا ساڌو آسو رام سڏيندا هئا",
+  "split": "test"
+ },
+ {
+  "correct": "ضلع",
+  "misspelled": "ضعل",
+  "error_type": "transposition",
+  "prev": "۽",
+  "next": "سطح",
+  "sentence": "۽ ضلع سطح جي ٽاؤن",
+  "split": "test"
+ },
+ {
+  "correct": "زال",
+  "misspelled": "زطل",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "کي",
+  "sentence": "اولاد جي حياتياتي ۽ معاشرتي پيء جر ننڍي ڀاء جي زال کي چاچي چيو ويندو آھي",
+  "split": "test"
+ },
+ {
+  "correct": "واسطي",
+  "misspelled": "وءسطي",
+  "error_type": "phonetic_substitution",
+  "prev": "تبليغ",
+  "next": "قائم",
+  "sentence": "ھيءُ ادارو محمد عثمان ڏيپلائيءَ سن ع ۾ لطيفي ڪلام جي اشاعت ۽ فڪر جي تبليغ واسطي قائم ڪيو",
+  "split": "test"
+ },
+ {
+  "correct": "هلڪي",
+  "misspelled": "هلڪيڀ",
+  "error_type": "insertion",
+  "prev": "کي",
+  "next": "گرمائش",
+  "sentence": "اهو عمل جنهن ۾ کاڌي کي هلڪي گرمائش تي تيار ڪيو ويندو آهي",
+  "split": "test"
+ },
+ {
+  "correct": "گمراه",
+  "misspelled": "گامراه",
+  "error_type": "weak_letter",
+  "prev": "ڏئي",
+  "next": "ڪندو",
+  "sentence": "ابراھيمي مذھبن ۾ ڏيکاريل ھڪ وجود جيڪو ماڻهن کي گناھ طرف ترغيب ڏئي گمراھ ڪندو آھي",
+  "split": "test"
+ },
+ {
+  "correct": "شهر",
+  "misspelled": "شهز",
+  "error_type": "visual_substitution",
+  "prev": "جي",
+  "next": "نوابشاھ",
+  "sentence": "نوابشاھ ھوائي اڏو پاڪستان جي صوبي سنڌ جي شھر نوابشاھ ۾ واقع آھي",
+  "split": "test"
+ },
+ {
+  "correct": "نوشهرو",
+  "misspelled": "نوشرهو",
+  "error_type": "transposition",
+  "prev": "ضلعي",
+  "next": "فيروز",
+  "sentence": "ڪوٽڙي ڪبير پاڪستان جي صوبي سنڌ جي ضلعي نوشهرو فيروز جي تعلقي مھراب پور جي ھڪ يونين ڪاؤنسل جو نالو آھي جيڪا نيشنل ھاء وي",
+  "split": "test"
+ },
+ {
+  "correct": "نئينء",
+  "misspelled": "ئنينء",
+  "error_type": "transposition",
+  "prev": "سکر",
+  "next": "۾",
+  "sentence": "سکر نئينءَ ۾ به ع ۾ سيد قائم علي شاهه واري پڙ تي",
+  "split": "test"
+ },
+ {
+  "correct": "کان",
+  "misspelled": "کعن",
+  "error_type": "phonetic_substitution",
+  "prev": "زماني",
+  "next": "صوفين",
+  "sentence": "جيڪو قديم زماني کان صوفين",
+  "split": "test"
+ },
+ {
+  "correct": "جيئن",
+  "misspelled": "جينئ",
+  "error_type": "transposition",
+  "prev": "ته",
+  "next": "انهن",
+  "sentence": "ته جيئن انهن جي هڪ ٻئي سان خانداني",
+  "split": "test"
+ },
+ {
+  "correct": "مختلف",
+  "misspelled": "مختڀف",
+  "error_type": "random_substitution",
+  "prev": "جي",
+  "next": "مسئلن",
+  "sentence": "سنڌ جي مختلف مسئلن تي لکيل مضمونن جي هن ڪتاب جو ليکڪ پروفيسر اعجاز قريشي آهي",
+  "split": "test"
+ },
+ {
+  "correct": "سنڌ",
+  "misspelled": "سضڌ",
+  "error_type": "random_substitution",
+  "prev": "حڪومت",
+  "next": "جو",
+  "sentence": "صوبائي حڪومت سنڌ جو کاتو",
+  "split": "test"
+ },
+ {
+  "correct": "ڪاه",
+  "misspelled": "ڪواه",
+  "error_type": "weak_letter",
+  "prev": "جي",
+  "next": "وقت",
+  "sentence": "ع ۾ عربن جي ڪاھ وقت اتي ڀاڄڙ پيئي",
+  "split": "test"
+ },
+ {
+  "correct": "نمايان",
+  "misspelled": "نماياون",
+  "error_type": "weak_letter",
+  "prev": "کي",
+  "next": "ڪيو",
+  "sentence": "جنهن ۾ ٻاجهه جي احساسن کي نمايان ڪيو ويو هجي",
+  "split": "test"
+ },
+ {
+  "correct": "ڪئي",
+  "misspelled": "ڪئڱ",
+  "error_type": "random_substitution",
+  "prev": "حاصل",
+  "next": "هئي",
+  "sentence": "هن اهڙي تربيت نواب لطف علي رضوي بکريءَ جي صحبت ۾ حاصل ڪئي هئي",
+  "split": "test"
+ },
+ {
+  "correct": "اسڪول",
+  "misspelled": "اسوڪل",
+  "error_type": "transposition",
+  "prev": "جـونيئر",
+  "next": "ٽيچر",
+  "sentence": "آفتاب سـومـري جـونيئر اسڪول ٽيچر",
+  "split": "test"
+ },
+ {
+  "correct": "ايران",
+  "misspelled": "عيران",
+  "error_type": "phonetic_substitution",
+  "prev": "وٺي",
+  "next": "تائين",
+  "sentence": "آڳاٽي زماني ۾ وچ ايشيا کان وٺي ايران تائين آرين جون بيٺڪون هيون",
+  "split": "test"
+ },
+ {
+  "correct": "مشهور",
+  "misspelled": "مشحور",
+  "error_type": "phonetic_substitution",
+  "prev": "جي",
+  "next": "ترين",
+  "sentence": "دنيا جي مشھور ترين ٻولين مان ھڪ ٻولي آھي",
+  "split": "test"
+ },
+ {
+  "correct": "ڄمڻ",
+  "misspelled": "ڄمشڻ",
+  "error_type": "insertion",
+  "prev": "ٻار",
+  "next": "کان",
+  "sentence": "ٻار ڄمڻ کان ڇهين ڏينهن",
+  "split": "test"
+ },
+ {
+  "correct": "ڪناري",
+  "misspelled": "نڪاري",
+  "error_type": "transposition",
+  "prev": "اڀرندي",
+  "next": "تي",
+  "sentence": "جيڪو سويڊن جي اڀرندي ڪناري تي آباد آهي",
+  "split": "test"
+ }
+]

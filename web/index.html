@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sindhi Spell-Checker &amp; Translator</title>
+  <meta name="description" content="Check Sindhi spelling, look up words in a 58,000-word lexicon and translate Sindhi ↔ English.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%239b1c31'/><text x='32' y='44' font-size='34' text-anchor='middle' fill='white' font-family='serif'>س</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <!-- Splash screen: block-letter credits, dismissed by app.js (click, key, or after a few seconds) -->
+  <div class="splash" id="splash" role="dialog" aria-label="Made by Sneha Haseja and Javeria Jatoi">
+    <div class="ajrak-band" aria-hidden="true"></div>
+    <div class="splash-body">
+      <div class="splash-mark sd" aria-hidden="true">س</div>
+      <div class="blocks" data-blocks="MADE BY" data-size="sm"></div>
+      <div class="blocks" data-blocks="SNEHA HASEJA"></div>
+      <div class="blocks" data-blocks="&amp;" data-size="sm" data-tone="indigo"></div>
+      <div class="blocks" data-blocks="JAVERIA JATOI"></div>
+      <p class="splash-title">Sindhi Spell-Checker, Dictionary &amp; Translator</p>
+      <p class="splash-sub sd" lang="sd" dir="rtl">سنڌي لغت ۽ اکرن جي درستي</p>
+      <button class="btn primary splash-enter" id="splash-enter">Enter</button>
+    </div>
+    <div class="ajrak-band splash-band-bottom" aria-hidden="true"></div>
+  </div>
+  <div class="ajrak-band" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="#check" aria-label="Home">
+        <span class="brand-mark" aria-hidden="true">س</span>
+        <span class="brand-text">
+          <span class="brand-title">Sindhi Spell-Checker</span>
+          <span class="brand-sub sd" lang="sd">سنڌي لغت ۽ اکرن جي درستي</span>
+        </span>
+      </a>
+      <nav class="tabs" role="tablist" aria-label="Sections">
+        <button class="tab" role="tab" data-view="check" aria-selected="true">Spell check</button>
+        <button class="tab" role="tab" data-view="dictionary" aria-selected="false">Dictionary</button>
+        <button class="tab" role="tab" data-view="translate" aria-selected="false">Translate</button>
+        <button class="tab" role="tab" data-view="about" aria-selected="false">About</button>
+      </nav>
+      <button id="theme-toggle" class="icon-btn" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.4 5.4 0 0 1-4.4 2.26 5.4 5.4 0 0 1-3.14-9.8A9 9 0 0 0 12 3z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- ============ SPELL CHECK ============ -->
+    <section id="view-check" class="view" data-view="check">
+      <div class="hero">
+        <h1>Write Sindhi. We'll catch the typos.</h1>
+        <p class="lead">Type or paste text. Each unknown word gets its 3 closest corrections, ranked by
+          a Sindhi-aware edit distance, word frequency and the words around it.</p>
+      </div>
+
+      <div class="check-grid">
+        <div class="card editor-card">
+          <div class="card-head">
+            <h2>Your text</h2>
+            <div class="toolbar">
+              <button class="ghost-btn" id="sample-btn" title="Insert a sample paragraph">Sample</button>
+              <button class="ghost-btn" data-keyboard-toggle title="Show the Sindhi keyboard">⌨ Keyboard</button>
+              <button class="ghost-btn" id="clear-btn" title="Clear the text">Clear</button>
+            </div>
+          </div>
+          <textarea id="input" class="sd editor" dir="rtl" lang="sd" spellcheck="false"
+                    placeholder="سنڌي لفظ يا جملو هتي لکو..." aria-label="Sindhi text to check"></textarea>
+          <div class="editor-foot">
+            <label class="switch"><input type="checkbox" id="live-toggle" checked> <span>Check as I type</span></label>
+            <div class="actions">
+              <button class="btn secondary" id="copy-btn">Copy</button>
+              <button class="btn secondary" id="fixall-btn" disabled>Fix all</button>
+              <button class="btn primary" id="check-btn">Check spelling</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="card review-card">
+          <div class="card-head">
+            <h2>Review</h2>
+            <div class="stats" id="stats" aria-live="polite"></div>
+          </div>
+          <div id="review" class="sd review" dir="rtl" lang="sd">
+            <div class="empty">
+              <div class="empty-glyph sd">ا ب ٻ</div>
+              <p>Results show up here. Words with a <span class="demo-underline">red underline</span> aren't in the dictionary.
+                Click one to see suggestions.</p>
+            </div>
+          </div>
+          <div class="legend">
+            <span><i class="dot dot-error"></i> Possible misspelling</span>
+            <span><i class="dot dot-warn"></i> Real word, but unusual here</span>
+            <span><i class="dot dot-corpus"></i> Common word not in the lexicon (accepted)</span>
+            <span><i class="dot dot-fixed"></i> Fixed</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card issues-card" id="issues-card" hidden>
+        <div class="card-head"><h2>Suggestions</h2><span class="muted small" id="issues-count"></span></div>
+        <ul class="issues" id="issues"></ul>
+      </div>
+    </section>
+
+    <!-- ============ DICTIONARY ============ -->
+    <section id="view-dictionary" class="view" data-view="dictionary" hidden>
+      <div class="hero">
+        <h1>Dictionary</h1>
+        <p class="lead">Search in Sindhi <span class="sd">(ڪتاب)</span> or English <em>(book)</em>.
+          Inflected forms like <span class="sd">ڪتابن</span> are traced back to their headword.</p>
+      </div>
+      <form class="search" id="search-form" autocomplete="off" role="search">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M10 4a6 6 0 1 0 3.7 10.7l4.8 4.8 1.4-1.4-4.8-4.8A6 6 0 0 0 10 4zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>
+          <input id="search-input" type="search" placeholder="ڳوليو / Search a word…" aria-label="Search the dictionary" dir="auto">
+          <button type="button" class="ghost-btn" data-keyboard-toggle title="Sindhi keyboard">⌨</button>
+          <button class="btn primary" type="submit">Search</button>
+        </div>
+        <ul class="autocomplete" id="autocomplete" role="listbox" hidden></ul>
+      </form>
+      <div class="recent" id="recent"></div>
+      <div class="dict-grid">
+        <div id="dict-result" class="dict-result"></div>
+        <aside class="card wotd" id="wotd">
+          <div class="eyebrow">Word of the day</div>
+          <div class="wotd-body"><div class="skeleton"></div></div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ============ TRANSLATE ============ -->
+    <section id="view-translate" class="view" data-view="translate" hidden>
+      <div class="hero">
+        <h1>Translate</h1>
+        <p class="lead">Whole sentences, both directions, using Meta's NLLB-200 model running offline on this machine.
+          <span class="engine-badge" id="engine-badge"></span></p>
+      </div>
+      <div class="card translate-card">
+        <div class="lang-bar">
+          <span class="lang" id="src-lang">Sindhi</span>
+          <button class="icon-btn swap" id="swap-btn" aria-label="Swap languages" title="Swap languages">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M7 7h11l-3-3 1.4-1.4L21.8 8l-5.4 5.4L15 12l3-3H7V7zm10 10H6l3 3-1.4 1.4L2.2 16l5.4-5.4L9 12l-3 3h11v2z"/></svg>
+          </button>
+          <span class="lang" id="tgt-lang">English</span>
+        </div>
+        <div class="translate-grid">
+          <div class="pane">
+            <textarea id="tr-input" class="sd editor" dir="rtl" lang="sd" placeholder="سنڌي متن هتي لکو..." aria-label="Text to translate"></textarea>
+            <div class="pane-foot">
+              <button class="ghost-btn" data-keyboard-toggle>⌨ Keyboard</button>
+              <button class="ghost-btn" id="tr-sample">Sample</button>
+              <span class="muted small" id="tr-count">0 / 3000</span>
+            </div>
+          </div>
+          <div class="pane output">
+            <div id="tr-output" class="tr-output" dir="ltr" aria-live="polite"><span class="muted">Translation appears here.</span></div>
+            <div class="pane-foot">
+              <button class="ghost-btn" id="tr-copy">Copy</button>
+              <span class="muted small" id="tr-time"></span>
+            </div>
+          </div>
+        </div>
+        <div class="translate-actions">
+          <button class="btn primary" id="tr-btn">Translate</button>
+        </div>
+        <div id="glossary" class="glossary" hidden>
+          <div class="eyebrow">Word by word (dictionary)</div>
+          <div class="gloss-list sd" dir="rtl" id="gloss-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ ABOUT ============ -->
+    <section id="view-about" class="view" data-view="about" hidden>
+      <div class="hero">
+        <h1>How it works</h1>
+        <p class="lead">A classic NLP pipeline built for Sindhi's Perso-Arabic script, plus a neural translator.</p>
+      </div>
+      <ol class="pipeline">
+        <li><b>Normalize</b><span>Unicode NFC, Arabic/Urdu/Persian look-alikes folded (ى ی → ي, ك → ڪ, ہ → ه), optional vowel marks ignored.</span></li>
+        <li><b>Tokenize</b><span>Arabic-script word runs with their character offsets, plus multi-word headwords like <span class="sd">اک ڇنڀ</span>.</span></li>
+        <li><b>Detect</b><span>A word is fine if it's in the 58k-word lexicon, is a common word in 53M tokens of Sindhi text, or is in your own word list.</span></li>
+        <li><b>Generate</b><span>SymSpell finds every word within 2 edits in milliseconds.</span></li>
+        <li><b>Rank</b><span>Sindhi-weighted edit distance (cheaper for letters that differ only by dots, or that sound alike), log frequency and a bigram language model over the neighbouring words. The top 3 are shown.</span></li>
+        <li><b>Translate</b><span>NLLB-200 (600M, int8 via CTranslate2) for sentences; the lexicon for single words.</span></li>
+      </ol>
+      <div class="card">
+        <div class="card-head"><h2>Evaluation</h2><span class="muted small">synthetic test split, see docs/results.md</span></div>
+        <div id="metrics" class="metrics"><p class="muted">No evaluation results yet. Run <code>python scripts/evaluate.py --save</code>.</p></div>
+      </div>
+      <div class="card team">
+        <div class="card-head"><h2>Team</h2></div>
+        <div class="team-list">
+          <div class="member"><span class="avatar">SH</span><span><b>Sneha Haseja</b></span></div>
+          <div class="member"><span class="avatar indigo">JJ</span><span><b>Javeria Jatoi</b></span></div>
+        </div>
+      </div>
+      <div class="card sources">
+        <div class="card-head"><h2>Data &amp; credits</h2></div>
+        <ul>
+          <li><b>Sindhi Open Lexicon</b>: SindhiLanguage.org, prepared and curated by Amar Fayaz Buriro
+            (<span class="sd">امر فياض ٻرڙو</span>). CC BY 4.0.</li>
+          <li><b>Sindhi Wikipedia</b> (2023-11-01 dump): word frequencies and bigrams. CC BY-SA 4.0.</li>
+          <li><b>CC-100 Sindhi</b> (Conneau et al., 2020; Wenzek et al., 2020): word frequencies and bigrams.</li>
+          <li><b>Wiktionary</b> via kaikki.org: modern English glosses. CC BY-SA 4.0.</li>
+          <li><b>NLLB-200</b> distilled 600M (Meta AI, CC BY-NC 4.0), CTranslate2 int8 conversion.</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <!-- Sindhi on-screen keyboard -->
+  <div class="keyboard" id="keyboard" hidden aria-label="Sindhi keyboard">
+    <div class="kb-head">
+      <span class="eyebrow">Sindhi keyboard</span>
+      <button class="icon-btn" data-keyboard-toggle aria-label="Close keyboard">✕</button>
+    </div>
+    <div class="kb-keys sd" id="kb-keys" dir="rtl"></div>
+  </div>
+
+  <div class="popover" id="popover" role="dialog" hidden></div>
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      Dictionary data: <b>SindhiLanguage.org</b>, prepared and curated by Amar Fayaz Buriro, CC BY 4.0 ·
+      Translation: Meta NLLB-200 · Made by <b>Sneha Haseja</b> &amp; <b>Javeria Jatoi</b>.
+    </div>
+  </footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+{
+  // Terminal > Run Task... (or Ctrl+Shift+P, "Tasks: Run Task").
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Setup (first time only)",
+      "type": "shell",
+      "windows": {"command": "cmd /c setup.bat"},
+      "linux": {"command": "bash setup.sh"},
+      "osx": {"command": "bash setup.sh"},
+      "problemMatcher": [],
+      "presentation": {"reveal": "always", "panel": "dedicated"}
+    },
+    {
+      "label": "2. Run the app",
+      "type": "shell",
+      "windows": {"command": ".venv\\Scripts\\python.exe scripts\\serve.py"},
+      "linux": {"command": ".venv/bin/python scripts/serve.py"},
+      "osx": {"command": ".venv/bin/python scripts/serve.py"},
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {"reveal": "always", "panel": "dedicated"}
+    },
+    {
+      "label": "Run tests",
+      "type": "shell",
+      "windows": {"command": ".venv\\Scripts\\python.exe -m pytest -q"},
+      "linux": {"command": ".venv/bin/python -m pytest -q"},
+      "osx": {"command": ".venv/bin/python -m pytest -q"},
+      "problemMatcher": [],
+      "group": "test"
+    }
+  ]
+}

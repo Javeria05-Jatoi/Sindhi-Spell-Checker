@@ -1,0 +1,15 @@
+{
+ "model": "nllb-200-distilled-600M-ct2-int8",
+ "sentences": 1012,
+ "sd-en": {
+  "chrf++": 59.9,
+  "bleu": 36.7,
+  "seconds_per_sentence": 1.72
+ },
+ "en-sd": {
+  "chrf++": 46.0,
+  "bleu": 20.7,
+  "seconds_per_sentence": 2.44
+ },
+ "timing_note": "seconds_per_sentence re-measured on 20 sentences on an idle CPU; the full run was interrupted by the laptop sleeping"
+}
